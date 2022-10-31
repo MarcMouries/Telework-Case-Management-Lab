@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Use-case
+title: Takeoff Checklist
 parent: Introduction
 nav_order: 2
 ---
