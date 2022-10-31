@@ -1,11 +1,11 @@
-
 ---
 layout: default
-title: Buttons
+title: Create the application
 parent: Part 1. Build the Foundation
 nav_order: 1
 ---
-## Section 1 – Create the application
+
+# Create the application
 
 1. Click the \_Create app button
 
@@ -58,3 +58,6 @@ In this section of the exercise, you will review and turn off Guidance.
 1. Optional: Look in the top right corner for the "Enter full screen" button. Click it to maximize your viewing area.
 
  ![](RackMultipart20221028-1-d1lmac_html_52b59d05c9b91ce7.png)
+
+
+ [Next Create the Tables](Part_1.1_Create_the_Data.md){: .btn .btn-purple }

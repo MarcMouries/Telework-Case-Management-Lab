@@ -26,7 +26,7 @@ In this exercise, we will learn how to create the core data elements of our appl
 - Feel free to return here later to review some of the capabilities enabled with these templates.
 
 
-[NEXT create app](/docs/Part_1_Build_the_Foundation/Part_1.1_Create_App.md){: .btn .btn-purple }
+[Next Create the App](Part_1.1_Create_App.md){: .btn .btn-purple }
 
 
 
