@@ -22,7 +22,4 @@ Our goals for this workshop are to allow you to:
 3. Take back to your organization the knowledge of how you can make your world of work better.
 
 
-[Next: Use-case](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
-
-
-[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green }
+[Next: Use-case](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green }
