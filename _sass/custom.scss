@@ -1,0 +1,10 @@
+
+$black: #000;
+
+$green-sn: #62d84e;
+
+
+
+.btn-green-sn {
+    @include btn-color($black, $green-sn);
+  }
