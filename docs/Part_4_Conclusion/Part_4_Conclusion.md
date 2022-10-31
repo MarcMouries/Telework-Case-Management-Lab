@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Conclusion
+nav_order: 98
+---
 # Conclusion
 
 In this lab, we built, implemented, and tested an application using the fundamental part of an application: Data, User Experience, and Automation.
