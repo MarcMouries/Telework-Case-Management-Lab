@@ -4,8 +4,6 @@ title: Use-case
 parent: Introduction
 nav_order: 1
 ---
-
-
 ## Use-case
 
 Amanda is part of the Office of Regulatory Affairs and her team responsible for managing different cases across the agency. One of their responsibilities is to ensure employees are approved to work remotely and have the necessary I.T. equipment to protect and manage the records and other sensitive information stored on telework devices and transmitted across external networks. Currently, her team has no centralized case management solution for tracking the status of telework cases and tasks across 3 departments (the employee's department, the HR department, and the IT department). Today the team is using:
@@ -69,3 +67,5 @@ Along with the ServiceNow instance URL and credentials, the I.T department sent 
   2. Dates related to the case. Ex "submission date"
 
 Nicole made a list of the key data that the team is tracking and is eager to start
+
+[Next: Planning](./Part_0.2_Planning.md){: .btn .btn-green }
