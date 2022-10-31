@@ -26,7 +26,4 @@ Let's make sure you have everything you need to get started.
 
 
 
-[Next: Use-case](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
-
-
-[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green }
+[Next: Use-case](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green }
