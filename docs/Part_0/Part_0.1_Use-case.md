@@ -36,10 +36,8 @@ The lack of a single platform to manage their work results in:
 
 
 | --- | --- |
-| **Wasted Time** <br> wasted staff time coordinating and communicating updates. |
- | **Staff Burnout** <br>  Staff Burnout as much of the work focuses on the crisis of the moment instead of planned and leveled workload |
-| **Unnecessary Firefighting**  <br>Unnecessary Firefighting by the team to avoid security and safety issues |
- | **Poor Visibility**  <br>Lack of clear status of the work across departments. |
+| **Wasted Time** <br> wasted staff time coordinating and communicating updates. |  **Staff Burnout** <br>  Staff Burnout as much of the work focuses on the crisis of the moment instead of planned and leveled workload |
+| **Unnecessary Firefighting**  <br>Unnecessary Firefighting by the team to avoid security and safety issues | **Poor Visibility**  <br>Lack of clear status of the work across departments. |
 
 Amanda and her team have reached out to the IT department for help, but they have no availability to take on new projects. However, they gave Amanda access as a Citizen Developer to the organization's ServiceNow development instance.
 
