@@ -55,3 +55,7 @@ Coming soon
 Deprecated
 {: .label .label-red }
 </div>
+
+Click on this 
+{: .label .label-green }
+and then this 
