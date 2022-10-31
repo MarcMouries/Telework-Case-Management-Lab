@@ -1,4 +1,4 @@
-# Exercise 2: Create the User Experience
+# Part 2: Create the User Experience
 
 **purpose**
 

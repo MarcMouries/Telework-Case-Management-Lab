@@ -1,4 +1,4 @@
-# Exercise3–Automate the work
+# Part 3 – Automate the work
 
 **Purpose**
 
