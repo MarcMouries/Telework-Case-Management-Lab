@@ -2,6 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 logo: "docs/images/servicenow-logo.png"
 back_to_top: true
 back_to_top_text: "Back to top"
+color_scheme: dark
 footer_content: October 2022. Marc Mouriès, based on the Tokyo release.
 search_enabled: true
 search:
@@ -26,4 +27,4 @@ search:
   rel_url: true
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
-  button: false
+  button: true
