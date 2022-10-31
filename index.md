@@ -33,3 +33,6 @@ Our goals for this workshop are to allow you to:
 
 
 [Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
+
+
+[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green-000 }
