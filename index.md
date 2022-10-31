@@ -51,7 +51,7 @@ Coming soon
 Deprecated
 {: .label .label-red }
 </div>
-```markdown
+
 Default label
 {: .label }
 
@@ -69,4 +69,3 @@ Coming soon
 
 Deprecated
 {: .label .label-red }
-```
