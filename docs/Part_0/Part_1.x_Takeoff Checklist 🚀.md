@@ -26,4 +26,7 @@ Let's make sure you have everything you need to get started.
 
 
 
-[Start!](https://marcmouries.github.io/Telework-Case-Management-Lab/docs/Exercise_1.html){: .btn .btn-purple }
+[Next: Use-case](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
+
+
+[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green }

@@ -8,11 +8,11 @@ permalink: /docs/Part_1_Build_the_Foundation
 
 # Part 1: Build the Foundation
 
-**purpose**
+**Purpose**
 
 In this exercise, we will learn how to create the core data elements of our application.
 
-**getting started**
+**Getting started**
 
 1. If the  **Getting Started** dialog opens, close it by clicking the \_Get Started\_ button.
 

@@ -22,41 +22,7 @@ Our goals for this workshop are to allow you to:
 3. Take back to your organization the knowledge of how you can make your world of work better.
 
 
-[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
+[Next: Use-case](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
 
 
-[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green-000 }
-
-
-
-# Labels
-
-
-
-Click on  {: .label } then on {: .label .label-blue } and on {: .label .label-green }  and on {: .label .label-purple }  and on  {: .label .label-yellow }  and then on {: .label .label-red }
-
-Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue.
-
-<div class="code-example" markdown="1">
-Default label
-{: .label }
-
-Blue label
-{: .label .label-blue }
-
-Stable
-{: .label .label-green }
-
-New release
-{: .label .label-purple }
-
-Coming soon
-{: .label .label-yellow }
-
-Deprecated
-{: .label .label-red }
-</div>
-
-Click on this 
-{: .label .label-green }
-and then this 
+[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green }

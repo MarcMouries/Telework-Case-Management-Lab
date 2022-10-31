@@ -10,32 +10,36 @@ nav_order: 1
 
 Amanda is part of the Office of Regulatory Affairs and her team responsible for managing different cases across the agency. One of their responsibilities is to ensure employees are approved to work remotely and have the necessary I.T. equipment to protect and manage the records and other sensitive information stored on telework devices and transmitted across external networks. Currently, her team has no centralized case management solution for tracking the status of telework cases and tasks across 3 departments (the employee's department, the HR department, and the IT department). Today the team is using:
 
-| **Emails** | **Spreadsheet** |
-| --- | --- |
-|
-1. Receive Submissions
-2. Track approvals & tasks across departments
+**PDF / Word Form**
+- A PDF form to fill the details about the request
+
+**Emails**
+1. Email to send the request in PDF format
+2. Email to receive Submissions
+3. Communicate task updates
+
+ **Spreadsheet**
+1. Spreadsheet to track approvals & tasks across departments
   1. IT for Remote Access request
   2. HR for Safety & Manager
-3. Communicate task updates
- |
-- Manage updates to Telework cases
- |
-| **PDF / Word Form**
-- Telework request form
- |
-|
- |
+ 2. Manage updates to Telework cases
 
 ### Challenges
 
 The lack of a single platform to manage their work results in:
 
-| **Wasted Time** wasted staff time coordinating and communicating updates. |
- | **Staff Burnout** Staff Burnout as much of the work focuses on the crisis of the moment instead of planned and leveled workload |
-| --- | --- | --- |
-| **Unnecessary Firefighting** Unnecessary Firefighting by the team to avoid security and safety issues |
- | **Poor Visibility** Lack of clear status of the work across departments. |
+
+| xxx       | yyy                           | 
+| ------------- | -------------------------------- | 
+| **Wasted Time** <br>wasted staff time coordinating and communicating updates.           | Marc.Mouries@servicernow.com     | 
+| 2.0           | Dale.Stubblefield@servicenow.com | 
+
+
+| --- | --- |
+| **Wasted Time** <br> wasted staff time coordinating and communicating updates. |
+ | **Staff Burnout** <br>  Staff Burnout as much of the work focuses on the crisis of the moment instead of planned and leveled workload |
+| **Unnecessary Firefighting**  <br>Unnecessary Firefighting by the team to avoid security and safety issues |
+ | **Poor Visibility**  <br>Lack of clear status of the work across departments. |
 
 Amanda and her team have reached out to the IT department for help, but they have no availability to take on new projects. However, they gave Amanda access as a Citizen Developer to the organization's ServiceNow development instance.
 
