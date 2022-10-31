@@ -36,6 +36,6 @@ Our goals for this workshop are to allow you to:
 
 
 [Start]({{ site.baseurl }}{% link CHANGELOG.md %}){: .btn .btn-purple }
-[a relative link](other_file.md)
 [a relative link](/docs/Part_1_Build_the_Foundation/Part_1.1_Exercise_1.md)
-[a relative link](/docs/Part_1_Build_the_Foundation/Part_1.1_Exercise_1.md){: .btn .btn-purple }
+
+[Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
