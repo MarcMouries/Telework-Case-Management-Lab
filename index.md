@@ -1,3 +1,11 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+permalink: /
+---
+
+
 ![](RackMultipart20221028-1-d1lmac_html_a032cad86d0e8a1.png)
 
 # Creator Workflows Lab Guide

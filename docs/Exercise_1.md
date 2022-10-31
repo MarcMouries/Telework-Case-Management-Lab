@@ -1,4 +1,4 @@
-# Exercise 1: Build the Foundation
+# Part 1: Build the Foundation
 
 **purpose**
 
@@ -8,7 +8,8 @@ In this exercise, we will learn how to create the core data elements of our appl
 
 1. If the  **Getting Started** dialog opens, close it by clicking the \_Get Started\_ button.
 
-![](RackMultipart20221028-1-d1lmac_html_6d6f46a7ab4e2bb6.png)
+![relative](images/1_Getting_Started.png)
+
 
 1. This reveals the homepage of App Engine Studio. From this page:
 
@@ -20,7 +21,8 @@ In this exercise, we will learn how to create the core data elements of our appl
 
 1. Click the \_Create app button
 
-![](RackMultipart20221028-1-d1lmac_html_3dbf61a4c97af290.png)
+    ![relative](images/1_Create_App.png)
+
 
 1. Configure the app
 
@@ -37,7 +39,8 @@ _Note: Your initials will prevent you from using the same app name as another la
 
 1. The screen should look like below
 
-![](RackMultipart20221028-1-d1lmac_html_711d284dcd16e550.png)
+    ![relative](images/1_New_App_Final_State.png)
+
 
 1. Click the \_Continue button
 2. The screen should look like below
