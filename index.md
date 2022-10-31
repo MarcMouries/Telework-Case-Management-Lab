@@ -32,10 +32,4 @@ Our goals for this workshop are to allow you to:
 3. Take back to your organization the knowledge of how you can make your world of work better.
 
 
-[Start!](https://marcmouries.github.io/Telework-Case-Management-Lab/docs/){: .btn .btn-purple }
-
-
-[Start]({{ site.baseurl }}{% link CHANGELOG.md %}){: .btn .btn-purple }
-[a relative link](/docs/Part_1_Build_the_Foundation/Part_1.1_Exercise_1.md)
-
 [Start](/docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-purple }
