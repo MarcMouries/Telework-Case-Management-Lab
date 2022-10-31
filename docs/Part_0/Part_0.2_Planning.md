@@ -30,4 +30,4 @@ Along with the ServiceNow instance URL and credentials, the I.T department sent 
 
 Nicole made a list of the key data that the team is tracking and is eager to start
 
-[Next: Checklist](./Part_1.x_Takeoff%20Checklist%20%F0%9F%9A%80.md){: .btn .btn-green }
+[Next: Checklist](./Part_0.3_Takeoff_Checklist.md){: .btn .btn-green }
