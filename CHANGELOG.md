@@ -1,3 +1,8 @@
+---
+layout: default
+title: CHANGELOG
+nav_order: 99
+---
 # CHANGELOG
 
 | Version       | Author                           | Changes                              |
