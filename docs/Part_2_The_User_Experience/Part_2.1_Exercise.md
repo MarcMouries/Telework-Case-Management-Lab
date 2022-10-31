@@ -1,3 +1,10 @@
+---
+layout: default
+title: Create a Workspace
+parent: Part 2. Create the User Experience
+nav_order: 1
+---
+
 # Part 2: Create the User Experience
 
 **purpose**

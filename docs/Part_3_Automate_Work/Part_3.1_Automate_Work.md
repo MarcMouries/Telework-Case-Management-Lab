@@ -1,3 +1,9 @@
+---
+layout: default
+title: Create a Workflow
+parent: Part 3. Automate Work
+nav_order: 1
+---
 # Part 3 – Automate the work
 
 **Purpose**
