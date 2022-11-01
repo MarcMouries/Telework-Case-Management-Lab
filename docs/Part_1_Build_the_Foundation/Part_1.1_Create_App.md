@@ -9,7 +9,7 @@ nav_order: 1
 
 1. Click the **Create app** button
 
-![relative](images/1_Create_App.png)
+    ![relative](images/1_Create_App.png)
 
 2. Configure the app
 
