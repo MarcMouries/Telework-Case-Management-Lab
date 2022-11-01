@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TEST
-nav_order: 999
+nav_exclude: true
 ---
 ### Labels
 
