@@ -9,7 +9,8 @@ $sidebar-color: $green-sn !default;
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-color: #022D42;
+  _background-color: #022D42; /* */
+  background-color: #90CCD3
 }
 
 .aes_button {
