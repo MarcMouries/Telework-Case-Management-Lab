@@ -26,5 +26,6 @@ button
 {: .round-button }
 and then do this
 
-Click on the [Link Create App](http://example.com/){: .round-button } button
+Click on the [Create App](http://#/){: .round-button } button
 
+Click on the [Create App](#){: .round-button } button
