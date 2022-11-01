@@ -8,6 +8,7 @@ nav_order: 1
 # Create the application
 
 1. Click the **Create app** button
+
 ![relative](images/1_Create_App.png)
 
 
@@ -20,8 +21,9 @@ nav_order: 1
 
 3. **Optional** – Add an image to the application. Images can be a great way to personalize and provide character for your application.
 
-  1. Click the app logo or browse to upload tile.
-  2. Browse to and select the  **telework App Logo.png** file you downloaded.
+    a. Click the app logo or browse to upload tile.
+
+    b. Browse to and select the  **telework App Logo.png** file you downloaded.
 
 4. The screen should look like below
 
@@ -30,6 +32,7 @@ nav_order: 1
 5. Click the **Continue** button
 
 6. The screen should look like below
+
 ![relative](images/1_add_roles.png)
 
 7. Click the **Continue** button
