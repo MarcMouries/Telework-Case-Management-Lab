@@ -50,9 +50,7 @@ nav_order: 1
 
     ![relative](images/automation_click_Add_a_Trigger.png)
 
-    Flow designer provides different options for triggering a workflow. You can kick off a flow based on a record being created or updated, , run on a scheduled basis, or based on a unique application component like an SLA task being triggered or an inbound email being received by the instance.
-
-    For our use case we are going to:
+    Flow designer provides different options for triggering a workflow. You can kick off a flow based on a record being created or updated, , run on a scheduled basis, or based on a unique application component like an SLA task being triggered or an inbound email being received by the instance. For our use case we are going to:
 
     1. select "Created" from the Record section
 
