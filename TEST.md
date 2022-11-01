@@ -19,8 +19,6 @@ yellow
 red
 {: .label .label-red }
 
-Click the I'm a label {: .label }
-
 click on this
 button
 {: .round-button }
