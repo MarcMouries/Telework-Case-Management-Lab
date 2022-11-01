@@ -34,9 +34,9 @@ nav_order: 1
 
     2. Description: Manage the Telework flow of work
 
-    3. Click [Continue](#){: .aes_button }
-|
-6. **click** the **Edit this flow** button to begin the configuration process
+    3. Click [Continue](#){: .aes_button}
+
+6. **Click** the **Edit this flow** button to begin the configuration process
 
     ![relative](images/automation_your_flow_is_ready.png)
 
@@ -44,7 +44,7 @@ nav_order: 1
 
 8. Let's skip the tour for now, by clicking the **Skip tour** button.
 
-The first thing we'll do is set up our trigger to define when this flow will run.
+    The first thing we'll do is set up our trigger to define when this flow will run.
 
 9. Click on " **Add a trigger**" in the upper left of the flow designer screen.
 
@@ -55,7 +55,9 @@ The first thing we'll do is set up our trigger to define when this flow will run
     For our use case we are going to:
 
         1. select "Created" from the Record section
+
         2. and select our **Telework Case** table
+        
         3. Click \_ Done \_ to close the trigger
 
         ![relative](images/automation_configure_Trigger.png)
