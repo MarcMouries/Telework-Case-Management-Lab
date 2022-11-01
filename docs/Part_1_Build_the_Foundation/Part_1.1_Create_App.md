@@ -7,7 +7,7 @@ nav_order: 1
 
 # Create the application
 
-1. Click the **Create app** button
+1. Click on the [Create App](#){: .aes_button } button
 
     ![relative](images/1_Create_App.png)
 

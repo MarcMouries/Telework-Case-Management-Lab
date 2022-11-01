@@ -14,72 +14,85 @@ We will create the core tables for our application. To create a table in App Eng
   ![relative](images/data_add_icon.png)
 
 2. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
- 
+
   ![relative](images/data_create_table_tile.png)
 
-3. Click the Get started button.
+3. Click on the [Get started](#){: .aes_button } button
 
 4. On the _How do you want to create a table?_ screen, select the  **Upload a spreadsheet**  tile.
 
   ![relative](images/data_upload_a_spreadsheet.png)
 
-4. Click on the [Continue](#){: .aes_button } button
+5. Click on the [Continue](#){: .aes_button } button
 
-1. On the _Let's choose the spreadsheet you want to upload_ screen, click the  **Drag and drop or browse to upload spreadsheet**  link
+6. On the _Let's choose the spreadsheet you want to upload_ screen, click the  **Drag and drop or browse to upload spreadsheet** link
 
-![](RackMultipart20221028-1-d1lmac_html_de939b34a16d5ba0.png)
+  ![relative](images/data_drag_drop_spreadsheet.png)
 
-1. Browse and select the  **Telework Data.xlsx**  file you downloaded
+7. Browse and select the  **Telework Data.xlsx**  file you downloaded
 
-![](RackMultipart20221028-1-d1lmac_html_5df00921005dc0c4.png)
+  ![relative](images/data_drag_drop_spreadsheet.png)
 
-1. Click \_Continue\_
+8. Click [Continue](#){: .aes_button } button
 
-1. Our spreadsheet has multiple sheets. **We only need the first one**"Telework Arrangement".
-2. Select ☑ **Import spreadsheet data** in the "Telework Arrangement" box.
-3. Click on **Convert to table** to the right of the Telework Arrangement Sheet name.
+9. Our spreadsheet has multiple sheets. **We only need the first one** "Telework Arrangement".
 
-![](RackMultipart20221028-1-d1lmac_html_80cdc3a4a15485d6.png)
+10. Select ☑ **Import spreadsheet data** in the "Telework Arrangement" box.
 
-1. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
-2. Check _ **Display** _: To use this field as the display value for the table when used as a reference field
+11. Click on **Convert to table** to the right of the Telework Arrangement Sheet name.
 
-![](RackMultipart20221028-1-d1lmac_html_24d17a296112ecad.png)
+  ![relative](images/data_Convert_to_table.png)
 
-1. Click \_Continue\_
-2. Set the table label to **Arrangement**.The table name will auto populate.
+12. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
 
-![](RackMultipart20221028-1-d1lmac_html_c9a1870c6f219756.png)
+13. Check _ **Display** _: To use this field as the display value for the table when used as a reference field
 
-1. Click \_Continue\_
-2. Click the "All" checkbox for the "admin" role.
-3. Click the "Read" checkbox for the "user" role.
+  ![relative](images/data_Check_Display.png)
 
-![](RackMultipart20221028-1-d1lmac_html_9f4713c15c814d25.png)
+14. Click [Continue](#){: .aes_button } button
 
-1. Click \_Continue\_
-2. A loading screen will appear while the table is being created. When it completes, click \_Done\_
-3. We haven't converted all the sheets in the spreadsheets, so we'll see this message pop up
+15. Set the table label to **Arrangement**.The table name will auto populate.
 
-![](RackMultipart20221028-1-d1lmac_html_37ed133783f17dd6.png)
+  ![relative](images/data_Set_the_table_label.png)
 
-1. Click \_Yes, leave\_
-2. Again, click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
+16. Click [Continue](#){: .aes_button } button
 
-![](RackMultipart20221028-1-d1lmac_html_85ba8501cec36f39.png)
+17. Click the "All" checkbox for the "admin" role.
+18. Click the "Read" checkbox for the "user" role.
 
-1. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
- ![](RackMultipart20221028-1-d1lmac_html_829981879f222cfa.png)
-2. Click the Begin button.
-3. On the _How do you want to create a table?_ screen, Select _ **Create from an existing table** _.
+  ![relative](images/data_add_table_permissions.png)
 
-![](RackMultipart20221028-1-d1lmac_html_adebc1af9ec55c46.png)
+19. Click [Continue](#){: .aes_button } button
 
-1. Click the \_Continue button
+20. A loading screen will appear while the table is being created. When it completes, click [Done](#){: .aes_button }
 
-1. Type **Task,** then select the table **Task [task]** and Click \_Continue\_
+21. We haven't converted all the sheets in the spreadsheets, so we'll see this message pop up
 
-![](RackMultipart20221028-1-d1lmac_html_b9af041d53d01ee6.png)
+  ![relative](images/data_leave_without_converting_other_sheets.png)
+
+22. Click [Yes, leave](#){: .aes_button }
+
+23. Again, click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
+
+  ![relative](images/data_add_icon.png)
+
+24. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
+
+  ![relative](images/data_Create_a_table_title.png)
+
+25. Click [Begin](#){: .aes_button} button
+
+26. On the _How do you want to create a table?_ screen, Select _ **Create from an existing table** _.
+
+  ![relative](images/data_Create_from_an_existing_table.png)
+
+27. Click the [Continue](#){: .aes_button } button
+
+28. Type **Task,** then select the table **Task [task]** and Click [Continue](#){: .aes_button }
+
+  ![relative](images/data_select_the_table_Task.png)
+
+# TODO
 
 1. Give the table the following properties
 
