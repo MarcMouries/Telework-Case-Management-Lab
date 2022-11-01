@@ -26,4 +26,4 @@ Let's make sure you have everything you need to get started.
 
 
 
-[Next: Use-case]( ../Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green-sn }
+[Next: Use-case]( ../Part_1_Build_the_Foundation){: .btn .btn-green-sn }

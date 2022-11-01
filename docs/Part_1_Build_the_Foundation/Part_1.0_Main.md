@@ -3,7 +3,7 @@ layout: default
 title: Part 1. Build the Foundation
 nav_order: 3
 has_children: true
-permalink: /docs/Part_1_Build_the_Foundation
+
 ---
 
 # Part 1: Build the Foundation

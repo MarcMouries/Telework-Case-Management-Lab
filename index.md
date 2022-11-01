@@ -24,4 +24,4 @@ Our goals for this workshop are to allow you to:
 
 [Next: Use-case](/docs/Part_0/Part_0.1_Use-case.md){: .btn .btn-green }
 
-[Next: Use-case](/docs/Part_0/Part_0.1_Use-case.md){: .btn .btn-green-sn }
+[Next: Use-case](/docs/Part_0/Part_0.1_Use-case.md){: .btn-green-sn .btn }
