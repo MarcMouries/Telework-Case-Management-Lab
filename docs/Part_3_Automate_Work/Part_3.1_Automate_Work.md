@@ -112,14 +112,16 @@ The first thing we'll do is set up our trigger to define when this flow will run
     6. Select " **Manager**"
     ![relative](images/approval_Select_Manager.png)
 
-We just configured an approval request to the manager of the person who submitted the form
+    We just configured an approval request to the manager of the person who submitted the form
+
+    7. Click: [Done](#){: .aes_button }
+
+
+14. Now let's configure what happens when the manager approves
 
 
 #TODO
 
-  1. Click: \_Done\_
-
-1. Now let's configure what happens when the manager approves
 
   1. Under the Ask for Approval, **click** on the **"Add an Action. Flow logic or Sub flow**
   2. Select " **Flow Logic**"
