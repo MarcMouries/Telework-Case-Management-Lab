@@ -6,6 +6,13 @@ $green-sn: #62d84e;
 $sidebar-color: $green-sn !default;
 
 
+.round-button {
+  display: inline-block;
+  background-color: #01778e;
+  border-radius: 12px;
+  vertical-align: middle;
+
+}
 .btn-green-sn {
     @include btn-color($black, $green-sn);
   }
