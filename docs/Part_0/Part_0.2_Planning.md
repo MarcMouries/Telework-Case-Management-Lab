@@ -9,8 +9,6 @@ nav_order: 2
 
 Along with the ServiceNow instance URL and credentials, the I.T department sent you an email to start your Citizen Developer Journey on ServiceNow App Engine.
 
-![Shape1](RackMultipart20221028-1-d1lmac_html_9635ab4c0a180660.gif)
-
 💡 **Prework to start your Citizen Developer Journey on ServiceNow**
 
 **Prework**
