@@ -7,22 +7,17 @@ nav_order: 1
 
 # Create the application
 
-Click the I'm a label {: .label } 
-
-I'm a label {: .round-button }
-
-
 1. Click the **Create app** button
 ![relative](images/1_Create_App.png)
 
 
 2. Configure the app
 
-  1. _Name_: **[your initials]****Telework Request**
+    1. _Name_: **[your initials]****Telework Request**
 
-_Note: Your initials will prevent you from using the same app name as another lab attendee._
+    _Note: Your initials will prevent you from using the same app name as another lab attendee._
 
-  1. _Description_: **Manage Telework requests across departments**
+    2. _Description_: **Manage Telework requests across departments**
 
 3. **Optional** – Add an image to the application. Images can be a great way to personalize and provide character for your application.
 
