@@ -11,17 +11,22 @@ We will create the core tables for our application. To create a table in App Eng
 
 1. Click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
 
-![relative](images/)
+![relative](images/data_add_icon.png)
 
-![](RackMultipart20221028-1-d1lmac_html_a8c68acd5d28b638.png)
 
 1. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
  ![](RackMultipart20221028-1-d1lmac_html_829981879f222cfa.png)
+
+![relative](images/data_create_table_tile.png)
+
 2. Click the Get started button.
+
 3. On the _How do you want to create a table?_ screen, select the  **Upload a spreadsheet**  tile.
+
+![relative](images/data_upload_a_spreadsheet.png)
+
 4. Click the \_Continue button
 
-![](RackMultipart20221028-1-d1lmac_html_7b497aa45c4ae83d.png)
 
 1. On the _Let's choose the spreadsheet you want to upload_ screen, click the  **Drag and drop or browse to upload spreadsheet**  link
 
