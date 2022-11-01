@@ -13,11 +13,10 @@ nav_order: 1
 
 2. Configure the app
 
-    1. _Name_: **[your initials]****Telework Request**
-
+    a. _Name_: **[your initials]****Telework Request**
     _Note: Your initials will prevent you from using the same app name as another lab attendee._
 
-    2. _Description_: **Manage Telework requests across departments**
+    b. _Description_: **Manage Telework requests across departments**
 
 3. **Optional** – Add an image to the application. Images can be a great way to personalize and provide character for your application.
 
@@ -27,7 +26,6 @@ nav_order: 1
 4. The screen should look like below
 
 ![relative](./images/1_New_App_Final_State.png)
-
 
 5. Click the **Continue** button
 
