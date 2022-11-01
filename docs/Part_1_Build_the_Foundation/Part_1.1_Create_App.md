@@ -60,7 +60,7 @@ In this section of the exercise, you will review and turn off Guidance.
 
 13. Optional: Look in the top right corner for the "Enter full screen" button. Click it to maximize your viewing area.
 
-![relative](images/full_screen.png)
+![relative](images/full-screen.png)
 
 
  [Next Create the Tables](Part_1.2_Create_the_Data.md){: .btn .btn-green-sn }
