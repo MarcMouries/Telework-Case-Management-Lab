@@ -25,14 +25,4 @@ Let's make sure you have everything you need to get started.
     ☑ File 5: Telework icon.png
 
 
-
-[Let's get started 1]( ../Part_1_Build_the_Foundation){: .btn .btn-green-sn }
-
-[Let's get started 2]( ../Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green-sn }
-
-[Let's get started 3]( ../Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green-sn }
-
-[Let's get started 4]( ../../docs/Part_1_Build_the_Foundation){: .btn .btn-green-sn }
-
-[Let's get started 4]( ../../docs/Part_1_Build_the_Foundation/Part_1.0_Main.md){: .btn .btn-green-sn }
-
+[Let's get started 2]( ../Part_1_Build_the_Foundation/Part_1.0_Main.html){: .btn .btn-green-sn }
