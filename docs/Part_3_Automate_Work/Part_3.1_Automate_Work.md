@@ -28,56 +28,48 @@ nav_order: 1
 
     Logic and automation use computers to manage repeatable processes instead of using people. Logic and automation can reduce human error and speed up processes. App Engine Studio allows creators to add process flows to their applications.
 
-#TODO
+5. Create the flow with the following information:
 
-1. Set up the flow
+    1. Name: Main
 
+    2. Description: Manage the Telework flow of work
+
+    3. Click [Continue](#){: .aes_button }
 |
+6. **click** the **Edit this flow** button to begin the configuration process
 
-  1. Name
- | **Main** |
-| --- | --- |
-|
+    ![relative](images/automation_your_flow_is_ready.png)
 
-  1. Description
- | **Manage the flow of work** |
-|
+7. Since this is the first time we've launched Flow Designer, we're given the opportunity to go through the Flow Designer product tour.
 
-  1. Click \_Continue\_
- |
-
-1. **click** the **Edit this flow** button to begin the configuration process
-
-![](RackMultipart20221028-1-d1lmac_html_ea5bd0d382f5405b.png)
-
-1. Since this is the first time we've launched Flow Designer, we're given the opportunity to go through the Flow Designer product tour.
-
-
-2. Let's skip the tour for now, by clicking the Skip tour button.
+8. Let's skip the tour for now, by clicking the **Skip tour** button.
 
 The first thing we'll do is set up our trigger to define when this flow will run.
 
-1. Click on " **Add a trigger**" in the upper left of the flow designer screen. ![](RackMultipart20221028-1-d1lmac_html_d5d2dc069803d64b.png)
+9. Click on " **Add a trigger**" in the upper left of the flow designer screen.
 
-Flow designer provides different options for triggering a workflow. You can kick off a flow based on a record being created or updated, , run on a scheduled basis, or based on a unique application component like an SLA task being triggered or an inbound email being received by the instance.
+    ![relative](images/automation_click_Add_a_Trigger.png)
 
-For our use case we are going to :
+    Flow designer provides different options for triggering a workflow. You can kick off a flow based on a record being created or updated, , run on a scheduled basis, or based on a unique application component like an SLA task being triggered or an inbound email being received by the instance.
 
-  1. select "Created" from the Record section
-  2. and select our **Telework Case** table
-  3. Click \_ Done \_ to close the trigger
+For our use case we are going to:
 
-![](RackMultipart20221028-1-d1lmac_html_65fd0d872f4dcb02.png)
+    1. select "Created" from the Record section
+    2. and select our **Telework Case** table
+    3. Click \_ Done \_ to close the trigger
 
-Note that there might be circumstances under which we need to have a particular flow to execute.
+    ![relative](images/automation_configure_Trigger.png)
 
-In this case we can use the "Add filters" option to define conditions that must be met for this flow to execute. This helps making flow easier to maintain and reuse.
 
-For example, we could use a flow specific to new request, one for renewal or request.
+    Note that there might be circumstances under which we need to have a particular flow to execute.
 
-![](RackMultipart20221028-1-d1lmac_html_8125caf7712d33dc.png)
+    In this case we can use the "Add filters" option to define conditions that must be met for this flow to execute. This helps making flow easier to maintain and reuse.
 
-1. Now that we have configured the trigger, we need to set up what will happen when this flow fires.
+    For example, we could use a flow specific to new request, one for renewal or request.
+
+
+
+10. Now that we have configured the trigger, we need to set up what will happen when this flow fires.
 
   1. Click **Add an Action, Flow logic, or Subflow**
   2. Choose " **Action**"
