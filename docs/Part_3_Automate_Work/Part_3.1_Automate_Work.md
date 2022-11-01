@@ -4,35 +4,31 @@ title: Create a Workflow
 parent: Part 3. Automate Work
 nav_order: 1
 ---
-# Part 3 – Automate the work
+# Part 3 – Create a Workflow
 
-**Purpose**
+1. Back to the App Engine tab, **click** on the [Return to my application](#){: .aes_button }
 
-In this exercise, we will move beyond simply digitizing data entry and we will focus on ways we can drive optimization though automation
+    ![relative](images/work_Return_to_my_application.png)
 
-## Section1–BuildinganAutomation Flow
+2. In the Automation section, **click** the **Add a process or third-party integration** link
 
-1. Back to the App Engine tab, **click** on the \_ Return to my application \_
+    ![relative](images/automation_click_Add_a_process.png)
 
-![](RackMultipart20221028-1-d1lmac_html_c95dc1f45f320adb.png)
+    From the Add Automation Screen, we are provided with a variety of process automation templates we can use to speed creation of common activities.
 
-1. In the Automation section, **click** the **Add a process or third-party integration** link
+3. Click "Flow"
 
-![](RackMultipart20221028-1-d1lmac_html_5b2e2567b75bd0fd.png)
+    ![relative](images/automation_click_Flow_Tile.png)
 
-From the Add Automation Screen, we are provided with a variety of process automation templates we can use to speed creation of common activities.
+4. Click **Build**** from ****scratch** to create a new workflow
 
-1. Click "Flow"
- ![](RackMultipart20221028-1-d1lmac_html_991f4007666333e8.png)
+    ![relative](images/automation_Click_Build_From_Scratch.png)
 
+    A flow is a sequence of actions to automate processes on the Now Platform.
 
-2. Click **Build**** from ****scratch** tocreateanewcustomflow
+    Logic and automation use computers to manage repeatable processes instead of using people. Logic and automation can reduce human error and speed up processes. App Engine Studio allows creators to add process flows to their applications.
 
-![](RackMultipart20221028-1-d1lmac_html_85ae604dcb17d8e.png)
-
-A flow is a sequence of actions to automate processes on the Now Platform.
-
-Logic and automation use computers to manage repeatable processes instead of using people. Logic and automation can reduce human error and speed up processes. App Engine Studio allows creators to add process flows to their applications.
+#TODO
 
 1. Set up the flow
 

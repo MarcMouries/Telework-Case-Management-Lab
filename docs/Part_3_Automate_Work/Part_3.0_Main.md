@@ -8,4 +8,9 @@ permalink: /docs/Part_4_Automate_Work
 
 # Part 3. Automate Work
 
-[Next ](Part_3.1_Automate_Work.md){: .btn .btn-purple }
+**Purpose**
+
+In this exercise, we will move beyond simply digitizing data entry and we will focus on ways we can drive optimization though automation
+
+[Next](./Part_3.1_Automate_Work.md){: .btn .btn-green-sn }
+
