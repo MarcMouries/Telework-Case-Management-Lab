@@ -2,7 +2,7 @@
 layout: default
 title: Import Data
 parent: Part 1. Build the Foundation
-nav_order: 3
+nav_order: 4
 ---
 
 ## Section 3 – Import Legacy Data
