@@ -21,7 +21,7 @@ red
 
 Click the I'm a label {: .label }
 
-I'm a label
+click on this
+button
 {: .round-button }
-along with another label
-{: .round-button }
+and then do this
