@@ -60,4 +60,4 @@ In this section of the exercise, you will review and turn off Guidance.
  ![](RackMultipart20221028-1-d1lmac_html_52b59d05c9b91ce7.png)
 
 
- [Next Create the Tables](Part_1.2_Create_the_Data.md){: .btn .btn-purple }
+ [Next Create the Tables](Part_1.2_Create_the_Data.md){: .btn .btn-green-sn }

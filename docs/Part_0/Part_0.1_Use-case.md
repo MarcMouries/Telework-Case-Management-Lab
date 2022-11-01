@@ -36,4 +36,4 @@ Today your mission, and you have accepted it, is to play the role of Amanda and 
 
 Let's make her world of work better…
 
-[Next: Planning](./Part_0.2_Planning.md){: .btn .btn-green }
+[Next: Planning](./Part_0.2_Planning.md){: .btn .btn-green-sn }

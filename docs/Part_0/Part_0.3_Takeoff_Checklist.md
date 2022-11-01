@@ -9,8 +9,7 @@ nav_order: 3
 
 Let's make sure you have everything you need to get started.
 
-☑ ![](RackMultipart20221028-1-d1lmac_html_ce92986e4935f92b.png)A ServiceNow instance URL and credentials.
-
+☑ A ServiceNow instance URL and credentials.
 
 ☑ You have the following files
 
@@ -25,4 +24,4 @@ Let's make sure you have everything you need to get started.
     ☑ File 5: Telework icon.png
 
 
-[Let's get started 2]( ../Part_1_Build_the_Foundation/Part_1.0_Main.html){: .btn .btn-green-sn }
+[Let's get started]( ../Part_1_Build_the_Foundation/Part_1.0_Main.html){: .btn .btn-green-sn }
