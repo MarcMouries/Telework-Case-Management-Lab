@@ -109,7 +109,7 @@ We will create the core tables for our application. To create a table in App Eng
 
 33. Click [Continue](#){: .aes_button }
 
-34. Once the table is ready, we'lladdourdatacolumnstothisnewtablebyclicking **Edit**** table**.
+34. Once the table is ready, let's add the fields (columns) we need to this new table by clicking **Edit**** table**.
 
     ![relative](images/data_edit_table.png)
 
@@ -117,111 +117,114 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_intro_table_builder.png)
 
-1. Review the introduction to Table Builder then **click** the **Next** button to walk through each information pane. From the last screen, **click** the **Get Started** button.
-2. Now let's add the data columns for our application. Start by **clicking** the **Add new field** link at the top of the screen
+36. Review the introduction to Table Builder then **click** the **Next** button to walk through each information pane. From the last screen, **click** the **Get Started** button.
 
-![](RackMultipart20221028-1-d1lmac_html_e46aaa0edeb6c225.png)
+37. Now let's add the data columns for our application. Start by **clicking** the **Add new field** link at the top of the screen
 
-1. In the new row created, add the following values:
+    ![relative](images/data_Add_new_field.png)
 
-  1. Label: **Arrangement**
-  2. Hit the [ENTER] key
-  3. Column name: arrangement (auto-generated)
-  4. Hit the arrow key ▸ [twice]
-  5. Hit the [ENTER] key
-  6. Type: **Reference** then select Arrangement
+38. In the new row created, add the following values:
 
-1. Again, **click** the **Add new field** link at the top of the screen
-2. In the new row created, add the following values:
+    1. Label: **Arrangement**
+    2. Hit the [ENTER] key
+    3. Column name: arrangement (auto-generated)
+    4. Hit the arrow key ▸ [twice]
+    5. Hit the [ENTER] key
+    6. Type: **Reference** then select Arrangement
 
-  1. Label: " **Number of Days**"
-  2. Hit the [ENTER] key
-  3. Column name: (auto-generated)
-  4. Type: **Integer**
+39. Again, **click** the **Add new field** link at the top of the screen
 
-# TODO
+40. In the new row created, add the following values:
 
-1. Again, **click** the **Add new field** link at the top of the screen
-2. In the new row created, add the following values:
+    1. Label: " **Number of Days**"
+    2. Hit the [ENTER] key
+    3. Column name: (auto-generated)
+    4. Type: **Integer**
 
-  1. Label: **Reason**
-  2. Hit the [ENTER] key
-  3. Column name: reason (auto-generated)
-  4. Hit the arrow key ▸ [twice]
-  5. Hit the [ENTER] key
-  6. Type: **Choice**
-  7. Choice Type: Dropdown with -- None –
-  8. Choices:
-    1. Emergency
-    2. Occasional
-    3. Medical
-    4. Reasonable Accommodation
-    5. COVID
+41. Again, **click** the **Add new field** link at the top of the screen
 
-1. Click \_Done\_
-2. We now have all the data elements we need to manage our use case.
-3. Click the \_Save\_ button at the top right to finalize your configurations.
-4. Congratulations, you've built the first tables in your solution.
+42. In the new row created, add the following values:
 
-**Let's take a look at the form that has been generated for our table and adjust the layout.**
+    1. Label: **Reason**
+    2. Hit the [ENTER] key
+    3. Column name: reason (auto-generated)
+    4. Hit the arrow key ▸ [twice]
+    5. Hit the [ENTER] key
+    6. Type: **Choice**
+    7. Choice Type: Dropdown with -- None –
+    8. Choices:
+        1. Emergency
+        2. Occasional
+        3. Medical
+        4. Reasonable Accommodation
+        5. COVID
 
-1. At the top-center of the table, click **Form views**
+43. Click [Done](#){: .aes_button }
 
-![](RackMultipart20221028-1-d1lmac_html_a00fc6291231fe4f.png)
+44. We now have all the data elements we need to manage our use case.
 
-As we created our table by extending the Task table, we inherited some fields we don't need for our use case.
+45. Click the [_Save](#){: .aes_button } button at the top right to finalize your configurations.
 
-1. Remove the following fields (by clicking the X)
+46. Congratulations, you've built the first tables in your solution.
 
- ![](RackMultipart20221028-1-d1lmac_html_fd9e6d0375905ef0.png)
+    **Let's take a look at the form that has been generated for our table and adjust the layout.**
+
+47. At the top-center of the table, click **Form views**
+
+    ![relative](images/data_layout_click_form_views.png)
+
+    As we created our table by extending the Task table, we inherited some fields we don't need for our use case.
+
+48. Remove the following fields (by clicking the X)
+
+    ![relative](images/data_layout_remove_fields.png)
 
     1. Number
     2. Configuration Item,
     3. Active,
     4. Description
 
-Let's add the fields we need
+49. We can easily add the fields we need. In the Fields tab to the left is where existing fields can be added. Notice how there are 63 fields available to use
 
-1. The Fields tab to the left is where existing fields can be added. Notice how there are 63 fields available to use
+    ![relative](images/data_layout_add_form_elements.png)
 
-![](RackMultipart20221028-1-d1lmac_html_65731ef6c85e9ef6.png)
+50. Type "Opened by" in the Search box
 
-1. Type "Opened by" in the Search box
-2. Drag it onto the form
- ![](RackMultipart20221028-1-d1lmac_html_aa45badcb4df43b9.png)
+51. Drag the "Opened by" field onto the form
 
- ![](RackMultipart20221028-1-d1lmac_html_98bab37d0603d053.png)
+    ![relative](images/data_Drag_the_Opened_by_field.png)
 
+    ![relative](images/data_Drag_the_Opened_by_field_AFTER.png)
 
-3. Click on "Formatters"
- ![](RackMultipart20221028-1-d1lmac_html_e6c123abe7ddd15e.png)
+52. Click on "Formatters"
 
+    ![relative](images/data_Click_on_Formatters.png)
 
-4. Drag the "**Activities (filtered)**" field onto the form below the Short description field.
+53. Drag the "**Activities (filtered)**" field onto the form below the Short description field.
 
-![](RackMultipart20221028-1-d1lmac_html_5ac3f7d630bdfa8.png)
+    ![relative](images/data_Drag_the_Activities_field.png)
 
-1. Move the 2 fields " **Arrangement"** and " **Number of Days**" to the main section of the form.
+54. Move the 2 fields " **Arrangement"** and " **Number of Days**" to the main section of the form.
+    Your form should look like this:
 
-Your form should look like this:
+    ![relative](images/data_final_form_layout.png)
 
-![](RackMultipart20221028-1-d1lmac_html_4d7634fd3aa66107.png)
+55. On the top right, click [Save](#){: .aes_button }
 
-1. On the top right, click \_Save\_ to save the form.
+    ![relative](images/form_Click_Save.png)
 
-![](RackMultipart20221028-1-d1lmac_html_4dcce73d662eb3e0.png)
+56. Click the **Table** button on the top banner.
 
-1. Click the **Table** button on the top banner.
+    ![relative](images/data_click_table.png)
 
-![](RackMultipart20221028-1-d1lmac_html_55e86488f314fa5f.png)
+57. Click the **Preview** button on the top right.
 
-1. Click the **Preview** button on the top right.
+    ![relative](images/data_click_Preview.png)
 
-![](RackMultipart20221028-1-d1lmac_html_eee056e195d417c8.png)
+    You'll notice that there's no data
 
-You'll notice that there's no data
+    ![relative](images/data_no_records.png)
 
-![](RackMultipart20221028-1-d1lmac_html_d18a5f98a5733521.png)
 
 Let's fix that….
 
