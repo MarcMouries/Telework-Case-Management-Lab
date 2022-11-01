@@ -52,14 +52,13 @@ The first thing we'll do is set up our trigger to define when this flow will run
 
     Flow designer provides different options for triggering a workflow. You can kick off a flow based on a record being created or updated, , run on a scheduled basis, or based on a unique application component like an SLA task being triggered or an inbound email being received by the instance.
 
-For our use case we are going to:
+    For our use case we are going to:
 
-    1. select "Created" from the Record section
-    2. and select our **Telework Case** table
-    3. Click \_ Done \_ to close the trigger
+        1. select "Created" from the Record section
+        2. and select our **Telework Case** table
+        3. Click \_ Done \_ to close the trigger
 
-    ![relative](images/automation_configure_Trigger.png)
-
+        ![relative](images/automation_configure_Trigger.png)
 
     Note that there might be circumstances under which we need to have a particular flow to execute.
 
@@ -67,55 +66,56 @@ For our use case we are going to:
 
     For example, we could use a flow specific to new request, one for renewal or request.
 
+    ![relative](images/automation_Example_Trigger.png)
 
 
-10. Now that we have configured the trigger, we need to set up what will happen when this flow fires.
+10. Now we'll add the actions to execute when this flow fires.
 
-  1. Click **Add an Action, Flow logic, or Subflow**
-  2. Choose " **Action**"
+    1. Click **Add an Action, Flow logic, or Subflow**
 
- ![](RackMultipart20221028-1-d1lmac_html_e451db40e40bb726.png)
+    2. Choose " **Action**"
 
-1. The first step in the process we want to automate is managing the approvals across departments.
+    ![relative](images/automation_Add_Action.png)
+
+11. The first step in the process we want to automate is managing the approvals across departments.
 
   1. In the search field, type "approval"
   2. Select "Ask for Approval"
 
- ![](RackMultipart20221028-1-d1lmac_html_3cb4d6a5f1f5b0d9.png)
+    ![relative](images/automation_Select_Ask_for_Approval.png)
 
-1. The first thing we need to configure is the record we'll be working with for this action.
+12. The first thing we need to configure is the record we'll be working with for this action.
 
-  1. Click on the data picker
-  2. Select "Trigger – Record Created"
-  3. Select "Telework Case Record"
+    1. Click on the data picker
+    2. Select "Trigger – Record Created"
+    3. Select "Telework Case Record"
 
-![](RackMultipart20221028-1-d1lmac_html_d14a0bc9da16c5e8.png)
+    ![relative](images/automation_Ask_for_Approval.png)
 
-1. In the **Rules** section, let's configure the approval rule. Click
+13. In the **Rules** section, let's configure the approval rule. Click
 
-  1. Choose " **Anyone approves**" for the Approval rule.
- ![](RackMultipart20221028-1-d1lmac_html_ccb99ae69aa11e60.png)
+    1. Choose " **Anyone approves**" for the Approval rule.
+    ![relative](images/Choose_Anyone_Approves.png)
 
+    2. Click on the Data Pill Picker button (_the magic wand button_)
+    ![relative](images/Click_on_the_Data_Pill_Picker.png)
 
-  2. Click on the Data Pill Picker button (_the magic wand button_)
- ![](RackMultipart20221028-1-d1lmac_html_4e54c98c647f8534.png)
+    3. Click " **Trigger - Record created**"
+    ![relative](images/Click_Trigger_Record_Created.png)
 
-  3. Click " **Trigger - Record created**"
- ![](RackMultipart20221028-1-d1lmac_html_f9652c2c7236ad34.png)
+    4. Click on the chevron to access the list of fields
+    ![relative](images/Click_on_the_chevron_to_access the_list_of_fields.png)
 
+    5. Locate the " **Opened by**" field and click on the chevron next to it
+    ![relative](images/Click_on_chevron_of_Opened_by_field.png)
 
-  4. Click on the chevron to access the list of fields
- ![](RackMultipart20221028-1-d1lmac_html_923f11226bd9f3e9.png)
-
-
-  5. Locate the " **Opened by**" field and click on the chevron next to it
- ![](RackMultipart20221028-1-d1lmac_html_d47b8c8cb9baf8a0.png)
-
-
-  6. Select " **Manager**"
- ![](RackMultipart20221028-1-d1lmac_html_979db6a36e9864be.png)
+    6. Select " **Manager**"
+    ![relative](images/approval_Select_Manager.png)
 
 We just configured an approval request to the manager of the person who submitted the form
+
+
+#TODO
 
   1. Click: \_Done\_
 
