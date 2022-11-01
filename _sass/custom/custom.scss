@@ -5,8 +5,14 @@ $green-sn: #62d84e;
 
 $sidebar-color: $green-sn !default;
 
+.side-bar {
+  z-index: 0;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #022D42;
+}
 
-.round-button {
+.aes_button {
   display: inline-block;
   background-color: #01778e;
   color: #fff;
@@ -14,9 +20,10 @@ $sidebar-color: $green-sn !default;
   vertical-align: middle;
   padding-right: 0.56em;
   padding-left: 0.56em;
-  cursor: default;
-
+  cursor: text;
 }
 .btn-green-sn {
     @include btn-color($black, $green-sn);
   }
+
+  
