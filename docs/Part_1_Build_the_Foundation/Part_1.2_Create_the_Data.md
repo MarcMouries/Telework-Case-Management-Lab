@@ -102,15 +102,16 @@ We will create the core tables for our application. To create a table in App Eng
 
 30. Click [Continue](#){: .aes_button }
 
+31. Click the "All" checkbox for the "admin" role.
+32. Click the "Create", "Read", and "Write" checkboxes for the "user" role.
+
+    ![relative](images/datra_set_table_permissions.png)
+
+33. Click [Continue](#){: .aes_button }
+
+
 # TODO
 
-1. Click \_Continue\_
-2. Click the "All" checkbox for the "admin" role.
-3. Click the "Create", "Read", and "Write" checkboxes for the "user" role.
-
-![](RackMultipart20221028-1-d1lmac_html_7d2f37b80443b7bf.png)
-
-1. Click \_Continue\_
 2. Once the table is ready, we'lladdourdatacolumnstothisnewtablebyclicking **Edit**** table**.
 
 ![](RackMultipart20221028-1-d1lmac_html_2667c66792115dff.png)
