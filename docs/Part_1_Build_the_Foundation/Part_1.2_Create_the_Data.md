@@ -11,27 +11,27 @@ We will create the core tables for our application. To create a table in App Eng
 
 1. Click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
 
-  ![relative](images/data_add_icon.png)
+    ![relative](images/data_add_icon.png)
 
 2. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
 
-  ![relative](images/data_create_table_tile.png)
+    ![relative](images/data_create_table_tile.png)
 
 3. Click on the [Get started](#){: .aes_button } button
 
 4. On the _How do you want to create a table?_ screen, select the  **Upload a spreadsheet**  tile.
 
-  ![relative](images/data_upload_a_spreadsheet.png)
+    ![relative](images/data_upload_a_spreadsheet.png)
 
 5. Click on the [Continue](#){: .aes_button } button
 
 6. On the _Let's choose the spreadsheet you want to upload_ screen, click the  **Drag and drop or browse to upload spreadsheet** link
 
-  ![relative](images/data_drag_drop_spreadsheet.png)
+    ![relative](images/data_drag_drop_spreadsheet.png)
 
 7. Browse and select the  **Telework Data.xlsx**  file you downloaded
 
-  ![relative](images/data_drag_drop_spreadsheet.png)
+    ![relative](images/data_drag_drop_spreadsheet.png)
 
 8. Click [Continue](#){: .aes_button } button
 
@@ -41,26 +41,26 @@ We will create the core tables for our application. To create a table in App Eng
 
 11. Click on **Convert to table** to the right of the Telework Arrangement Sheet name.
 
-  ![relative](images/data_Convert_to_table.png)
+    ![relative](images/data_Convert_to_table.png)
 
 12. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
 
 13. Check _ **Display** _: To use this field as the display value for the table when used as a reference field
 
-  ![relative](images/data_Check_Display.png)
+    ![relative](images/data_Check_Display.png)
 
 14. Click [Continue](#){: .aes_button } button
 
 15. Set the table label to **Arrangement**.The table name will auto populate.
 
-  ![relative](images/data_Set_the_table_label.png)
+    ![relative](images/data_Set_the_table_label.png)
 
 16. Click [Continue](#){: .aes_button } button
 
 17. Click the "All" checkbox for the "admin" role.
 18. Click the "Read" checkbox for the "user" role.
 
-  ![relative](images/data_add_table_permissions.png)
+    ![relative](images/data_add_table_permissions.png)
 
 19. Click [Continue](#){: .aes_button } button
 
@@ -68,39 +68,41 @@ We will create the core tables for our application. To create a table in App Eng
 
 21. We haven't converted all the sheets in the spreadsheets, so we'll see this message pop up
 
-  ![relative](images/data_leave_without_converting_other_sheets.png)
+    ![relative](images/data_leave_without_converting_other_sheets.png)
 
 22. Click [Yes, leave](#){: .aes_button }
 
 23. Again, click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
 
-  ![relative](images/data_add_icon.png)
+    ![relative](images/data_add_icon.png)
 
 24. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
 
-  ![relative](images/data_Create_a_table_title.png)
+    ![relative](images/data_Create_a_table_title.png)
 
 25. Click [Begin](#){: .aes_button} button
 
 26. On the _How do you want to create a table?_ screen, Select _ **Create from an existing table** _.
 
-  ![relative](images/data_Create_from_an_existing_table.png)
+    ![relative](images/data_Create_from_an_existing_table.png)
 
 27. Click the [Continue](#){: .aes_button } button
 
 28. Type **Task,** then select the table **Task [task]** and Click [Continue](#){: .aes_button }
 
-  ![relative](images/data_select_the_table_Task.png)
+    ![relative](images/data_select_the_table_Task.png)
+
+29. Give the table the following properties
+
+    1. **Table label** : Telework Case
+    2. Select ☑ Auto number
+    3. Set the prefix to TLW.
+
+    ![relative](images/data_new_table_properties.png)
+
+30. Click [Continue](#){: .aes_button }
 
 # TODO
-
-1. Give the table the following properties
-
-  1. **Table label** : Telework Case
-  2. Select ☑ Auto number
-  3. Enter in prefix as TLW.
-
-![](RackMultipart20221028-1-d1lmac_html_5751f3694a2e5162.png)
 
 1. Click \_Continue\_
 2. Click the "All" checkbox for the "admin" role.
