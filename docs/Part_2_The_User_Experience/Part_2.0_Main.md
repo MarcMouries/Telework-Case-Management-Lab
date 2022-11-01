@@ -8,4 +8,4 @@ permalink: /docs/Part_2_The_User_Experience
 
 # Part 2: Create the User Experience
 
-[Next ](Part_2.1_Exercise.md){: .btn .btn-purple }
+[Next > Exercise](./Part_2.1_Exercise.md){: .btn .btn-green-sn }

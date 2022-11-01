@@ -46,21 +46,21 @@ In this section of the exercise, you will review and turn off Guidance.
 
 9. Read the **Add data** flyout.
 
-    ![relative](images/guidance_add_data.png)
+    ![relative](images/2.1_guidance_add_data.png)
 
 10. In the _Guidance_ pane, click the  **Experience**  tab and read the _Add experience_ flyout.
 
-    ![relative](images/guidance_add_experience.png)
+    ![relative](images/2.2_guidance_add_experience.png)
 
 11. Select each of the tabs in the _Guidance_ pane to review the different application components.
 
 12. Click the  **Guidance**  toggle to turn off the _Guidance_ pane.
 
-    ![relative](images/toggle_guidance.png)
+    ![relative](images/2.3_toggle_guidance.png)
 
 13. Optional: Look in the top right corner for the "Enter full screen" button. Click it to maximize your viewing area.
 
-    ![relative](images/full-screen.png)
+    ![relative](images/2.4_full-screen.png)
 
 
  [Next Create the Tables](Part_1.2_Create_the_Data.md){: .btn .btn-green-sn }
