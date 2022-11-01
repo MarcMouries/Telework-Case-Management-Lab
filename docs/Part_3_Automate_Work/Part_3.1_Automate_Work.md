@@ -57,8 +57,8 @@ nav_order: 1
         1. select "Created" from the Record section
 
         2. and select our **Telework Case** table
-        
-        3. Click \_ Done \_ to close the trigger
+
+        3. Click [Done](#){: .aes_button} to close the trigger
 
         ![relative](images/automation_configure_Trigger.png)
 
