@@ -45,7 +45,7 @@ We will create the core tables for our application. To create a table in App Eng
 
 12. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
 
-13. Check _ **Display** _: To use this field as the display value for the table when used as a reference field
+13. Check **Display** : This sets this field as the display value for the table when used as a reference field
 
     ![relative](images/data_Check_Display.png)
 
@@ -109,16 +109,13 @@ We will create the core tables for our application. To create a table in App Eng
 
 33. Click [Continue](#){: .aes_button }
 
+34. Once the table is ready, we'lladdourdatacolumnstothisnewtablebyclicking **Edit**** table**.
 
-# TODO
+    ![relative](images/data_edit_table.png)
 
-2. Once the table is ready, we'lladdourdatacolumnstothisnewtablebyclicking **Edit**** table**.
+35. We now see the Table Builder screen. From this screen, we can see the fields that were automatically added to our table by the system, as well as add additional columns.
 
-![](RackMultipart20221028-1-d1lmac_html_2667c66792115dff.png)
-
-1. We now see the Table Builder screen. From this screen, we can see the fields that were automatically added to our table by the system, as well as add additional columns.
-
-![](RackMultipart20221028-1-d1lmac_html_89b2babe9f590d98.png)
+    ![relative](images/data_intro_table_builder.png)
 
 1. Review the introduction to Table Builder then **click** the **Next** button to walk through each information pane. From the last screen, **click** the **Get Started** button.
 2. Now let's add the data columns for our application. Start by **clicking** the **Add new field** link at the top of the screen
@@ -141,6 +138,8 @@ We will create the core tables for our application. To create a table in App Eng
   2. Hit the [ENTER] key
   3. Column name: (auto-generated)
   4. Type: **Integer**
+
+# TODO
 
 1. Again, **click** the **Add new field** link at the top of the screen
 2. In the new row created, add the following values:

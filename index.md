@@ -5,11 +5,9 @@ has_children: true
 nav_order: 1
 permalink: /
 ---
-# Creator Workflows Lab Guide
+# Telework Case Management
 
-## Telework Case Management
-
-# Introduction
+## Introduction
 
 ## Goals
 
