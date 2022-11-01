@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 logo: "docs/images/servicenow-logo.png"
 back_to_top: true
 back_to_top_text: "Back to top"
-color_scheme: light
+color_scheme: ServiceNow
 footer_content: October 2022. Marc Mouriès, based on the Tokyo release.
 search_enabled: true
 search:
