@@ -11,7 +11,6 @@ nav_order: 1
 
 ![relative](images/1_Create_App.png)
 
-
 2. Configure the app
 
     a. _Name_: **[your initials]****Telework Request**

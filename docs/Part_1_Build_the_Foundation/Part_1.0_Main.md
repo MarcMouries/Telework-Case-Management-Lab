@@ -19,7 +19,7 @@ In this exercise, we will learn how to create the core data elements of our appl
 ![relative](images/1_Getting_Started.png)
 
 
-1. This reveals the homepage of App Engine Studio. From this page:
+2. This reveals the homepage of App Engine Studio. From this page:
 
 - you can create new applications or extend previously developed applications.
 - There are a variety of templates provided out of the box that contain examples of configurations that address common business challenges.
