@@ -54,13 +54,13 @@ nav_order: 1
 
     For our use case we are going to:
 
-        1. select "Created" from the Record section
+    1. select "Created" from the Record section
 
-        2. and select our **Telework Case** table
+    2. and select our **Telework Case** table
 
-        3. Click [Done](#){: .aes_button} to close the trigger
+    3. Click [Done](#){: .aes_button} to close the trigger
 
-        ![relative](images/automation_configure_Trigger.png)
+    ![relative](images/automation_configure_Trigger.png)
 
     Note that there might be circumstances under which we need to have a particular flow to execute.
 
