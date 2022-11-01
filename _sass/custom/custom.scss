@@ -9,9 +9,11 @@ $sidebar-color: $green-sn !default;
 .round-button {
   display: inline-block;
   background-color: #01778e;
+  color: #fff;
   border-radius: 12px;
   vertical-align: middle;
-
+  padding-right: 0.56em;
+  padding-left: 0.56em;
 }
 .btn-green-sn {
     @include btn-color($black, $green-sn);
