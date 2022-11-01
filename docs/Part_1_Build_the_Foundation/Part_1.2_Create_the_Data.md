@@ -11,6 +11,8 @@ We will create the core tables for our application. To create a table in App Eng
 
 1. Click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
 
+![relative](images/)
+
 ![](RackMultipart20221028-1-d1lmac_html_a8c68acd5d28b638.png)
 
 1. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
