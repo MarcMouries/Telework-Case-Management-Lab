@@ -5,12 +5,18 @@ $green-sn: #62d84e;
 
 $sidebar-color: $green-sn !default;
 
+
+$green-sn-text: #293e40;
+
+$link-color: $green-sn-text !default;
+
 .side-bar {
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
   _background-color: #022D42; /* */
-  background-color: #90CCD3
+  _background-color: #90CCD3; /* */
+  background-color: #C4D9DF;
 }
 
 .aes_button {
@@ -25,6 +31,4 @@ $sidebar-color: $green-sn !default;
 }
 .btn-green-sn {
     @include btn-color($black, $green-sn);
-  }
-
-  
+}
