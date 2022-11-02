@@ -109,12 +109,10 @@ nav_order: 1
     ![relative](images/Click_on_the_chevron_to_access the_list_of_fields.png)
 
     5. Locate the "**Opened by**" field and click on the chevron next to it
-
-    ![relative](images/Click_on_chevron_of_Opened_by_field.png)
+        ![relative](images/Click_on_chevron_of_Opened_by_field.png)
 
     6. Select **Manager**
-
-    ![relative](images/approval_Select_Manager.png)
+        ![relative](images/approval_Select_Manager.png)
 
     We just configured an approval request to the manager of the person who submitted the form
 
@@ -125,11 +123,9 @@ nav_order: 1
     1. Under the Ask for Approval, **click** on the **"Add an Action. Flow logic or Sub flow**
 
     2. Select **Flow Logic**"
-
     ![relative](images/Click_Flow_Logic.png)
 
     3. Select "If"
-
     ![relative](images/Select_If.png)
 
 
@@ -157,10 +153,6 @@ nav_order: 1
 {: .note }
 we now have a branch where we can add actions or flow logic if the manager approves
 Let's save the team from sending tasks via emails or other systems.
-
-**Notice that we now have a branch where we can add actions or flow logic if the manager approves.**
-
-**Let's save the team from sending tasks via emails or other systems.**
 
 16. We'll automatically request I.T. to assign a Remote Access Token to the employee
 
@@ -261,9 +253,9 @@ Let's save the team from sending tasks via emails or other systems.
 
 Congratulations! 🎉 You've built a flow that takes care of managing tasks and communications across multiple departments.
 
+{: .note }
 Note that by default Personal Developer Instances have "sending email" turned off by default.
-
-    If you want to receive the email, make sure that the user submitting the application has a valid email address on their user record.
+If you want to receive the email, make sure that the user submitting the application has a valid email address on their user record.
 
 Next, let's test our work and see it in action.
 

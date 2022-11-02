@@ -5,15 +5,9 @@ parent: Part 2. Create the User Experience
 nav_order: 1
 ---
 
-# Part 2: Create the User Experience
+## 1 – Create a Workspace Experience
 
-**purpose**
-
-In this exercise, we will learn how to create user experiences for interacting with our application. We will leverage App Engine Studio to create a new Workspace experience designed to allow the team to track and manage cases across the enterprise.
-
-## Section 1 – Create a Workspace Experience
-
-![](RackMultipart20221028-1-d1lmac_html_7528b4d3b454d89e.png)Wewill now createandconfigurethecoreWorkspaceexperienceforournewapplication.
+We will now create and configure the core Workspace experience for our new application.
 
 1. On the application homepage, locate the **Experience** section and click the ⨁ Add icon.
 
