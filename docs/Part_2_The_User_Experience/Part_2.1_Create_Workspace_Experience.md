@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Workspace
+title: Create a Workspace Experience
 parent: Part 2. Create the User Experience
 nav_order: 1
 ---
@@ -10,16 +10,18 @@ nav_order: 1
 We will now create and configure the core Workspace experience for our new application.
 
 1. On the application homepage, locate the **Experience** section and click the ⨁ Add icon.
+    ![relative](images/Click_Add_Experience.png)
+    This takes us to a selection where we can identify the type of experience we wish to create.
 
-![](RackMultipart20221028-1-d1lmac_html_5eb57f8f138baffd.png)This takes us to a selection where we can identify the type of experience we wish to create.
+2. **Click** the **Workspace** option to create a workspace to help users manage and fulfill requests sent to them
+    ![relative](images/Click_the_Workspace_Tile.png)
 
-1. **Click** the **Workspace** option to create a workspace to help users manage and fulfill requests sent to them
+3. Thislaunches the workspace Creator. Click the [Get Started](#){: .aes_button } button
+    ![relative](images/Add_Experience_Preview.png)
 
-1. Thislaunchestheworkspacecreator.Click \_ **Get Started** \_
+#TODO
 
-![](RackMultipart20221028-1-d1lmac_html_b504e7bb92037dc7.png)
-
-1. Next, provide the following information:
+4. Next, provide the following information:
   1. **Name:** leave the default value
   2. **Description:** (optional)
   3. **URL:** leave the default value

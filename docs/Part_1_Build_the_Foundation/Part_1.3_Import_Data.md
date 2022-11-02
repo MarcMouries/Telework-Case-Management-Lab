@@ -9,6 +9,8 @@ nav_order: 4
 
 1. Hover the column header **Number** , **right-click** to display the table menu options and then select **Import.**
 
+        ![relative](images/Select_Import.png)
+
 ![](RackMultipart20221028-1-d1lmac_html_f0072d5979854ef5.png)
 
 1. Select **Choose File** to upload the Excel file: Telework Cases.xlsx
