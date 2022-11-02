@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Part 3 – Create a Workflow
 
-1. Back to the App Engine tab, **click** on the [Return to my application](#){: .aes_button }
+1. Back to the App Engine tab, **click** on the [Return to my application](#){: .aes_button } button
 
     ![relative](images/work_Return_to_my_application.png)
 
@@ -80,17 +80,18 @@ nav_order: 1
 
 11. The first step in the process we want to automate is managing the approvals across departments.
 
-  1. In the search field, type "approval"
-  2. Select "Ask for Approval"
+    1. In the search field, type "approval"
 
+    2. Select "Ask for Approval"
     ![relative](images/automation_Select_Ask_for_Approval.png)
 
 12. The first thing we need to configure is the record we'll be working with for this action.
 
     1. Click on the data picker
-    2. Select "Trigger – Record Created"
-    3. Select "Telework Case Record"
 
+    2. Select "Trigger – Record Created"
+
+    3. Select "Telework Case Record"
     ![relative](images/automation_Ask_for_Approval.png)
 
 13. In the **Rules** section, let's configure the approval rule. Click
