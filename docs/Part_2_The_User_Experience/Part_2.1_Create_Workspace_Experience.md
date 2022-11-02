@@ -57,9 +57,11 @@ We will now create and configure the core Workspace experience for our new appli
 15. You now have 2 tasks assigned to you.
     ![relative](images/You_now_have_2_tasks_assigned_to_you.png)
 
-#TODO
+16. In the **My Work** list, click on the Refresh icon to see the new tasks
+    ![relative](images/Click_on_the_Refresh_Icon.png)
 
-1. In the **My Work** list, click on the Refresh icon to see the new tasks
+
+
  ![](RackMultipart20221028-1-d1lmac_html_e7a6390ffc47fce.png)
 
 1. **Great!** Let's handle an emergency ⚠️.

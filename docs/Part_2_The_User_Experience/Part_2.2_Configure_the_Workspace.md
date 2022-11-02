@@ -12,15 +12,17 @@ Let's use the Analytics Center to configure a new Dashboard for our needs.
 
     ![relative](images/In_Analytics_Center_Click_Dashboards.png)
 
-#TODO
+
 
 1. Once the dashboard opens, click Edit in the top right of the screen
 
-![](RackMultipart20221028-1-d1lmac_html_8d2b9e4941d7e381.png)
+    ![relative](images/When_Dashboard_opens_Click_Edit.png)
 
-Screen should look similar to below
+    The screen should look similar to below
 
-![](RackMultipart20221028-1-d1lmac_html_ddb02fdce6af3b84.png)
+    ![relative](images/Screen_should_look_like_below.png)
+
+#TODO
 
 1. Click on **Add new element** in top right of screen
  ![](RackMultipart20221028-1-d1lmac_html_dbf37376499b10de.png)
