@@ -46,6 +46,7 @@ nav_order: 1
 
     The first thing we'll do is set up our trigger to define when this flow will run.
 
+
 9. Click on " **Add a trigger**" in the upper left of the flow designer screen.
 
     ![relative](images/automation_click_Add_a_Trigger.png)
@@ -109,7 +110,7 @@ nav_order: 1
     5. Locate the " **Opened by**" field and click on the chevron next to it
     ![relative](images/Click_on_chevron_of_Opened_by_field.png)
 
-    6. Select " **Manager**"
+    6. Select **Manager**
     ![relative](images/approval_Select_Manager.png)
 
     We just configured an approval request to the manager of the person who submitted the form
@@ -119,41 +120,44 @@ nav_order: 1
 
 14. Now let's configure what happens when the manager approves
 
+    1. Under the Ask for Approval, **click** on the **"Add an Action. Flow logic or Sub flow**
 
-#TODO
+    2. Select **Flow Logic**"
+    ![relative](images/Click_Flow_Logic.png)
 
-
-  1. Under the Ask for Approval, **click** on the **"Add an Action. Flow logic or Sub flow**
-  2. Select " **Flow Logic**"
- ![](RackMultipart20221028-1-d1lmac_html_47904dee3e0bdc24.png)
-
-
-  3. Select "If"
- ![](RackMultipart20221028-1-d1lmac_html_fe810a9bd09dac53.png)
-
-1. Let's define the condition
-
-  1. Give it a name in the Condition field " **Manager approves**"
- ![](RackMultipart20221028-1-d1lmac_html_9af12c9c3d8471d1.png)
+    3. Select "If"
+    ![relative](images/Select_If.png)
 
 
-  2. Click on the Data Pill Picker (_magic wand button_)
-  3. Click "1 – Ask for Approval"
-  4. Click "Approval State"
- ![](RackMultipart20221028-1-d1lmac_html_47eed24bcc382bd3.png)
+15. Let's define the condition
+
+    1. Give it a name in the Condition field " **Manager approves**"
+    ![relative](images/Set_Condition_To_Manager_approves.png)
+
+    2. Click on the Data Pill Picker (_magic wand button_)
+
+    3. Click "1 – Ask for Approval"
+
+    4. Click "Approval State"
+     ![relative](images/Click_Approval_State.png)
+
+    5. Set drop-down to "Approved"
+     ![relative](images/Set_dropdown_to_Approved.png)
+
+    6. Click: [Done](#){: .aes_button }
 
 
-  5. Set drop-down to "Approved"
- ![](RackMultipart20221028-1-d1lmac_html_4440cf00c216bbcc.png)
-  6. Click: \_Done\_
+{: .note }
+we now have a branch where we can add actions or flow logic if the manager approves
+Let's save the team from sending tasks via emails or other systems.
 
 **Notice that we now have a branch where we can add actions or flow logic if the manager approves.**
 
 **Let's save the team from sending tasks via emails or other systems.**
 
-1. We'll automatically request I.T. to assign a Remote Access Token to the employee
+14. We'll automatically request I.T. to assign a Remote Access Token to the employee
 
-  1. Under "If Manager approves" click the small + to add a step ![](RackMultipart20221028-1-d1lmac_html_24642acc6df97c16.png)
+    1. Under "If Manager approves" click the small + to add a step ![](RackMultipart20221028-1-d1lmac_html_24642acc6df97c16.png)
 
   1. Select " **Action**"
   2. Select " **ServiceNow Core**"
@@ -168,6 +172,9 @@ nav_order: 1
   8. Select " **Trigger - Record created**" -\> " **Telework Case Record**"
  ![](RackMultipart20221028-1-d1lmac_html_104fbbb80a4abe56.png)
 
+
+
+#TODO
 
   9. Click "+ Add field value" and add two other fields:
 
