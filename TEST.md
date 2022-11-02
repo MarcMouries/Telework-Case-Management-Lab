@@ -28,8 +28,11 @@ Click on the [Create App](http://#/){: .aes_button } button
 
 Click on the [Create App](#){: .aes_button } button
 
+## Title
+
 {: .note }
 This website is built from the `HEAD` of the `main` branch of the theme repository.
+
 
 1. Step 1
 

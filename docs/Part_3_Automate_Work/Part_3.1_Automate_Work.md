@@ -96,43 +96,47 @@ nav_order: 1
 
 13. In the **Rules** section, let's configure the approval rule. Click
 
-    1. Choose " **Anyone approves**" for the Approval rule.
+    1. Choose "**Anyone approves**" for the Approval rule.
     ![relative](images/Choose_Anyone_Approves.png)
 
     2. Click on the Data Pill Picker button (_the magic wand button_)
     ![relative](images/Click_on_the_Data_Pill_Picker.png)
 
-    3. Click " **Trigger - Record created**"
+    3. Click "**Trigger - Record created**"
     ![relative](images/Click_Trigger_Record_Created.png)
 
     4. Click on the chevron to access the list of fields
     ![relative](images/Click_on_the_chevron_to_access the_list_of_fields.png)
 
-    5. Locate the " **Opened by**" field and click on the chevron next to it
+    5. Locate the "**Opened by**" field and click on the chevron next to it
+
     ![relative](images/Click_on_chevron_of_Opened_by_field.png)
 
     6. Select **Manager**
+
     ![relative](images/approval_Select_Manager.png)
 
     We just configured an approval request to the manager of the person who submitted the form
 
     7. Click: [Done](#){: .aes_button }
 
-
 14. Now let's configure what happens when the manager approves
 
     1. Under the Ask for Approval, **click** on the **"Add an Action. Flow logic or Sub flow**
 
     2. Select **Flow Logic**"
+
     ![relative](images/Click_Flow_Logic.png)
 
     3. Select "If"
+
     ![relative](images/Select_If.png)
 
 
 15. Let's define the condition
 
     1. Give it a name in the Condition field " **Manager approves**"
+
     ![relative](images/Set_Condition_To_Manager_approves.png)
 
     2. Click on the Data Pill Picker (_magic wand button_)
@@ -140,9 +144,11 @@ nav_order: 1
     3. Click "1 – Ask for Approval"
 
     4. Click "Approval State"
+
      ![relative](images/Click_Approval_State.png)
 
     5. Set drop-down to "Approved"
+
      ![relative](images/Set_dropdown_to_Approved.png)
 
     6. Click: [Done](#){: .aes_button }
@@ -168,89 +174,96 @@ Let's save the team from sending tasks via emails or other systems.
     6. Click "Add field value"
     7. Search and select " **Parent**"
     8. Click on the Data Pill Picker (_magic wand button_)
-    ![relative](images/Click_on_the_Data_Pill_Picker.png.png)
+    ![relative](images/Click_on_the_Data_Pill_Picker.png)
 
     9. Select " **Trigger - Record created**" -\> " **Telework Case Record**"
     ![relative](images/Select_Trigger_Record.png)
 
+    10. Click "+ Add field value" and add two other fields:
 
-#TODO
+        | --- | --- |
+        | 1) Short description | Remote Access Token |
+        | 2) Assigned to | for testing assign it to yourself (System administrator) |
 
-  9. Click "+ Add field value" and add two other fields:
+        This is how the **Field Values** should look:
 
-| 1) Short description | Remote Access Token |
-| --- | --- |
-| 2) Assigned to | for testing assign it to yourself (System administrator) |
+        ![relative](images/how_the_Field_Values_Look_After.png)
 
-This is how the **Field Values** should look:
- ![](RackMultipart20221028-1-d1lmac_html_404845ed288148fa.png)
+    11. Let's add an annotation and set it to Remote Access Token
 
-  1. Let's add an annotation and set it to Remote Access Token
- ![](RackMultipart20221028-1-d1lmac_html_a0db7730fdd7d936.png)
+    ![relative](images/Add_an_annotation.png)
 
- ![](RackMultipart20221028-1-d1lmac_html_de3d46ab4784c452.png)
+    ![relative](images/Add_an_annotation_AFTER.png)
 
-  1. Click: \_Done\_
+    12. Click [Done](#){: .aes_button} 
 
-1. First, let's take care of automating the notifications that take too much time right now. We'll send an email to the applicant's and let them know their application has been approved
+17. First, let's take care of automating the notifications that take too much time right now. We'll send an email to the applicant's and let them know their application has been approved
 
-  1. Under "If Create Task" click the small + to add a step
+    1. Under "If Create Task" click the small + to add a step
 
- ![](RackMultipart20221028-1-d1lmac_html_386c1d411b71843d.png)
+    ![relative](images/add_setp_under_if.png)
 
-  1. ![](RackMultipart20221028-1-d1lmac_html_a1e3bfbfc1cd333a.png)Select " **Action**"
-  2. Select " **ServiceNow Core**"
-  3. Select " **Send Email**"
+    2. Select " **Action**"
 
-  1. For the Target record, use the Data Pill Picker to select " **Trigger - Record created**" -\> " **Telework Case Record**"
- ![](RackMultipart20221028-1-d1lmac_html_a40276aaa1ece30.png)
+    3. Select " **ServiceNow Core**"
+
+    4. Select " **Send Email**"
+
+    ![relative](images/create_Task_Send_Email.png)
+
+    5. For the Target record, use the Data Pill Picker to select " **Trigger - Record created**" -\> " **Telework Case Record**"
+
+    ![relative](images/select_target_record.png)
+
+    6. For the " **To"** field,
+        1. Click on the record picker
+        2. Select " **Trigger - Record created**"
+        3. Click on the chevron to access the list of fields
+        4. Locate the " **Opened by**" field and click on the chevron next to it
+        5. Select " **Email**"
+
+        ![relative](images/Select_Opened_by_Email.png)
+
+    7. For the " **Subject**", enter "Your Telework application is approved"
+
+    8. For the " **Body**",
+
+        1. Start by entering: "_Dear_" followed by a whitespace
+
+        2. Use the record picker to select the " **Opened by – Name"** field
+
+        ![relative](images/Select_Opened_by_Email.png)
+
+        3. Hit Enter to move to the next line.
+
+        4. Type "_Your application for:_"
+
+        5. Use the Data Pill Picker to select the " **Arrangement –\> Code"** field
+
+        ![relative](images/Select_the_Arrangement_Code.png)
+
+        6. Type "is approved" after the data pill.
+
+        7. The Body should look like this
+
+        ![relative](images/email_body.png)
+
+18. Click [Done](#){: .aes_button}
 
 
-  2. For the " **To"** field,
-    1. Click on the record picker
-    2. Select " **Trigger - Record created**"
-    3. Click on the chevron to access the list of fields
-    4. Locate the " **Opened by**" field and click on the chevron next to it
-    5. Select " **Email**"
+19. Click [Save](#){: .aes_button} in the top right corner of the screen
 
-![](RackMultipart20221028-1-d1lmac_html_6ff09e45d1be73e6.png)
+    Although the Flow is saved, it won't run until we activate it.
 
-  1. For the " **Subject**", enter "Your Telework application is approved"
-  2. For the " **Body**",
+20. Click [Activate](#){: .aes_button} on the left of the Save button
 
-| 1) Start by entering: "Dear" followed by space |
-| --- |
-| 2) Use the record picker to select the " **Opened by – Name"** field
- ![](RackMultipart20221028-1-d1lmac_html_dd46a5132b0d5aac.png) |
-| 3) Hit Enter to move to the next line. |
-| 4) Type "Your application for: "
-
- |
-| 5) Use the Data Pill Picker to select the " **Arrangement –\> Code"** field
- ![](RackMultipart20221028-1-d1lmac_html_e21933aec52a817a.png)
-
-
-6) Type "is approved" after the data pill.
-
-7) The Body should look like this
- ![](RackMultipart20221028-1-d1lmac_html_e789f767a8878c07.png) |
-
-1. Click: \_Done\_
-
-
-2. Click: \_Save\_ in the top right corner of the screen
-
-Although the Flow is saved, it won't run until we activate it.
-
-1. Click on the \_Activate\_ button on the left of the Save button
-
-1. In the Confirmation box click the Activate button.
+21. In the Confirmation box click the **Activate** button.
 
 Congratulations! 🎉 You've built a flow that takes care of managing tasks and communications across multiple departments.
 
 Note that by default Personal Developer Instances have "sending email" turned off by default.
 
-If you want to receive the email, make sure that the user submitting the application has a valid email address on their user record.
+    If you want to receive the email, make sure that the user submitting the application has a valid email address on their user record.
 
 Next, let's test our work and see it in action.
 
