@@ -155,23 +155,22 @@ Let's save the team from sending tasks via emails or other systems.
 
 **Let's save the team from sending tasks via emails or other systems.**
 
-14. We'll automatically request I.T. to assign a Remote Access Token to the employee
+16. We'll automatically request I.T. to assign a Remote Access Token to the employee
 
-    1. Under "If Manager approves" click the small + to add a step ![](RackMultipart20221028-1-d1lmac_html_24642acc6df97c16.png)
+    1. Under "If Manager approves" click the small + to add a step
+    ![relative](images/Add_Step_Under_If_Manager_Approves.png)
 
-  1. Select " **Action**"
-  2. Select " **ServiceNow Core**"
-  3. Select " **Create Task**"
-  4. For Table, select " **Ticket**"
-  5. Click "Add field value"
-  6. Search and select " **Parent**"
-  7. Click on the Data Pill Picker (_magic wand button_)
- ![](RackMultipart20221028-1-d1lmac_html_27d50e8cce8fcf9f.png)
+    2. Select " **Action**"
+    3. Select " **ServiceNow Core**"
+    4. Select " **Create Task**"
+    5. For Table, select " **Ticket**"
+    6. Click "Add field value"
+    7. Search and select " **Parent**"
+    8. Click on the Data Pill Picker (_magic wand button_)
+    ![relative](images/Click_on_the_Data_Pill_Picker.png.png)
 
-
-  8. Select " **Trigger - Record created**" -\> " **Telework Case Record**"
- ![](RackMultipart20221028-1-d1lmac_html_104fbbb80a4abe56.png)
-
+    9. Select " **Trigger - Record created**" -\> " **Telework Case Record**"
+    ![relative](images/Select_Trigger_Record.png)
 
 
 #TODO
