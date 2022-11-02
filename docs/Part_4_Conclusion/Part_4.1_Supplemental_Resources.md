@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conclusion
+title: Supplemental Resources
 nav_order: 98
 parent: Conclusion
 ---
