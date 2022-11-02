@@ -7,8 +7,8 @@ $green-sn-text: #293e40;
 $link-color: $green-sn-text !default;
 
 a {
-  color: $link-color;
-  text-decoration: none;
+  _color: $link-color;
+  color: $green-sn-text !important;
 }
 
 .side-bar {
