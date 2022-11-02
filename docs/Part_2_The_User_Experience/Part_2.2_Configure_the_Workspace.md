@@ -12,9 +12,7 @@ Let's use the Analytics Center to configure a new Dashboard for our needs.
 
     ![relative](images/In_Analytics_Center_Click_Dashboards.png)
 
-
-
-1. Once the dashboard opens, click Edit in the top right of the screen
+2. Once the dashboard opens, click Edit in the top right of the screen
 
     ![relative](images/When_Dashboard_opens_Click_Edit.png)
 
@@ -24,11 +22,11 @@ Let's use the Analytics Center to configure a new Dashboard for our needs.
 
 #TODO
 
-1. Click on **Add new element** in top right of screen
+3. Click on **Add new element** in top right of screen
  ![](RackMultipart20221028-1-d1lmac_html_dbf37376499b10de.png)
 
 
-2. Find **Data visualization** in the list and select it
+4. Find **Data visualization** in the list and select it
 
 ![](RackMultipart20221028-1-d1lmac_html_f58161d1b5d9aee6.png)
 
