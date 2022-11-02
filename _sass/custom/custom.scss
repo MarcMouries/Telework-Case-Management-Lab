@@ -2,13 +2,14 @@
 $black: #000;
 
 $green-sn: #62d84e;
-
-$sidebar-color: $green-sn !default;
-
-
 $green-sn-text: #293e40;
 
 $link-color: $green-sn-text !default;
+
+a {
+  color: $link-color;
+  text-decoration: none;
+}
 
 .side-bar {
   z-index: 0;
