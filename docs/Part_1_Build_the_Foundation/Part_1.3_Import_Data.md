@@ -13,86 +13,89 @@ nav_order: 4
 
 2. Select **Choose File** to upload the Excel file: Telework Cases.xlsx
 
-  ![relative](images/Select_Import.png)
+  ![relative](images/Select_Choose_File_to_Upload_the_Excel_file.png)
 
+3. Click **Upload** and wait until the import is complete.
 
-3. Click \_Upload and wait until the import is complete.
+  ![relative](images/Import_Click_Upload.png.png)
 
-![](RackMultipart20221028-1-d1lmac_html_a64fae6a6f51b957.png)
+4. Once loaded, click on **Preview Imported Data**
 
-1. Once loaded, click on **Preview Imported Data**
+  ![relative](images/click_on_Preview_Imported_Data.png.png)
 
-![](RackMultipart20221028-1-d1lmac_html_4583dd9fad3aa1e6.png)
+5. Scroll down and click on the **Complete Import** button
 
-1. Scroll down and click on the **Complete Import** button
- ![](RackMultipart20221028-1-d1lmac_html_7831047deb4d7cee.png)
+  ![relative](images/Click_on_the_Complete_Impor_button.png)
 
-1. You'll now see that we have migrated our data.
+6. You'll now see that we have migrated our data.
 
-![](RackMultipart20221028-1-d1lmac_html_96c5b9d9100e45ba.png)
+  ![relative](images/we_now_have_migrated_our_data.png)
 
-1. Let's update the columns in this list layout.
-2. Right click at the top of the Number column and click on "Configure" -\> "List Layout"
+7. Let's update the columns in this list layout.
 
-![](RackMultipart20221028-1-d1lmac_html_b7a8266e068a80ac.png)
+8. Right click at the top of the Number column and click on "Configure" -\> "List Layout"
 
-1. Move "Task type" to the left hand window and click Save
+  ![relative](images/Click_on_Configure_List_Layout.png)
 
- ![](RackMultipart20221028-1-d1lmac_html_484ea2f2832e483d.png)
+9. Move "Task type" to the left hand window and click Save
+  ![relative](images/Remove_Task_type.png)
 
 Next, let's start working and managing our records
 
-1. Hover the column header **Priority** , **right-click** to display the menu and then select **Pie Chart**
+10. Hover the column header **Priority** , **right-click** to display the menu and then select **Pie Chart**
 
-![](RackMultipart20221028-1-d1lmac_html_d01b914ab4265f31.png)
+  ![relative](images/select_Pie_Chart.png)
 
-1. And voila, we get a Pie chart that shows us the distribution of cases by Priority
+11. And voila, we get a Pie chart that shows us the distribution of cases by Priority
 
-![](RackMultipart20221028-1-d1lmac_html_23725093697e690d.png)
+  ![relative](images/And_Voila_we_get_a_Pie_chart.png)
 
-1. Explore the other tools in the Context Menu such as Visual Task Board
+12. Explore the other tools in the Context Menu such as Visual Task Board
 
-1. The team struggles managing and understand the status of related tasks. Let's fix that.
+13. The team struggles managing and understand the status of related tasks. Let's fix that.
 
 
-2. Click the back button on the Pie Chart report to get back to the list
- ![](RackMultipart20221028-1-d1lmac_html_c472453da4310651.png)
-3. Open a record by clicking the number field
+14. Click the back button on the Pie Chart report to get back to the list
+  ![relative](images/Click_the_back_button_on_the_Pie_Chart_report.png)
 
-![](RackMultipart20221028-1-d1lmac_html_244058beaddd9a63.png)
+15. Open a record by clicking the number field
 
-1. Right-click on header
+  ![relative](images/Open_a_record_by_clicking_the_number_field.png)
 
-  1. Select **Configure**
-  2. Then select **Related Lists**
+16. Configure the related list by doing:
 
-![](RackMultipart20221028-1-d1lmac_html_1d45a2f3a9a1d904.png)
+  1. Right-click on header
+  2. Select **Configure**
+  3. Then select **Related Lists**
 
-1. In the new form:
+  ![relative](images/Configure_the_related_list.png)
+
+17. In the new form:
 
   1. Select the item " **Task -\> Parent**"
   2. Click on the button to move the item to the selected list
+  3. Click he [Save](#){: .aes_button }
 
-  1. Click \_Save\_
-
-![](RackMultipart20221028-1-d1lmac_html_e0c88ad53ab5c6d4.png)
+  ![relative](images/Add_Task_Parent.png)
 
 Now a new tab at the bottom of the form will show records that have relationships to the current record.
 
-![](RackMultipart20221028-1-d1lmac_html_26bae987b8392a99.png)
+  ![relative](images/related_list_shows_related_records.png)
 
-1. Go back to the list view by clicking on the back button at the top
+18. Go back to the list view by clicking on the back button at the top
 
-![](RackMultipart20221028-1-d1lmac_html_b065bf9b0230b92b.png)
+  ![relative](images/Go_back_to_the_list_view.png)
 
 1. We can even start creating new records/cases
 
 
 2. Click \_New\_ in the top right
+  ![relative](images/Remove_Task_type.png)
  ![](RackMultipart20221028-1-d1lmac_html_d49e90b5aa7de824.png)
 
 1. Fill out the form and click "Submit" to create a test record.
 2. Close the Table Builder and Preview tab by **clicking** the **X** on them.
+  ![relative](images/Remove_Task_type.png)
  ![](RackMultipart20221028-1-d1lmac_html_d16112e35dae392d.png)
 3. Next, we'll work on configuring the user experience.
 

@@ -61,10 +61,7 @@ We will now create and configure the core Workspace experience for our new appli
     ![relative](images/Click_on_the_Refresh_Icon.png)
 
 
-
- ![](RackMultipart20221028-1-d1lmac_html_e7a6390ffc47fce.png)
-
-1. **Great!** Let's handle an emergency ⚠️.
+17. **Great!** Now let's see how quick we can handle an emergency ⚠️.
 
  Our team member _Luke Wilson_ is out sick today. We need to reassign his work to another case worker. (_It is hard to do when the work is managed via emails and spreadsheets!_)
 
