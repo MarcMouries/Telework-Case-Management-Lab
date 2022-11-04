@@ -72,7 +72,7 @@ Next, let's start working and managing our records
 
 17. In the new form:
 
-  1. Select the item " **Task -\> Parent**"
+  1. Select the item " **Task → Parent**"
   2. Click on the button to move the item to the selected list
   3. Click he [Save](#){: .aes_button }
 

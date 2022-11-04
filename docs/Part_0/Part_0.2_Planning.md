@@ -17,7 +17,7 @@ Along with the ServiceNow instance URL and credentials, the I.T department sent 
 2. Reach for help on the channel @transformNow
 3. If you're using a spreadsheet today, make a copy and keep only the data required. See the Don'ts section
 4. Use the record producer to create a form quickly and reuse any relevant questions set
-5. If case workers need to create and see tasks related to the case, add the related list ( "Task-\>Parent") to a form ([see documentation](https://docs.servicenow.com/bundle/sandiego-platform-administration/page/administer/form-administration/concept/configure-form-layout.html))
+5. If case workers need to create and see tasks related to the case, add the related list ( "Task→Parent") to a form ([see documentation](https://docs.servicenow.com/bundle/sandiego-platform-administration/page/administer/form-administration/concept/configure-form-layout.html))
 6. **Read the** [**No-Code Citizen Developer Guide for the Now Platform**](https://developer.servicenow.com/dev.do#!/guides/rome/now-platform/citizen-dev-guide/cd-planning)
 
 **Don'ts**
