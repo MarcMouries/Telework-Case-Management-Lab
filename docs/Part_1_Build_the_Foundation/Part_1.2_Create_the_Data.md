@@ -165,17 +165,19 @@ We will create the core tables for our application. To create a table in App Eng
     6. Type: **Choice**
     7. Choice Type: Dropdown with -- None –
     8. Choices:
-        1. Emergency
-        2. Occasional
-        3. Medical
-        4. Reasonable Accommodation
-        5. COVID
+        1. Dependent Care
+        2. Medical
+        3. Reasonable Accommodation
+
+    ![relative](images/table_add_reason_choices.png)
 
 43. Click [Done](#){: .aes_button }
 
 44. We now have all the data elements we need to manage our use case.
 
-45. Click the [_Save](#){: .aes_button } button at the top right to finalize your configurations.
+45. Click the [Save](#){: .aes_button } button at the top right to finalize your configurations.
+
+    ![relative](images/Create_Table_Click_the_Save_button.png)
 
 46. Congratulations, you've built the first tables in your solution.
 
@@ -189,20 +191,20 @@ We will create the core tables for our application. To create a table in App Eng
 
 48. Remove the following fields (by clicking the X)
 
-    ![relative](images/data_layout_remove_fields.png)
-
     1. Number
     2. Configuration Item,
     3. Active,
-    4. Description
+    4. Parent
 
-49. We can easily add the fields we need. In the Fields tab to the left is where existing fields can be added. Notice how there are 63 fields available to use
+    ![relative](images/data_layout_remove_fields.png)
+
+49. Users want to see who opened the case. We can easily fulfill the requirement by reusing the Opened by field from the Task table. In the Fields tab to the left is where existing fields can be added. Notice how there are 63 fields available to use.
 
     ![relative](images/data_layout_add_form_elements.png)
 
-50. Type "Opened by" in the Search box
+50. Type **Opened by** in the Search box
 
-51. Drag the "Opened by" field onto the form
+51. Drag the **Opened by** field onto the form
 
     ![relative](images/data_Drag_the_Opened_by_field.png)
 
@@ -216,20 +218,25 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_Drag_the_Activities_field.png)
 
-54. Move the 2 fields " **Arrangement"** and " **Number of Days**" to the main section of the form.
+54. Add the **Arrangement"** field to the main section of the form.
+
+    ![relative](images/form_add_the_Arrangement_field.png)
+
+55. Add the **Number of Days** field to the main section of the form.
+
     Your form should look like this:
 
     ![relative](images/data_final_form_layout.png)
 
-55. On the top right, click [Save](#){: .aes_button }
+56. On the top right, click [Save](#){: .aes_button }
 
     ![relative](images/form_Click_Save.png)
 
-56. Click the **Table** button on the top banner.
+57. Click the **Table** button on the top banner.
 
     ![relative](images/data_click_table.png)
 
-57. Click the **Preview** button on the top right.
+58. Click the **Preview** button on the top right.
 
     ![relative](images/data_click_Preview.png)
 
@@ -241,4 +248,3 @@ We will create the core tables for our application. To create a table in App Eng
 Let's fix that….
 
 [Next: Import Legacy Data](./Part_1.3_Import_Data.md){: .btn .btn-green-sn }
-
