@@ -14,7 +14,7 @@ In this exercise, we will learn how to create the core data elements of our appl
 
 **Getting started**
 
-1. If the  **Getting Started** dialog opens, close it by clicking the \_Get Started\_ button.
+1. If the  **Getting Started** dialog opens, close it by clicking the [Get Started](#){: .aes_button } button.
 
     ![relative](images/1_Getting_Started.png)
 
