@@ -23,8 +23,8 @@ Along with the ServiceNow instance URL and credentials, the I.T department sent 
 **Don'ts**
 
 1. Don't create and import the following data. ServiceNow will take care of that for you
-  1. Approvals tracking data such as approval status and dates
-  2. Dates related to the case. Ex "submission date"
+    1. Approvals tracking data such as approval status and dates
+    2. Dates related to the case. Ex "submission date"
 
 Nicole made a list of the key data that the team is tracking and is eager to start
 
