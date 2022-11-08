@@ -142,6 +142,8 @@ We will create the core tables for our application. To create a table in App Eng
     5. Hit the [ENTER] key
     6. Type: **Reference** then select Arrangement
 
+    ![relative](images/Table_Add_Arrangement_Field.png)
+
 39. Again, **click** the **Add new field** link at the top of the screen
 
 40. In the new row created, add the following values:
