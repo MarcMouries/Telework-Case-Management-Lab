@@ -13,7 +13,7 @@ nav_order: 1
 
 2. Configure the app
 
-    a. _Name_: **[your initials]****Telework Request**
+    a. _Name_: **Telework Case Management**
     _Note: Your initials will prevent you from using the same app name as another lab attendee._
 
     b. _Description_: **Manage Telework requests across departments**
