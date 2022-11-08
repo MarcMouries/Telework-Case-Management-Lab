@@ -6,9 +6,21 @@ $green-sn-text: #293e40;
 
 $link-color: $green-sn-text !default;
 
+:root[data-theme=brand-evolution] {
+  --brand-green: #86ed78;
+  --brand-green-darker: #62d84e;
+  --brand-blue: #032d42;
+  --brand-blue-lighter: #1a5d68;
+  --brand-black: #000;
+  --brand-gray: #999;
+  --btn-border-radius: 6px;
+  --brand-opacity: 0.5;
+}
+
+
 a {
-  _color: $link-color;
   color: $green-sn-text !important;
+  background: linear-gradient(90deg,var(--brand-green-darker,var(--acapulco)) 50%,transparent 0);
 }
 
 .side-bar {
