@@ -81,11 +81,11 @@ We will create the core tables for our application. To create a table in App Eng
 
 24. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
 
-    ![relative](images/data_Create_a_table_title.png)
+    ![relative](images/data_create_table_tile.png)
 
 25. Click [Begin](#){: .aes_button} button
 
-26. On the _How do you want to create a table?_ screen, Select _ **Create from an existing table** _.
+26. On the _How do you want to create a table?_ screen, Select **Create from an existing table**.
 
     ![relative](images/data_Create_from_an_existing_table.png)
 
@@ -97,9 +97,14 @@ We will create the core tables for our application. To create a table in App Eng
 
 29. Give the table the following properties
 
-    1. **Table label** : Telework Case
-    2. Select ☑ Auto number
-    3. Set the prefix to TLW.
+    Field Name  | Field Value
+    ------------| --------------
+    Table label | Telework Case
+    Auto number | Checked ☑ 
+    Prefix      | TLW
+
+    {: .note }
+    You can add an identifiable tracking number to your records to make them easier to manage and follow. Selecting this option will automatically add your designated tracking number to each record in this table.
 
     ![relative](images/data_new_table_properties.png)
 
