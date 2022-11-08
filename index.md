@@ -37,10 +37,10 @@ Our goals for this workshop are to allow you to:
     jtd.addEvent(listItemToggleDarkMode, 'click', function(){
       if (jtd.getTheme() === 'dark') {
         jtd.setTheme('light');
-       listItemToggleDarkMode.textContent = '🌙 Dark mode';
+       anchorToggleDarkMode.textContent = 'Dark mode 🌙 ';
       } else {
         jtd.setTheme('dark');
-        listItemToggleDarkMode.textContent = '☀️ Light mode';
+        anchorToggleDarkMode.textContent = 'Light mode ☀️ ';
       }
     });
 </script>
