@@ -3,6 +3,7 @@ layout: default
 title: Conclusion
 nav_order: 98
 has_children: true
+has_toc: false
 ---
 # Conclusion
 

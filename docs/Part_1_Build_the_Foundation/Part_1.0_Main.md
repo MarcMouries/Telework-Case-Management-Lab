@@ -3,7 +3,7 @@ layout: default
 title: Part 1. Build the Foundation
 nav_order: 3
 has_children: true
-
+has_toc: false
 ---
 
 # Part 1: Build the Foundation

@@ -4,6 +4,7 @@ title: Part 3. Automate Work
 nav_order: 5
 has_children: true
 permalink: /docs/Part_4_Automate_Work
+has_toc: false
 ---
 
 # Part 3. Automate Work

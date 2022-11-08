@@ -3,6 +3,7 @@ layout: default
 title: Use-case
 parent: Introduction
 nav_order: 1
+has_toc: false
 ---
 ## Use-case
 
