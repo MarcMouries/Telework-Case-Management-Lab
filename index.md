@@ -4,18 +4,19 @@ title: Introduction
 has_children: true
 nav_order: 1
 permalink: /
+has_toc: false
 ---
 # Telework Case Management
 
 ## Introduction
 
-## Goals
+Every organization is faced with the challenge of responding swiftly to the needs of its customers. It's easier said than done as most application development platforms require a steep learning before being productive. ServiceNow App Engine Studio takes away the complexity of building apps, so that more people can partipate and can focus on solving business problems instead of writing code.
 
-Digital transformation is more relevant than ever. Powered by the Now Platform, App Engine fuels rapid delivery of Creator Workflows with great experiences for everyone. With more people building with less complexity, App Engine lets you create low-code apps fast, and safely scale cross-enterprise experiences that users love.
+## Goals
 
 Our goals for this workshop are to allow you to:
 
-1. Gain valuable experience through practice with Creator Workflow Builder essentials
+1. Gain valuable experience through hands-on exercises with App Engine Studio
 2. Convert a real-world use case with process bottlenecks to a streamline, cross enterprise workflow
 3. Take back to your organization the knowledge of how you can make your world of work better.
 
