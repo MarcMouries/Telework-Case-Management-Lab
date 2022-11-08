@@ -28,15 +28,15 @@ nav_order: 1
 
     ![relative](./images/1_New_App_Final_State.png)
 
-5. Click the **Continue** button
+5. Click the [Continue](#){: .aes_button } button
 
 6. The screen should look like below
 
     ![relative](images/1_add_roles.png)
 
-7. Click the **Continue** button
+7. Click the [Continue](#){: .aes_button } button
 
-8. The app will be created. Once it is finished, click the **Go to app dashboard** button
+8. The app will be created. Once it is finished, Click the [Go to app dashboard](#){: .aes_button } button
 
     ![relative](images/Go_to_app_dashboard.png)
 
