@@ -119,7 +119,7 @@ We will create the core tables for our application. To create a table in App Eng
 
 33. Click [Continue](#){: .aes_button }
 
-34. Once the table is ready, let's add the fields (columns) we need to this new table by clicking **Edit**** table**.
+34. Once the table is ready, let's add the fields (columns) we need. Clic **Edit table**.
 
     ![relative](images/data_edit_table.png)
 
