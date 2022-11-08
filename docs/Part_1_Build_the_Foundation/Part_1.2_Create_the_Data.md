@@ -59,8 +59,9 @@ We will create the core tables for our application. To create a table in App Eng
 
 16. Click [Continue](#){: .aes_button } button
 
-17. Click the "All" checkbox for the "admin" role.
-18. Click the "Read" checkbox for the "user" role.
+17. Click the **All** checkbox for the **admin** role.
+
+18. Click the **Create**, **Read**, and **Write** checkbox for the **user** role.
 
     ![relative](images/data_add_table_permissions.png)
 
