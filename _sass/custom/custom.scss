@@ -21,6 +21,7 @@ $link-color: $green-sn-text !default;
 a {
   color: $green-sn-text !important;
   background: linear-gradient(90deg,var(--brand-green-darker,var(--acapulco)) 50%,transparent 0);
+  text-decoration-color: $green-sn;
 }
 
 .side-bar {
