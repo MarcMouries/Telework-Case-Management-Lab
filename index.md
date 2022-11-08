@@ -26,9 +26,10 @@ Our goals for this workshop are to allow you to:
 <script>
     const navList = document.querySelector('.nav-list');
     let listItemToggleDarkMode = document.createElement("li");
+    listItemToggleDarkMode.className = "nav-list-item";
     let anchorToggleDarkMode = document.createElement("a");
     anchorToggleDarkMode.className = "nav-list-link";
-    anchorToggleDarkMode.href = 'http://#';
+    anchorToggleDarkMode.href = '#';
     anchorToggleDarkMode.innerText = 'Light/Dark Mode';
     listItemToggleDarkMode.appendChild( anchorToggleDarkMode);
     navList.appendChild(listItemToggleDarkMode);
