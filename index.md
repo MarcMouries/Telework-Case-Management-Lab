@@ -6,6 +6,7 @@ nav_order: 1
 permalink: /
 has_toc: false
 ---
+
 # Telework Case Management
 
 ## Introduction
@@ -20,27 +21,21 @@ Our goals for this workshop are to allow you to:
 2. Convert a real-world use case with process bottlenecks to a streamline, cross enterprise workflow
 3. Take back to your organization the knowledge of how you can make your world of work better.
 
-
 [Next: Use-case](/docs/Part_0/Part_0.1_Use-case.md){: .btn-green-sn .btn }
 
-
 <script>
+    const navList = document.querySelector('.nav-list');
+    let listItemToggleDarkMode = document.createElement("li");
+    listItemToggleDarkMode.innerHTML = "Light/Dark Mode ";
+    navList.appendChild(listItemToggleDarkMode);
 
-    const navList =  = document.querySelector('.nav-list');
-
-let listItemToggleDarkMode = document.createElement("li");
-listItemToggleDarkMode.innerHTML = "Light/Dark Mode ";
-navList.appendChild(listItemToggleDarkMode);
-
-jtd.addEvent(listItemToggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    listItemToggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    listItemToggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-//const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
+    jtd.addEvent(listItemToggleDarkMode, 'click', function(){
+      if (jtd.getTheme() === 'dark') {
+        jtd.setTheme('light');
+        listItemToggleDarkMode.textContent = 'Preview dark color scheme';
+      } else {
+        jtd.setTheme('dark');
+        listItemToggleDarkMode.textContent = 'Return to the light side';
+      }
+    });
 </script>
