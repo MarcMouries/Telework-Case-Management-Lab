@@ -26,16 +26,20 @@ Our goals for this workshop are to allow you to:
 <script>
     const navList = document.querySelector('.nav-list');
     let listItemToggleDarkMode = document.createElement("li");
-    listItemToggleDarkMode.innerHTML = "Light/Dark Mode ";
+    let anchorToggleDarkMode = document.createElement("a");
+    anchorToggleDarkMode.className = "nav-list-link";
+    anchorToggleDarkMode.href = 'http://#';
+    anchorToggleDarkMode.innerText = 'Light/Dark Mode';
+    listItemToggleDarkMode.appendChild( anchorToggleDarkMode);
     navList.appendChild(listItemToggleDarkMode);
 
     jtd.addEvent(listItemToggleDarkMode, 'click', function(){
       if (jtd.getTheme() === 'dark') {
         jtd.setTheme('light');
-        listItemToggleDarkMode.textContent = 'Preview dark color scheme';
+       listItemToggleDarkMode.textContent = '🌙 Dark mode';
       } else {
         jtd.setTheme('dark');
-        listItemToggleDarkMode.textContent = 'Return to the light side';
+        listItemToggleDarkMode.textContent = '☀️ Light mode';
       }
     });
 </script>
