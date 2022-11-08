@@ -17,7 +17,9 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_create_table_tile.png)
 
-3. Click on the [Get started](#){: .aes_button } button
+    ![relative](images/1_Add_Table_Begin.png)
+
+3. Click on the [Begin](#){: .aes_button } button
 
 4. On the _How do you want to create a table?_ screen, select the  **Upload a spreadsheet**  tile.
 
