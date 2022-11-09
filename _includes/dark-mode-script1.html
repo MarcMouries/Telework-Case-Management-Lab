@@ -7,6 +7,9 @@
 
   const userPrefers = getComputedStyle(document.documentElement).getPropertyValue("content");
 
+  let themeToggleElement = document.getElementById("theme-toggle");
+  if (! themeToggleElement)   console.log("NOT FOUND themeToggleElement");
+
   if (theme === "dark") {
     document.getElementById("theme-toggle").innerHTML = "Light Mode";
   } else if (theme === "light") {
