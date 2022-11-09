@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configure the Workspace
+title: Create the Request Form
 parent: Part 2. Create the User Experience
 nav_order: 2
 ---
@@ -106,42 +106,34 @@ This takes us to a selection where we can identify the type of experience we wis
 
     6. Click on **Continue to Additional details →**
 
-    7. In the **Additional details** section, we'll use the data we imported earlier as options for this question.
+    7. In the **Additional details** section, set the **Source Table** to the **Arrangement** table we imported earlier. 
+     as options for this question.
 
- Enter the following information:
+    8. then Click on the **Annotation** tab
 
-|
+        ![relative](./user_form/Click_on_the_Annotation_Tab.png)
 
-  1. **Source Table**
- | Select **Arrangement** |
-| --- | --- |
-|
+    9. Today, the team is spending a lot of time correcting and manually re-routing applications due to people confusing the different types of Telework arrangement. Let's fix that.
 
-  1. Click on the **Annotation** tab
- |
+    10. We'll use the  **Annotation**  tab to provide users with additional instructions for the question.
 
-    ![relative](./user_form
-    
-Today, the team is spending a lot of time correcting and manually re-routing applications due to people confusing the different types of Telework arrangement. Let's fix that.
+    11. Check the box **Show**** instructions**
 
-1. We'll use the  **Annotation**  tab to provide users with additional instructions for the question.
+    12. Open the file: **telework form annotation.docx**
 
-  1. Check the box **Show**** instructions**
+    13. Copy all the text in the file ( ⌘ Cmd  or CTRL+A, CTRL+C )
 
-  1. Open the file: telework\_form\_annotation.docx
+    14. Paste it into the Annotation section of the Telework Form (⌘ Cmd  or CTRL+V )
 
-  1. Copy all the text in the file ( ⌘ Cmd  or CTRL+A, CTRL+C )
-  2. Paste it into the Annotation section of the Telework Form (⌘ Cmd  or CTRL+V )
+    15. **Click** on the [Insert Question](#){: .aes_button } button
 
-  1. **Click** on \_ Insert Question \_
+    ![relative](./user_form/add_Annotation_Complete.png)
 
-    ![relative](./user_form
+    16. Back to the main form, **click** on the [Insert new question](#){: .aes_button } button
 
-1. Back to the main form, **click** on \_ Insert new question \_
+    ![relative](./user_form/Click_on_Insert_New_Question.png)
 
-    ![relative](./user_form
-
-When users select the arrangement type **Situational** , we'll prompt them for the number of days per week. So, let's go ahead and in the **Type** section
+    17. When users select the arrangement type **Situational** , we'll prompt them for the number of days per week. So, let's go ahead and in the **Type** section
 
   1. For **Question type** , select **Text**
   2. For **Question subtype** , select **Single line**
