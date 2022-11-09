@@ -63,66 +63,50 @@ This takes us to a selection where we can identify the type of experience we wis
     Your screen should look like below
     ![relative](./user_form/selected_catalog_Final.png)
 
-Let's add questions:
+12. Let's add questions to the form
 
-Unlike in a paper-based form, we don't need to ask users to fill personal information like first name, last name, …, or date of request. That information will be automatically attached to the case. This makes filling forms so much faster.
-
-We want to allow users to open a case on behalf of another individual, so let's start by asking users " **Who is this request for?**" and " **When do you need this?"**
-
-1. **Click** on Questions
-2. **Click the arrow next to** Insert new questionthen click "Question set"
- ![](RackMultipart20221028-1-d1lmac_html_ec16fe2cba49f65f.png)
+    {: .note }
+    Unlike in a paper-based form, we don't need to ask users to fill personal information like first name, last name, …, or date of request. That information will be automatically attached to the case. This makes filling forms so much faster.
 
 
-3. Select "Standard Employee Questions" and click Submit
- ![](RackMultipart20221028-1-d1lmac_html_b7d5d77b4ba92e.png)
+13. We want to allow users to open a case on behalf of another individual, so let's start by asking users " **Who is this request for?**" and " **When do you need this?"**
 
-One key information we need users to provide is the type of arrangement they are applying for.
+14. **Click** on Questions
 
-1. Click Insert new question
+15. **Click the arrow next to** Insert new questionthen click "Question set"
 
+    ![relative](./user_form/Click_Insert_new_question.png)
 
-2. For Question type, select **Choice**
-3. For **Question subtype** , select **Record reference**
+16. Select "Standard Employee Questions" and click Submit
 
-![](RackMultipart20221028-1-d1lmac_html_9172c76ae5a3366c.png)
+    ![relative](./user_form/Select_Standard_Employee_Questions.png)
 
-1. Scroll down to the **Details** section
+17. One key information we need users to provide is the type of arrangement they are applying for.
+    1. Click Insert new question
+    2. For Question type, select **Choice**
+    3. For **Question subtype** , select **Record reference**
 
-1. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
+    ![relative](./user_form/Question_subtype_select_Record_reference.png)
+    
+    4. Scroll down to the **Details** section
 
- (_see screenshot below_)
+    5. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
 
-|
+        Field Name                   | Field Value
+        -----------------------------| --------------
+        **Map to a specific field**  | We want to store that information so let's check the box
+        **Table field**              | choose **Arrangement**
+        **Question label**           | What type of Telework arrangement are you applying for? |
+        **Mandatory**                | Checked |
 
-  1. **Map to a specific field**
- | We want to store that information so let's check the box |
-| --- | --- |
-|
+        {: .note }
+        Notice the **Question Preview** that shows what the question will look like to the user.
 
-  1. **Table field**
- | choose **Arrangement** |
-|
+        ![relative](./user_form/question_Arrangement.png)
 
-  1. **Question label**
- | What type of Telework arrangement are you applying for? |
-|
+    6. Click on **Continue to Additional details →**
 
-  1. **Mandatory**
- | Check the box |
-|
-
-  1. _Notice the **Question Preview** that shows what the question will look like to the user._
- |
-|
- |
-
-![](RackMultipart20221028-1-d1lmac_html_88a82a55060dcc11.png)
-
-1. Click on Continue to Additional details→
-
-
-2. In the **Additional details** section, we'll use the data we imported earlier as options for this question.
+    7. In the **Additional details** section, we'll use the data we imported earlier as options for this question.
 
  Enter the following information:
 
@@ -136,8 +120,8 @@ One key information we need users to provide is the type of arrangement they are
   1. Click on the **Annotation** tab
  |
 
-![](RackMultipart20221028-1-d1lmac_html_bca9359bea849c12.png)
-
+    ![relative](./user_form
+    
 Today, the team is spending a lot of time correcting and manually re-routing applications due to people confusing the different types of Telework arrangement. Let's fix that.
 
 1. We'll use the  **Annotation**  tab to provide users with additional instructions for the question.
@@ -151,18 +135,18 @@ Today, the team is spending a lot of time correcting and manually re-routing app
 
   1. **Click** on \_ Insert Question \_
 
-![](RackMultipart20221028-1-d1lmac_html_67dde9ff5eb0d1a0.png)
+    ![relative](./user_form
 
 1. Back to the main form, **click** on \_ Insert new question \_
 
-![](RackMultipart20221028-1-d1lmac_html_b630a890638b7b3d.png)
+    ![relative](./user_form
 
 When users select the arrangement type **Situational** , we'll prompt them for the number of days per week. So, let's go ahead and in the **Type** section
 
   1. For **Question type** , select **Text**
   2. For **Question subtype** , select **Single line**
 
-![](RackMultipart20221028-1-d1lmac_html_ed8893fb58e3ed69.png)
+    ![relative](./user_form
 
 1. Scroll down to the **Details** section
 
@@ -186,7 +170,7 @@ When users select the arrangement type **Situational** , we'll prompt them for t
   1. Click on **Additional details**
  |
 
-![](RackMultipart20221028-1-d1lmac_html_52467679362ef826.png)
+    ![relative](./user_form
 
 1. In the **Additional details** section,
 
@@ -198,7 +182,7 @@ When users select the arrangement type **Situational** , we'll prompt them for t
   1. Click on the **Define behavior** icon
   2. Click on the **Define new behavior** icon
 
-![](RackMultipart20221028-1-d1lmac_html_a2f05b5266c777e.png)
+    ![relative](./user_form
 
 1. In the **Additional details** section, we'll use the data we imported earlier as options for this question. Enter the following information:
 
@@ -206,30 +190,28 @@ When users select the arrangement type **Situational** , we'll prompt them for t
   2. **Make the question visible = True**
   3. Click on the **Conditions** tab
 
-![](RackMultipart20221028-1-d1lmac_html_eb8172c5528d09b9.png)
+    ![relative](./user_form
 
 1. In the **Conditions** tab,
 
   1. Set the filter to arrangement is SituationalTelework
   2. **Click** on \_Add behavior\_
 
-![](RackMultipart20221028-1-d1lmac_html_e5654c8536bb155d.png)
+    ![relative](./user_form
 
 1. Back to the questions page,
 
   1. **Click** on \_ Save \_
   2. Click on   Preview
 
-![](RackMultipart20221028-1-d1lmac_html_e66bf3acee8ede38.png)
+    ![relative](./user_form
 
 1. The **Preview** page allows to visualize what our form will look like in different experiences. You can interact with the item but not submit it.
 
 | **Mobile** | **Portal** |
 | --- | --- |
-| ![](RackMultipart20221028-1-d1lmac_html_bf02ef9477373d58.png) | ![](RackMultipart20221028-1-d1lmac_html_6dae315ae67eafa8.png) |
-|
- |
- |
+|     ![relative](./user_form |     ![relative](./user_form  ||
+
 
 2. _If you want to preview your catalog item in the Virtual Agent you will need to activate the plugins_ _ **Glide Virtual Agent** _ _(com.glide.cs.chatbot) and_ _ **Service Management Virtual Agent Topic Blocks** _ _(com.glideapp.cs.sm\_topic\_blocks)._
   1.
