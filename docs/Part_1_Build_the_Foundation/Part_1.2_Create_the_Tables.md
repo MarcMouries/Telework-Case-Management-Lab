@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create the Data
+title: Create the tables
 parent: Part 1. Build the Foundation
 nav_order: 2
 ---
