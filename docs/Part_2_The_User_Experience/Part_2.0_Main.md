@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Part 2. Create the User Experience
-nav_order: 4
+nav_order: 3
 has_children: true
 permalink: /docs/Part_2_The_User_Experience
 has_toc: false

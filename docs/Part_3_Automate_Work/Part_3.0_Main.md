@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Part 3. Automate Work
-nav_order: 5
+nav_order: 4
 has_children: true
 permalink: /docs/Part_4_Automate_Work
 has_toc: false

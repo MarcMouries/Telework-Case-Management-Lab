@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conclusion
-nav_order: 98
+nav_order: 5
 has_children: true
 has_toc: false
 ---
