@@ -9,7 +9,7 @@ nav_order: 1
 
 We will now create and configure the core Workspace experience for our new application.
 
-1. On the application homepage, locate the **Experience** section and click the ⨁ Add icon.
+1. On the application homepage, locate the **Experience** section and click the **⨁ Add icon**
     ![relative](images/Click_Add_Experience.png)
     This takes us to a selection where we can identify the type of experience we wish to create.
 
