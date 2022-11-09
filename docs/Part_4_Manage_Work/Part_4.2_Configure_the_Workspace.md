@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configure the Workspace
-parent: Part 2. Create the User Experience
+parent: Part 4. Manage work
 nav_order: 2
 ---
 # Configure the Workspace
