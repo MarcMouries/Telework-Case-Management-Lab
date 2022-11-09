@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Import Data
-parent: Part 1. Build the Foundation
+parent: Part 5. Bonus
 nav_order: 4
 ---
 
-## Section 3 – Import Legacy Data
+## Import Legacy Data
 
 1. Hover the column header **Number** , **right-click** to display the table menu options and then select **Import.**
 
