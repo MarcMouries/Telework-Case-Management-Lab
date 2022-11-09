@@ -91,7 +91,7 @@ This takes us to a selection where we can identify the type of experience we wis
 
 ![](RackMultipart20221028-1-d1lmac_html_9536c6184b57a2ad.png)
 
-1. Thislaunchestherecord producer creator.
+1. This launches the record producer creator.
 2. Click \_Get Started\_
 
 1. ![Shape3](RackMultipart20221028-1-d1lmac_html_e0e6bd50915a4eb8.gif) **Note** : A record producer is a specific type of catalog item that allows end users to create task-based records from the service catalogNext, provide the following information: (💡 double-click, copy & paste into the form)

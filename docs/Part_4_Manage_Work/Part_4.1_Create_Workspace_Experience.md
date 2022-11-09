@@ -16,7 +16,8 @@ We will now create and configure the core Workspace experience for our new appli
 2. **Click** the **Workspace** option to create a workspace to help users manage and fulfill requests sent to them
     ![relative](images/Click_the_Workspace_Tile.png)
 
-3. Thislaunches the workspace Creator. Click the [Get Started](#){: .aes_button } button
+3. Thislaunches the workspace Creator. Click the [Begin](#){: .aes_button } button
+
     ![relative](images/Add_Experience_Preview.png)
 
 4. Next, provide the following information:
@@ -24,6 +25,7 @@ We will now create and configure the core Workspace experience for our new appli
     2. **Description:** (optional)
     3. **URL:** leave the default value
     4. **Roles:** leave the default values
+
     ![relative](images/Workspace_Experience_Form.png)
 
 5. Click [Continue](#){: .aes_button }
@@ -34,14 +36,17 @@ We will now create and configure the core Workspace experience for our new appli
 
     ![relative](images/Remove_any_unnecessary_table.png)
 
-8. Set the **primary** and secondary tables to: **Telework**** Case **and** Arrangement** like below:
+8. Set the **primary** and secondary tables to: **Telework Case** and **Arrangement** like below:
 
     ![relative](images/Set_the_primary_and_secondary_tables.png)
 
 9. Click [Continue](#){: .aes_button }
 
-10. Your new Workspace experience is completed.  Click [Done](#){: .aes_button } to return to the App Home page
+10. Your new Workspace experience is completed.  Click [Edit](#){: .aes_button } to return to the App Home page
     ![relative](images/Click_Done_Experience_Created.png)
+
+Workspace Builder empowers users of all skill sets to build a custom workspace in a no-code environment. With this builder, you can quickly create a workspace and configure its layout, lists, and record pages.
+If you need access to more advanced functionalities and configurations, you can open the workspace in UI Builder from within this builder.
 
 11. From the App Home page, **click** the **Preview** link by your newly created Experience
     ![relative](images/Click_the_Preview_Experience.png)
