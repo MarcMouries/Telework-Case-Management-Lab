@@ -152,11 +152,11 @@ This takes us to a selection where we can identify the type of experience we wis
 
     3. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
 
-        Field Name                    | Field Value
-         -----------------------------| --------------
-         Map to a specific field      | Checked
-         Table field                  | Number of Days per Week
-         Question label	              | Number of Days per Week?
+        Field Name                   | Field Value
+        -----------------------------| --------------
+        Map to a specific field      | Checked
+        Table field                  | Number of Days per Week
+        Question label	             | Number of Days per Week?
 
     4. Click on **Additional details**
 
@@ -164,82 +164,91 @@ This takes us to a selection where we can identify the type of experience we wis
 
     5. In the **Additional details** section, for the **Text validation** field, select **Number**
 
-    6. **Click** on \_Insert Question\_
+    6. Click on **Insert Question**
 
-1. Back to the **Questions** page, we're going to define dynamic behavior of this question based on the answer to the previous questions
+20. Back to the **Questions** page, we're going to define the dynamic behavior of this question based on the answer to the previous question.
 
-  1. Click on the **Define behavior** icon
-  2. Click on the **Define new behavior** icon
+    1. Click on the **behavior** icon
+    2. Click on the **Define new behavior** icon
 
-    ![relative](./user_form
+    ![relative](./user_form/Click_on_the_Define_new_behavior_icon.png)
 
-1. In the **Additional details** section, we'll use the data we imported earlier as options for this question. Enter the following information:
+    3. In the **Actions** tab, we'll specify the behavior we need:
 
-  1. **Make the question mandatory = Yes**
-  2. **Make the question visible = True**
-  3. Click on the **Conditions** tab
+        Field Name                     | Field Value
+        -------------------------------| --------------
+        ① Make the question mandatory | True
+        ② Make the question visible   | True
 
-    ![relative](./user_form
+        ③ Click on the **Conditions** tab
 
-1. In the **Conditions** tab,
+        ![relative](./user_form/Define_Behavior_Actions.png)
 
-  1. Set the filter to arrangement is SituationalTelework
-  2. **Click** on \_Add behavior\_
+    4. In the **Conditions** tab,
 
-    ![relative](./user_form
+        1. Set the filter to [arrangement] [is] [Situational Telework]
 
-1. Back to the questions page,
+        2. Click on the [Add behavior](#){: .aes_button } button
 
-  1. **Click** on \_ Save \_
-  2. Click on   Preview
+        ![relative](./user_form/Define_Behavior_Condition.png)
 
-    ![relative](./user_form
+21. Back to the questions page,
 
-1. The **Preview** page allows to visualize what our form will look like in different experiences. You can interact with the item but not submit it.
+    ① Click on the [Save](#){: .aes_button } button
 
-| **Mobile** | **Portal** |
-| --- | --- |
-|     ![relative](./user_form |     ![relative](./user_form  ||
+    ② Click on Preview
+
+    1. **Click** on the [Save](#){: .aes_button } button
+    
+    2. Click on Preview
+
+    ![relative](./user_form/Define_Behavior_Save_Preview.png)
+
+22. The **Preview** page allows to visualize what our form will look like in different experiences. (You can interact with the item but not submit it).
+
+    | **Mobile** | **Portal** |
+    | --- | --- |
+    | ![relative](./user_form/Preview_Mobile.png) |  ![relative](./user_form/Preview_Portal.png)  |
+
+23. Close the Preview by clicking on the X on the top right
+
+    ![relative](./user_form/Preview_Close.png)
+
+    {: .note }
+    If you want to preview your catalog item in the Virtual Agent you will need to activate the plugins_ _ **Glide Virtual Agent** and **Service Management Virtual Agent Topic Blocks**.
+    Additional setup beyond that is required to get NLU to perform a topic conversation via the Virtual Agent.
+    Feel free to experiment this after completing the entire lab.
 
 
-2. _If you want to preview your catalog item in the Virtual Agent you will need to activate the plugins_ _ **Glide Virtual Agent** _ _(com.glide.cs.chatbot) and_ _ **Service Management Virtual Agent Topic Blocks** _ _(com.glideapp.cs.sm\_topic\_blocks)._
-  1.
-  2. _Additional setup beyond that is required to get NLU to perform a topic conversation via the Virtual Agent._
-  3.
-  4. _Feel free to experiment this after completing the entire lab._
-**Close** the Preview by clicking on the X on the top right
+24. Let's publish the form to the Service Portal
 
+    1. Click on **Review and Submit**
+    2. Click on Submit
+   ![relative](./user_form/Click_on_Review_and_Submit.png)
 
- ![Shape4](RackMultipart20221028-1-d1lmac_html_f2f8752b0fd53e2f.gif)
+25. Congratulations. The form is published on your development instance.
 
-![](RackMultipart20221028-1-d1lmac_html_5650e1c528c06ab5.png)
+    ![relative](./user_form/Success_Submission_Catalog.png)
 
-Let's publish the form
+26. Let's see how users can easily find it on the Service Portal
 
-  1. **Click** on **Review and Submit**
-  2. **Click** on \_ Submit \_
+1. Navigate to https://\<instance\>.service-now.com/**sp** to view the Service Portal
 
-![](RackMultipart20221028-1-d1lmac_html_c11c7a6578bef371.png)
-
-Congratulations. The form is published on your development instance.
-
-![](RackMultipart20221028-1-d1lmac_html_98cecb29c3d93b2.png)
-
-**Let's see how users can easily find it on the Service Portal**
-
-1. Navigate to https://\<instance\>.service-now.com/sp to view the Service Portal
 2. Search for "Telework"
 
-![](RackMultipart20221028-1-d1lmac_html_6d7a857afff3f0c9.png)
+    ![relative](./user_form/Sp_Search_for_Telework.png)
 
 1. The catalog item is found.
 2. Click on the item to apply for Telework
 
-![](RackMultipart20221028-1-d1lmac_html_9df445249f8a3921.png)
+    ![relative](./user_form/Click_Apply_for_Telework.png)
 
 1. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
 
-|
+        Field Name                     | Field Value
+        -------------------------------| --------------
+        ① Make the question mandatory | True
+        ② Make the question visible   | True
 
   1. Who is this request for?
  | **David Loo** |
