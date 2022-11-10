@@ -86,3 +86,5 @@ Let's go back to the ServiceNow admin page
               ![relative](images/Preview_Email_Telework.png)
 
 Congratulations! You successfully built and tested a workflow that saves a lot of time in the organization and makes sure tasks are assigned.
+
+[Next: Manage work](../Part_4_Manage_Work/Part_4.0_Main.md){: .btn .btn-green-sn }
