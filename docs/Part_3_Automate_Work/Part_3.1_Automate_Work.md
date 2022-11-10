@@ -253,6 +253,9 @@ Let's save the team from sending tasks via emails or other systems.
 
     ![relative](images/final_flow.png)
 
+20. Click on the Toggle view to visualize the flow as a Diagram
+
+    ![relative](images/Toggle_Diagram_View.png)
 
 
 20. Click [Save](#){: .aes_button} in the top right corner of the screen
