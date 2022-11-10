@@ -45,13 +45,19 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_Convert_to_table.png)
 
-12. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
+{: .note}
+We need to set what value to display when these records will be referenced
 
-13. Check **Display** : This sets this field as the display value for the table when used as a reference field
+12.  Let's set the display value
+
+    1. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
+
+    2. Check **Display**
+
+    3. Click [Continue](#){: .aes_button } button
 
     ![relative](images/data_Check_Display.png)
 
-14. Click [Continue](#){: .aes_button } button
 
 15. Set the table label to **Arrangement**.The table name will auto populate.
 
@@ -97,11 +103,11 @@ We will create the core tables for our application. To create a table in App Eng
 
 29. Give the table the following properties
 
-    Field Name  | Field Value
-    ------------| --------------
-    Table label | Telework Case
-    Auto number | Checked ☑ 
-    Prefix      | TLW
+    Field Name      | Field Value
+    ----------------| --------------
+    (1) Table label | Telework Case
+    (2) Auto number | Checked ☑
+    (3) Prefix      | TLW
 
     {: .note }
     You can add an identifiable tracking number to your records to make them easier to manage and follow. Selecting this option will automatically add your designated tracking number to each record in this table.
