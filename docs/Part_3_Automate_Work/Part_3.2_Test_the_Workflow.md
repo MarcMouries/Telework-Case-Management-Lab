@@ -32,26 +32,26 @@ Let's go back to the ServiceNow admin page
     1. First, let's go back to the ServiceNow Portal page. Open a new browser tab and go to https://\<instance\_name\>.service-now.com
     2. Search for Telework
     3. Open the catalog item
-    4. Complete and Submit the form
+    4. Complete the form as below and Submit
 
         ![relative](images/catalog_item_form.png)
-
 
 4. Let's check the execution
 
     1. Go back to the ServiceNow admin page
-    2. Impersonate David Loo's manager : Bud Richman"
+    2. Impersonate David Loo's manager : **Bud Richman**
     3. With email enabled on the instance and a valid email address, the manager would get an email notification and allow the manager to approve or reject.
     4. Let's check if the manager has any approval request in "My Approvals list"
         1. In the search, type "my approvals"
-            ![relative](images/catalog_item_form.png)
+
+            ![relative](images/Search_My_Approvals.png)
 
         2. Click on "My approvals"
 
         3. Yes. There is one. Right-click on the "Requested"
 
-
         4. Select "Approve"
+
             ![relative](images/Select_Approve.png)
 
 
@@ -60,18 +60,22 @@ Let's go back to the ServiceNow admin page
       1. In the top right, click the profile photo to open the User menu.
 
       2. Select  **"End Impersonation"**.
-        ![relative](images/Click_on_End_Impersonation.png)
+
+          ![relative](images/Click_on_End_Impersonation.png)
 
       3. on the top-left, type " **Outbox**"
 
       4. Select " **Outbox**"
-        ![relative](images/Click_the_Outbox_link.png)
+
+          ![relative](images/Click_the_Outbox_link.png)
 
       5. We have an email! Click on it to open it
-        ![relative](images/Click_on_the_email_link.png)
+
+          ![relative](images/Click_on_the_email_link.png)
 
       6. On the email record, scroll down to the bottom of the page, and click on Preview Email
-        ![relative](images/Click_on_Preview_Email.png)
+
+          ![relative](images/Click_on_Preview_Email.png)
 
       7. And voila! Observe the email that was sent.
 
@@ -79,6 +83,6 @@ Let's go back to the ServiceNow admin page
 
           2. Notice the watermark at the bottom of the email. ServiceNow generates a watermark label at the bottom of each notification email to allow matching incoming email to existing records. This helps track emails sent as part of a case and manage responses to emails.
 
-          ![relative](images/Preview_Email_Telework.png)
+              ![relative](images/Preview_Email_Telework.png)
 
 Congratulations! You successfully built and tested a workflow that saves a lot of time in the organization and makes sure tasks are assigned.
