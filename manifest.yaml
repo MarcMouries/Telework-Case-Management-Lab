@@ -1,0 +1,20 @@
+---
+input:
+ index.md : ""
+ docs/cover.md : ""
+ docs/Part_0/Part_0.1_Use-case.md : {noYAML: true, doctoc: true, replace: {<!--#-->: "Module 1: "}}
+ docs/Part_0/Part_0.2_Planning.md : {noYAML: true, doctoc: true, replace: {<!--#-->: "Module 2: "}}
+ docs/Part_0/Part_0.3_Takeoff_Checklist.md : {noYAML: true, doctoc: true, replace: {<!--#-->: "Module 3: "}}
+ 
+ 
+output:
+ name: merged/telework-workshop-lab.md
+ doctoc: true
+qa: {exclude: "(frontmatter|preamble)"}
+replace:
+ <!--{timestamp}-->: 11/11/2022
+ <!--{returnToMainTOC}-->: "[Return to Course Contents](#course-contents)"
+ <!--{courseTitle}-->: My Course Title
+ <!--{author}-->: Creator Workflow Team
+ ({#(.*?)}): ""
+---

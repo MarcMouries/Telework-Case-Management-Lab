@@ -21,8 +21,9 @@ Our goals for this workshop are to allow you to:
 2. Convert a real-world use case with process bottlenecks to a streamline, cross enterprise workflow
 3. Take back to your organization the knowledge of how you can make your world of work better.
 
-[Next: Use-case](/docs/Part_0/Part_0.1_Use-case.md){: .btn-green-sn .btn }
+[Next: Use-case](./docs/Part_0/Part_0.1_Use-case.md){: .btn-green-sn .btn }
 
+<!--
 <script>
     const navList = document.querySelector('.nav-list');
     let listItemToggleDarkMode = document.createElement("li");
@@ -44,3 +45,4 @@ Our goals for this workshop are to allow you to:
       }
     });
 </script>
+-->

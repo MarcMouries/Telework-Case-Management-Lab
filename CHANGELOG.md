@@ -7,10 +7,9 @@ nav_order: 99
 
 | Version       | Author                           | Changes                              |
 | ------------- | -------------------------------- | ------------------------------------ |
-| 1.0           | Marc.Mouries(servicernow)       | First version for the Rome release
-| 2.0           | Dale.Stubblefield(servicernow)  | Updated screenshots for the San Diego release
-| 2.1	        | Marc.Mouries(ServiceNow)        | Significant changes in correctness and clarity
-| 3.0           | Dale.Stubblefield(servicernow)  | Started update for ServiceNow Tokyo Release - App Engine Studio v22.0.3
-| 3.1	        | Kristy.Merriam(servicernow)     | 
-| 3.2	        | Marc.Mouries(ServiceNow)     | Conversion from word doc to website|
-| 3.2.1         | Marc.Mouries(ServiceNow)     | Reduced the number of options for the reason choice field to 3. <br>  Added more explicit screenshots  <br>   Added missing field reason to case form   <br>    Moved sections import data and workspace configuration into Part 4 Manage work  <br>    Updated workspace editing to use the new Workspace Builder instead of UI Builder
+| 1.0           | Marc.Mouries(ServiceNow)        | First version for the Rome release
+| 2.0           | Dale.Stubblefield(ServiceNow)   | Updated screenshots for the San Diego release
+| 2.1	        | Marc.Mouries(ServiceNow)         | Significant changes in correctness and clarity
+| 3.0           | Dale.Stubblefield(servicernow)   | Started update for ServiceNow Tokyo Release - App Engine Studio v22.0.3
+| 3.1	        | Marc.Mouries(ServiceNow)         | Conversion from word doc to website|
+| 3.2           | Marc.Mouries(ServiceNow)         | ‣ Reduced the number of options for the reason choice field to 3. <br>  ‣ Added more explicit screenshots  <br>‣ Added missing field reason to case form   <br>  ‣  Moved sections import data and workspace configuration to later sections  <br>‣    Updated workspace editing to use the new Workspace Builder instead of UI Builder
