@@ -312,46 +312,10 @@ Congratulations. The form is published on your development instance.
 
 ![](RackMultipart20221028-1-d1lmac_html_98cecb29c3d93b2.png)
 
-**Let's see how users can easily find it on the Service Portal**
 
-1. Navigate to https://\<instance\>.service-now.com/sp to view the Service Portal
-2. Search for "Telework"
 
-![](RackMultipart20221028-1-d1lmac_html_6d7a857afff3f0c9.png)
 
-1. The catalog item is found.
-2. Click on the item to apply for Telework
-
-![](RackMultipart20221028-1-d1lmac_html_9df445249f8a3921.png)
-
-1. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
-
-|
-
-  1. Who is this request for?
- | **David Loo** |
-| --- | --- |
-|
-
-  1. When do you need this?
- | **Next week** |
-|
-
-  1. What type of arrangement?
- | **Situational** |
-|
-
-  1. Number of days per week
- | **3** |
-|
-
-  1. Click \_Submit\_
- |
-
-![](RackMultipart20221028-1-d1lmac_html_9133453ef171c673.png)
 
 **Exercise Recap**
 
-In this exercise, we learned how Use App Engine Studio (AES) to easily create customized Catalog Items that users can access in Service Portal and on mobile devices.
-
-Our next exercise will focus on taking the building blocks created to this point and making them actionable to drive automation and process optimization
+In this exercise, we learned 

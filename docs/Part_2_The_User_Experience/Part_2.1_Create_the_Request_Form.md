@@ -260,7 +260,7 @@ This takes us to a selection where we can identify the type of experience we wis
 
 **Exercise Recap**
 
-In this exercise, we learned how Use App Engine Studio (AES) to easily create customized Catalog Items that users can access in Service Portal and on mobile devices.
+In this exercise, we learned how to use App Engine Studio (AES) to easily create customized Catalog Items that users can access in Service Portal and on mobile devices.
 
 Our next exercise will focus on taking the building blocks created to this point and making them actionable to drive automation and process optimization
 
