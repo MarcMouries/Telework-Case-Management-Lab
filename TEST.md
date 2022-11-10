@@ -3,7 +3,7 @@ layout: default
 title: TEST
 nav_exclude: true
 ---
-### Labels
+## Labels
 
 I'm a label
 {: .label }
@@ -28,11 +28,18 @@ Click on the [Create App](http://#/){: .aes_button } button
 
 Click on the [Create App](#){: .aes_button } button
 
-## Title
+## A table
+
+Field Name        | Field Value
+------------------| --------------
+field 1           | value 1
+field 2           | value 2
+
 
 {: .note }
-This website is built from the `HEAD` of the `main` branch of the theme repository.
+Here is something to know about.
 
+## A List
 
 1. Step 1
 

@@ -20,7 +20,7 @@ ServiceNow offers multiple ways to create a user experience for submitting a for
 
 This takes us to a selection where we can identify the type of experience we wish to create.
 
-1. **Select** the **Record Producer** option.
+3. **Select** the **Record Producer** option.
 
     ![relative](./user_form/Select_the_Record_Producer_option.png)
 
@@ -176,7 +176,7 @@ This takes us to a selection where we can identify the type of experience we wis
     3. In the **Actions** tab, we'll specify the behavior we need:
 
         Field Name                     | Field Value
-        -------------------------------| --------------
+        ------------------------------ | --------------
         ① Make the question mandatory | True
         ② Make the question visible   | True
 
@@ -199,7 +199,7 @@ This takes us to a selection where we can identify the type of experience we wis
     ② Click on Preview
 
     1. **Click** on the [Save](#){: .aes_button } button
-    
+
     2. Click on Preview
 
     ![relative](./user_form/Define_Behavior_Save_Preview.png)
@@ -232,48 +232,36 @@ This takes us to a selection where we can identify the type of experience we wis
 
 26. Let's see how users can easily find it on the Service Portal
 
-1. Navigate to https://\<instance\>.service-now.com/**sp** to view the Service Portal
+27. Navigate to https://\<instance\>.service-now.com/**sp** to view the Service Portal
 
-2. Search for "Telework"
+28. Search for "Telework"
 
     ![relative](./user_form/Sp_Search_for_Telework.png)
 
-1. The catalog item is found.
-2. Click on the item to apply for Telework
+29. The catalog item is found.
+31. Click on the item to apply for Telework
 
     ![relative](./user_form/Click_Apply_for_Telework.png)
 
-1. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
+32. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
 
-        Field Name                     | Field Value
-        -------------------------------| --------------
-        ① Make the question mandatory | True
-        ② Make the question visible   | True
 
-  1. Who is this request for?
- | **David Loo** |
-| --- | --- |
-|
+    Field Name                     | Field Value
+    ------------------------------ | --------------
+    (1) Who is this request for?   | David Loo
+    (2) When do you need this?     | This week
+    (3) What type of arrangement?  | Situational
+    (4) Number of days per week?   | 3
 
-  1. When do you need this?
- | **Next week** |
-|
+    5) Click on the [Submit](#){: .aes_button } button
 
-  1. What type of arrangement?
- | **Situational** |
-|
+    ![relative](./user_form/Form_Apply_for_Telework_Filled.png)
 
-  1. Number of days per week
- | **3** |
-|
-
-  1. Click \_Submit\_
- |
-
-![](RackMultipart20221028-1-d1lmac_html_9133453ef171c673.png)
 
 **Exercise Recap**
 
 In this exercise, we learned how Use App Engine Studio (AES) to easily create customized Catalog Items that users can access in Service Portal and on mobile devices.
 
 Our next exercise will focus on taking the building blocks created to this point and making them actionable to drive automation and process optimization
+
+[Next > Automate Work](../Part_3_Automate_Work/Part_3.0_Main.md){: .btn .btn-green-sn }
