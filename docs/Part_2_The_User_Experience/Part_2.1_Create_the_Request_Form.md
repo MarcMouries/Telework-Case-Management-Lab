@@ -81,13 +81,17 @@ This takes us to a selection where we can identify the type of experience we wis
 
     ![relative](./user_form/Select_Standard_Employee_Questions.png)
 
+    This will add two frequently asked questions on forms
+    ![relative](./user_form/Standard_Employee_Questions_Added.png)
+
+
 17. One key information we need users to provide is the type of arrangement they are applying for.
     1. Click Insert new question
     2. For Question type, select **Choice**
     3. For **Question subtype** , select **Record reference**
 
     ![relative](./user_form/Question_subtype_select_Record_reference.png)
-    
+
     4. Scroll down to the **Details** section
 
     5. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
@@ -129,45 +133,38 @@ This takes us to a selection where we can identify the type of experience we wis
 
     ![relative](./user_form/add_Annotation_Complete.png)
 
-    16. Back to the main form, **click** on the [Insert new question](#){: .aes_button } button
+18. Back to the main form, **click** on the [Insert new question](#){: .aes_button } button
 
     ![relative](./user_form/Click_on_Insert_New_Question.png)
 
-    17. When users select the arrangement type **Situational** , we'll prompt them for the number of days per week. So, let's go ahead and in the **Type** section
+19. When users select the arrangement type **Situational** , we'll prompt them for the number of days per week. 
 
-  1. For **Question type** , select **Text**
-  2. For **Question subtype** , select **Single line**
+    1. So, let's go ahead and in the **Type** section set the following values:
 
-    ![relative](./user_form
+        Field Name                    | Field Value
+         -----------------------------| --------------
+         Question type                | Text
+         Question subtype             | Single line
 
-1. Scroll down to the **Details** section
+        ![relative](./user_form/question_Text_Single_line.png)
+    
+    2. Scroll down to the **Details** section
 
-1. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
+    3. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
 
-|
+        Field Name                    | Field Value
+         -----------------------------| --------------
+         Map to a specific field      | Checked
+         Table field                  | Number of Days per Week
+         Question label	              | Number of Days per Week?
 
-  1. **Map to a specific field**
- | Check the box |
-| --- | --- |
-|
+    4. Click on **Additional details**
 
-  1. **Table field**
- | choose **Number of Days per Week?** |
-|
+        ![relative](./user_form/Question_Number_of_Days_per_Week.png)
 
-  1. **Question label**
- | Number of Days per Week? |
-|
+    5. In the **Additional details** section, for the **Text validation** field, select **Number**
 
-  1. Click on **Additional details**
- |
-
-    ![relative](./user_form
-
-1. In the **Additional details** section,
-
-  1. For the **Text validation** field, select **Number**
-  2. **Click** on \_Insert Question\_
+    6. **Click** on \_Insert Question\_
 
 1. Back to the **Questions** page, we're going to define dynamic behavior of this question based on the answer to the previous questions
 
