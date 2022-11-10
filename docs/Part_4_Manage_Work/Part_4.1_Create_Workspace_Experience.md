@@ -10,23 +10,26 @@ nav_order: 1
 We will now create and configure the core Workspace experience for our new application.
 
 1. On the application homepage, locate the **Experience** section and click the **⨁ Add icon**
-    ![relative](images/Click_Add_Experience.png)
+    ![relative](./workspace/Click_Add_Experience.png)
     This takes us to a selection where we can identify the type of experience we wish to create.
 
 2. **Click** the **Workspace** option to create a workspace to help users manage and fulfill requests sent to them
-    ![relative](images/Click_the_Workspace_Tile.png)
+    ![relative](./workspace/Click_the_Workspace_Tile.png)
 
-3. Thislaunches the workspace Creator. Click the [Begin](#){: .aes_button } button
+3. This launches the workspace Creator. Click the [Begin](#){: .aes_button } button
 
-    ![relative](images/Add_Experience_Preview.png)
+    ![relative](./workspace/Add_Experience_Preview.png)
 
 4. Next, provide the following information:
-    1. **Name:** leave the default value
-    2. **Description:** (optional)
-    3. **URL:** leave the default value
-    4. **Roles:** leave the default values
 
-    ![relative](images/Workspace_Experience_Form.png)
+    Field Name                     | Field Value
+    ------------------------------ | --------------
+    (1) Name                       | leave the default value
+    (2) Description                | (optional)
+    (3) URL                        | leave the default value
+    (4) Roles                      | leave the default values
+
+    ![relative](./workspace/Workspace_Experience_Form.png)
 
 5. Click [Continue](#){: .aes_button }
 
@@ -34,37 +37,44 @@ We will now create and configure the core Workspace experience for our new appli
 
 7. Remove any unnecessary table, by clicking on the X at the end of the table name.
 
-    ![relative](images/Remove_any_unnecessary_table.png)
+    ![relative](./workspace/Remove_any_unnecessary_table.png)
 
 8. Set the **primary** and secondary tables to: **Telework Case** and **Arrangement** like below:
 
-    ![relative](images/Set_the_primary_and_secondary_tables.png)
+    ![relative](./workspace/Set_the_primary_and_secondary_tables.png)
 
 9. Click [Continue](#){: .aes_button }
 
 10. Your new Workspace experience is completed.  Click [Edit](#){: .aes_button } to return to the App Home page
-    ![relative](images/Click_Done_Experience_Created.png)
+    ![relative](./workspace/Click_Done_Experience_Created.png)
 
 Workspace Builder empowers users of all skill sets to build a custom workspace in a no-code environment. With this builder, you can quickly create a workspace and configure its layout, lists, and record pages.
 If you need access to more advanced functionalities and configurations, you can open the workspace in UI Builder from within this builder.
 
 11. From the App Home page, **click** the **Preview** link by your newly created Experience
-    ![relative](images/Click_the_Preview_Experience.png)
+    ![relative](./workspace/Click_the_Preview_Experience.png)
 
 12. We now have a fully functioning workspace to get work done.
 
+
+Next, let's tailor the workspace to our needs.
+
+[Next: Workspace configuration](./Part_4.2_Configure_the_Workspace.md){: .btn .btn-green-sn }
+
+
+
 13. Click on **Critical Tasks**
-    ![relative](images/Click_on_Critical_Tasks.png)
+
+    ![relative](./workspace/Click_on_Critical_Tasks.png)
 
 14. Select all rows, Click **Edit** , Select **Assign to me** , Click **Back**
-    ![relative](images/Select_Assign_to_me.png)
+    ![relative](./workspace/Select_Assign_to_me.png)
 
 15. You now have 2 tasks assigned to you.
-    ![relative](images/You_now_have_2_tasks_assigned_to_you.png)
+    ![relative](./workspace/You_now_have_2_tasks_assigned_to_you.png)
 
 16. In the **My Work** list, click on the Refresh icon to see the new tasks
-    ![relative](images/Click_on_the_Refresh_Icon.png)
-
+    ![relative](./workspace/Click_on_the_Refresh_Icon.png)
 
 17. **Great!** Now let's see how quick we can handle an emergency ⚠️.
 
