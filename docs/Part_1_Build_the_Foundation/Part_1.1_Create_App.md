@@ -63,4 +63,4 @@ In this section of the exercise, you will review and turn off Guidance.
     ![relative](images/2.4_full-screen.png)
 
 
- [Next Create the Tables](Part_1.2_Create_the_Data.md){: .btn .btn-green-sn }
+ [Next Create the Tables](Part_1.2_Create_the_Tables.md){: .btn .btn-green-sn }
