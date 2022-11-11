@@ -2,7 +2,7 @@
 layout: default
 title: Import Data
 parent: Part 4. Manage work
-nav_order: 2
+nav_order: 1
 ---
 
 ## Import Cases
