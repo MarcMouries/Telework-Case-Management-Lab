@@ -246,11 +246,17 @@ We need to set what value to display when these records will be referenced
 
     ![relative](images/data_click_Preview.png)
 
-    You'll notice that there's no data
+    When records will be created they will appear here.
 
     ![relative](images/data_no_records.png)
 
 
-Let's fix that….
+**Exercise Recap**
 
-[Next: Import Legacy Data](./Part_1.3_Import_Data.md){: .btn .btn-green-sn }
+In this exercise, we learned how to create a new application and map out the data elements important to enable our business process.
+
+We learned to use the Table Builder to add and configure columns including Reference fields and Choice lists.
+
+We were able to complete all these tasks using simple point-and-click administration and without requiring specialized application or database knowledge.
+
+[Next: User Experience](../Part_2_The_User_Experience/Part_2.0_Main.md){: .btn .btn-green-sn }

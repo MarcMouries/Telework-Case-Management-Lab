@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Import Data
-parent: Part 5. Bonus
-nav_order: 4
+parent: Part 4. Manage work
+nav_order: 2
 ---
 
-## Import Legacy Data
+## Import Cases
 
 1. Hover the column header **Number** , **right-click** to display the table menu options and then select **Import.**
 
@@ -95,14 +95,6 @@ Now a new tab at the bottom of the form will show records that have relationship
 22. Close the Table Builder and Preview tab by **clicking** the **X** on them.
     ![relative](import/Close_the_Preview_Tab_by_clicking_the_X.png)
 
-23. Next, we'll work on configuring the user experience.
 
-**Exercise Recap**
 
-In this exercise, we learned how to create a new application and map out the data elements important to enable our business process.
-
-We learned to use the Table Builder to add and configure columns including Reference fields and Choice lists.
-
-We were able to complete all these tasks using simple point-and-click administration and without requiring specialized application or database knowledge.
-
-[Next: User Interface]( ../Part_2_The_User_Experience/Part_2.0_Main.html){: .btn .btn-green-sn }
+[Next: User Interface]( ./Part_4.2_Configure_the_Workspace.md){: .btn .btn-green-sn }
