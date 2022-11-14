@@ -45,19 +45,18 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_Convert_to_table.png)
 
-{: .note}
-We need to set what value to display when these records will be referenced
+    {: .note}
+    We need to set what value to display when these records will be referenced
 
 12.  Let's set the display value
 
-    1. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
+     1. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
 
-    2. Check **Display**
+     2. Check **Display**
 
-    3. Click [Continue](#){: .aes_button } button
+     3. Click [Continue](#){: .aes_button } button
 
-    ![relative](images/data_Check_Display.png)
-
+     ![relative](images/data_Check_Display.png)
 
 15. Set the table label to **Arrangement**.The table name will auto populate.
 
