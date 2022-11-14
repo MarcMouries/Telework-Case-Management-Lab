@@ -29,7 +29,7 @@ Let's go back to the ServiceNow admin page
 
 3. Let's submit a new application.
 
-    1. First, let's go back to the ServiceNow Portal page. Open a new browser tab and go to https://\<instance\_name\>.service-now.com
+    1. First, let's go back to the ServiceNow Portal page. Open a new browser tab and go to https://\<instance\_name\>.service-now.com/**sp**
     2. Search for Telework
     3. Open the catalog item
     4. Complete the form as below and Submit
