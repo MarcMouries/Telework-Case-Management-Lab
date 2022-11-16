@@ -7,6 +7,8 @@ nav_order: 1
 
 ## Import Cases
 
+0. *TODO* Add instructions on how to get here
+
 1. Hover the column header **Number** , **right-click** to display the table menu options and then select **Import.**
 
     ![relative](import/Select_Import.png)
@@ -79,20 +81,22 @@ Next, let's start working and managing our records
 
 Now a new tab at the bottom of the form will show records that have relationships to the current record.
 
-    ![relative](import/related_list_shows_related_records.png)
+![relative](import/related_list_shows_related_records.png)
 
 18. Go back to the list view by clicking on the back button at the top
 
-    ![relative](import/Go_back_to_the_list_view.png)
+![relative](import/Go_back_to_the_list_view.png)
 
 19. We can even start creating new records/cases
 
-20. Click \_New\_ in the top right
+20. Click **New in the top right
+
     ![relative](import/Create_Case_Cilck_New_in_the top_right.png)
 
 21. Fill out the form and click "Submit" to create a test record.
 
 22. Close the Table Builder and Preview tab by **clicking** the **X** on them.
+
     ![relative](import/Close_the_Preview_Tab_by_clicking_the_X.png)
 
 

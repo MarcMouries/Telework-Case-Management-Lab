@@ -66,9 +66,15 @@ We will create the core tables for our application. To create a table in App Eng
 
 17. Click the **All** checkbox for the **admin** role.
 
-18. Click the **Create**, **Read**, and **Write** checkbox for the **user** role.
+18. Click the **Read** checkbox for the **user** role.
 
-    ![relative](images/data_add_table_permissions.png)
+     **TODO**: update screenshot
+     
+     ![relative](images/data_add_table_permissions.png)
+
+
+    {: .note}
+    We need to set what value to display when these records will be referenced
 
 19. Click [Continue](#){: .aes_button } button
 
@@ -217,6 +223,8 @@ We will create the core tables for our application. To create a table in App Eng
 
 52. Click on "Formatters"
 
+    {: .note }
+    CLEAR the  search field
     ![relative](images/data_Click_on_Formatters.png)
 
 53. Drag the "**Activities (filtered)**" field onto the form below the Short description field.
