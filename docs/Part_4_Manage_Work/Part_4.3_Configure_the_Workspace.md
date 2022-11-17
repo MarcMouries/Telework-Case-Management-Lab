@@ -2,7 +2,7 @@
 layout: default
 title: Configure the Workspace
 parent: Part 4. Manage work
-nav_order: 3
+nav_order: 4
 ---
 # Configure the Workspace
 
