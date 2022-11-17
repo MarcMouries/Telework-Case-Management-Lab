@@ -28,11 +28,15 @@ We will now create and configure the core Workspace experience for our new appli
 
 6. Set the **primary** and secondary tables to: **Telework Case** and **Arrangement** like below:
 
+    ![relative](./workspace/Set_the_primary_and_secondary_tables_VID.png)
+
     ![relative](./workspace/Set_the_primary_and_secondary_tables.png)
+
 
 7. Click [Continue](#){: .aes_button }
 
 8. Your new Workspace experience is completed.  Click [Edit](#){: .aes_button } to return to the App Home page
+
     ![relative](./workspace/Click_Done_Experience_Created.png)
 
 Workspace Builder empowers users of all skill sets to build a custom workspace in a no-code environment. With this builder, you can quickly create a workspace and configure its layout, lists, and record pages.
