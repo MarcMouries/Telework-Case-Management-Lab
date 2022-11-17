@@ -159,7 +159,7 @@ We will create the core tables for our application. To create a table in App Eng
 
 40. In the new row created, add the following values:
 
-    1. Label: " **Number of Days**"
+    1. Label: " **Days per week**"
     2. Hit the [ENTER] key
     3. Column name: (auto-generated)
     4. Type: **Integer**

@@ -155,7 +155,7 @@ This takes us to a selection where we can identify the type of experience we wis
         Field Name                   | Field Value
         -----------------------------| --------------
         Map to a specific field      | Checked
-        Table field                  | Number of Days per Week
+        Table field                  | Days per week
         Question label	             | Number of Days per Week?
 
     4. Click on **Additional details**
