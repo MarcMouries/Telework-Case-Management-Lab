@@ -10,7 +10,7 @@ Let's use the Analytics Center to configure a new Dashboard for our needs.
 
 1. In Analytics Center, click on **Dashboards** , then choose the dashboard created for your workspace
 
-    ![relative](images/In_Analytics_Center_Click_Dashboards.png)
+    ![relative](Analytics_Center/In_Analytics_Center_Click_Dashboards.png)
 
 2. Once the dashboard opens, click Edit in the top right of the screen
 

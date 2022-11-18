@@ -12,4 +12,5 @@ nav_order: 99
 | 2.1	        | Marc.Mouries(ServiceNow)         | Significant changes in correctness and clarity
 | 3.0           | Dale.Stubblefield(servicernow)   | Started update for ServiceNow Tokyo Release - App Engine Studio v22.0.3
 | 3.1	        | Marc.Mouries(ServiceNow)         | Conversion from word doc to website
-| 3.2           | Marc.Mouries(ServiceNow)         | ‣ Reduced the number of options for the reason choice field to 3. <br>  ‣ Added more explicit screenshots  <br>‣ Added missing field reason to case form   <br>  ‣  Moved sections import data and workspace configuration to later sections  <br>‣    Updated workspace editing to use the new Workspace Builder instead of UI Builder <br>‣ Simplified instructions
+| 3.2           | Marc.Mouries(ServiceNow)         | ‣ Reduced the number of options for the reason choice field to 3. <br>  ‣ Added more explicit screenshots  <br>‣ Added missing field reason to case form <br>‣ Simplified instructions <br>‣  Moved sections import data and workspace configuration to later sections  <br>‣    Updated workspace editing to use the new Workspace Builder instead of UI Builder  <br> ‣ Simplified testing of workflow
+| 2023 (Utah)  | Marc.Mouries(ServiceNow)         | ‣ Add new catalog builder feature "Auto-populate." to change the value of a variable based on a change in another variable.

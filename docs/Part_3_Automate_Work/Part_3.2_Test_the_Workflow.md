@@ -12,7 +12,7 @@ We need to test with a user who has a manger, fortunately ServiceNow allows to i
 
 Let's go back to the ServiceNow admin page
 
-1. In the banner frame, click your profile photo in the top right to open the user menu.
+1. In the banner frame, click the profile photo in the top right to open the user menu.
 
 2. Select  **Impersonate User**.
 
@@ -23,7 +23,10 @@ Let's go back to the ServiceNow admin page
     1. Search for "David Loo" (it's one of the demo user who has a manager).
     2. Select him
     3. Click *Impersonate User*
-    4. Close the pop-up
+
+
+        ![relative](images/impersonate_user.png)
+
 
     ![relative](images/Close_the_Impersonation_Pop-up.png)
 
@@ -85,6 +88,6 @@ Let's go back to the ServiceNow admin page
 
               ![relative](images/Preview_Email_Telework.png)
 
-Congratulations! You successfully built and tested a workflow that saves a lot of time in the organization and makes sure tasks are assigned.
+Congratulations! You successfully built and tested a workflow that saves a lot of time in the organization and makes sure tasks are assigned properly.
 
 [Next: Manage work](../Part_4_Manage_Work/Part_4.0_Main.md){: .btn .btn-green-sn }
