@@ -26,26 +26,39 @@ We will now create and configure the core Workspace experience for our new appli
 
 5. Next, we'll select the tables we want to work with in this workspace.
 
-6. Set the **primary** and secondary tables to: **Telework Case** and **Arrangement** like below:
+6. Set the **primary** and secondary tables to: **Telework Case** and **Arrangement** like below and Click [Continue](#){: .aes_button }
+
+    Field Name           | Field Value
+    ---------------------| --------------
+    (1) Primary table    | Telework
+    (2) Secondary tables | Arrangement
 
     ![relative](./workspace/Set_the_primary_and_secondary_tables_VID.gif)
 
     ![relative](./workspace/Set_the_primary_and_secondary_tables.png)
 
 
-7. Click [Continue](#){: .aes_button }
-
-8. Your new Workspace experience is completed.  Click [Edit](#){: .aes_button } to return to the App Home page
+7. Your new Workspace experience is completed.  Click [Edit](#){: .aes_button }
 
     ![relative](./workspace/Click_Done_Experience_Created.png)
 
+
+8. We are now directed to the Workspace Builder. Click [Get Started](#){: .aes_button } 
+
+    ![relative](./workspace/Welcome_to_Workspace_Builder.png)
+
+
+    {: .note}
+    The Workspace Builder for App Engine allows you to manage dashboards, build lists, and customize record pages for workspaces createdin App Engine Studio. App Engine licensed customers enjoy exclusive access to this premium feature.
+
+    Developers can drive value with custom workspaces faster than ever with clicks instead of code. The newly streamlined experience allows developers to use a single builder to create custom data visualizations, filtered lists, and record pages all in one place.
+
+
+We now have a fully functioning workspace to get work done.
+
+
 Workspace Builder empowers users of all skill sets to build a custom workspace in a no-code environment. With this builder, you can quickly create a workspace and configure its layout, lists, and record pages.
 If you need access to more advanced functionalities and configurations, you can open the workspace in UI Builder from within this builder.
-
-11. From the App Home page, **click** the **Preview** link by your newly created Experience
-    ![relative](./workspace/Click_the_Preview_Experience.png)
-
-12. We now have a fully functioning workspace to get work done.
 
 
 Next, let's tailor the workspace to our needs.

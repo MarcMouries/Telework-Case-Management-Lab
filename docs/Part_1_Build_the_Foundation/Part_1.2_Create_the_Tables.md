@@ -33,9 +33,9 @@ We will create the core tables for our application. To create a table in App Eng
 
 7. Browse and select the  **Telework Data.xlsx**  file you downloaded
 
-    ![relative](images/data_drag_drop_spreadsheet.png)
+    ![relative](images/data_drag_drop_spreadsheet_AFTER.png)
 
-8. Click [Continue](#){: .aes_button } button
+8. Click the [Continue](#){: .aes_button } button
 
 9. Our spreadsheet has multiple sheets. **We only need the first one** "Telework Arrangement".
 
@@ -48,7 +48,7 @@ We will create the core tables for our application. To create a table in App Eng
     {: .note}
     We need to set what value to display when these records will be referenced
 
-12.  Let's set the display value
+12. Let's set the display value
 
      1. Click the  **Expand/Collapse**  icon (⌄) to see advanced configuration options.
 
@@ -58,55 +58,49 @@ We will create the core tables for our application. To create a table in App Eng
 
      ![relative](images/data_Check_Display.png)
 
-15. Set the table label to **Arrangement**.The table name will auto populate.
+13. Set the table label to **Arrangement**.The table name will auto populate.
 
     ![relative](images/data_Set_the_table_label.png)
 
-16. Click [Continue](#){: .aes_button } button
+14. Click [Continue](#){: .aes_button } button
 
-17. Click the **All** checkbox for the **admin** role.
+15. For the **admin** role, click the **All** checkbox
 
-18. Click the **Read** checkbox for the **user** role.
+16. For the **user** role, click the **All** checkbox and then remove the **Delete** permission
 
-     **TODO**: update screenshot
-     
      ![relative](images/data_add_table_permissions.png)
 
+17. Click [Continue](#){: .aes_button } button
 
-    {: .note}
-    We need to set what value to display when these records will be referenced
+18. A loading screen will appear while the table is being created. When it completes, click [Done](#){: .aes_button }
 
-19. Click [Continue](#){: .aes_button } button
-
-20. A loading screen will appear while the table is being created. When it completes, click [Done](#){: .aes_button }
-
-21. We haven't converted all the sheets in the spreadsheets, so we'll see this message pop up
+19. We haven't converted all the sheets in the spreadsheets, so we'll see this message pop up
 
     ![relative](images/data_leave_without_converting_other_sheets.png)
 
-22. Click [Yes, leave](#){: .aes_button }
+20. Click [Yes, leave](#){: .aes_button }
 
-23. Again, click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
+21. Again, click the  **Add**  icon (⨁ Add) for _Data_ on the _App Home_ tab.
 
     ![relative](images/data_add_icon.png)
 
-24. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
+22. On the _How do you want to add data to your app?_ screen, select the **Create a table** tile.
 
     ![relative](images/data_create_table_tile.png)
 
-25. Click [Begin](#){: .aes_button} button
+23. Click [Begin](#){: .aes_button} button
 
-26. On the _How do you want to create a table?_ screen, Select **Create from an existing table**.
+24. On the _How do you want to create a table?_ screen, Select **Create from an existing table**.
 
     ![relative](images/data_Create_from_an_existing_table.png)
 
-27. Click the [Continue](#){: .aes_button } button
+25. Click the [Continue](#){: .aes_button } button
 
-28. Type **Task,** then select the table **Task [task]** and Click [Continue](#){: .aes_button }
+26. Type **Task,** then select the table **Task [task]** and Click [Continue](#){: .aes_button }
 
     ![relative](images/data_select_the_table_Task.png)
 
-29. Give the table the following properties
+27. Give the table the following properties
 
     Field Name      | Field Value
     ----------------| --------------
@@ -119,32 +113,33 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_new_table_properties.png)
 
-30. Click [Continue](#){: .aes_button }
+28. Click [Continue](#){: .aes_button }
 
 
-31. Click the **All** checkbox for the **admin** role.
+29. Click the **All** checkbox for the **admin** role.
 
-32. Click the **Create**, **Read**, and **Write** checkbox for the **user** role.
+30. Click the **Create**, **Read**, and **Write** checkbox for the **user** role.
 
     ![relative](images/data_add_table_permissions.png)
 
-33. Click [Continue](#){: .aes_button }
+31. Click [Continue](#){: .aes_button }
 
-34. Once the table is ready, let's add the fields (columns) we need. Clic **Edit table**.
+32. Once the table is ready, let's add the fields (columns) we need. Clic **Edit table**.
 
     ![relative](images/data_edit_table.png)
 
-35. We now see the Table Builder screen. From this screen, we can see the fields that were automatically added to our table by the system, as well as add additional columns.
+33. Close the guide to the Table Builder screen
 
-    ![relative](images/data_intro_table_builder.png)
+    ![relative](images/data_intro_table_builder_CLOSE.png)
 
-36. Review the introduction to Table Builder then **click** the **Next** button to walk through each information pane. From the last screen, **click** the **Get Started** button.
+    {: .note}
+    We can see all the fields that our table inherited from the Task table, making building applications faster.
 
-37. Now let's add the data columns for our application. Start by **clicking** the **Add new field** link at the top of the screen
+34. Let's add the fields for our application. **Click** the **Add new field** link at the top of the screen
 
     ![relative](images/data_Add_new_field.png)
 
-38. In the new row created, add the following values:
+35. In the new row created, add the following values:
 
     1. Label: **Arrangement**
     2. Hit the [ENTER] key
@@ -155,18 +150,18 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/Table_Add_Arrangement_Field.png)
 
-39. Again, **click** the **Add new field** link at the top of the screen
+36. Again, **click** the **Add new field** link at the top of the screen
 
-40. In the new row created, add the following values:
+37. In the new row created, add the following values:
 
     1. Label: " **Days per week**"
     2. Hit the [ENTER] key
     3. Column name: (auto-generated)
     4. Type: **Integer**
 
-41. Again, **click** the **Add new field** link at the top of the screen
+38. Again, **click** the **Add new field** link at the top of the screen
 
-42. In the new row created, add the following values:
+39. In the new row created, add the following values:
 
     1. Label: **Reason**
     2. Hit the [ENTER] key
@@ -182,56 +177,68 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/table_add_reason_choices.png)
 
-43. Click [Done](#){: .aes_button }
+40. Click [Done](#){: .aes_button }
 
-44. We now have all the data elements we need to manage our use case.
+41. We now have all the data elements we need to manage our use case. Click  the **filter options** button  and then select **Hide extended fields**. You should have 3 fields as below:
 
-45. Click the [Save](#){: .aes_button } button at the top right to finalize your configurations.
+    ![relative](images/create_fields_completed.png)
+
+42. Click the [Save](#){: .aes_button } button at the top right to finalize your configurations.
 
     ![relative](images/Create_Table_Click_the_Save_button.png)
 
-46. Congratulations, you've built the first tables in your solution.
+43. Congratulations, you've built the first tables in your solution.
 
     **Let's take a look at the form that has been generated for our table and adjust the layout.**
 
-47. At the top-center of the table, click **Form views**
+44. At the top-center of the table, click **Form views**
 
     ![relative](images/data_layout_click_form_views.png)
 
     As we created our table by extending the Task table, we inherited some fields we don't need for our use case.
 
-48. Remove the following fields (by clicking the X)
+45. Remove the following fields (by clicking the X)
 
     1. Number
-    2. Configuration Item,
-    3. Active,
+    2. Configuration Item
+    3. Active
     4. Parent
 
     ![relative](images/data_layout_remove_fields.png)
 
-49. Users want to see who opened the case. We can easily fulfill the requirement by reusing the Opened by field from the Task table. In the Fields tab to the left is where existing fields can be added. Notice how there are 63 fields available to use.
+46. Users want to see who opened the case. We can easily fulfill the requirement by reusing the **Opened by** field from the Task table. In the Fields tab to the left is where existing fields can be added. Notice how there are 63 fields available to use.
 
-    ![relative](images/data_layout_add_form_elements.png)
+47. Click the circled plus icon ⊕ to add a field above
 
-50. Type **Opened by** in the Search box
+    ![relative](images/Add_the_Openedby_field_1.png)
 
-51. Drag the **Opened by** field onto the form
+48. (1) Type **Opened by** in the Search box and then (2) click on the **Opened by** field
 
-    ![relative](images/data_Drag_the_Opened_by_field.png)
+    ![relative](images/Add_the_Openedby_field_2.png)
 
-    ![relative](images/data_Drag_the_Opened_by_field_AFTER.png)
+49. Repeat the operation to add the field **Arrangement**
 
-52. Click on "Formatters"
+    ![relative](images/add_field_Arrangement.png)
 
-    {: .note }
-    CLEAR the  search field
+50. Add the field **Days per week**
+
+    ![relative](images/add_field_Days_per_week.png)
+
+51. Add the field **Reason**
+
+    ![relative](images/add_field_Reason.png)
+
+52. Now we'll add the Activity formatter that provides a way to present the audit history of a particular record
+
+53. (1) Click **More**  and then (2) click **Formatters**
+
     ![relative](images/data_Click_on_Formatters.png)
 
-53. Drag the "**Activities (filtered)**" field onto the form below the Short description field.
+54. Drag the "**Activities (filtered)**" field onto the form below the Short description field.
 
     ![relative](images/data_Drag_the_Activities_field.png)
 
-54. Add the **Arrangement"** field to the main section of the form.
+55. Add the **Arrangement"** field to the main section of the form.
 
     ![relative](images/form_add_the_Arrangement_field.png)
 

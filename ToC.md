@@ -14,7 +14,10 @@ nav_exclude: true
 
     a.	Create App
 
-    b.	Create Tables
+    b.	Create Tables 
+
+      1. Arrangement from Excel 
+      2. Telework extends Task
 
 3.	Create the UX
 
