@@ -28,7 +28,7 @@ We will now create and configure the core Workspace experience for our new appli
 
 6. Set the **primary** and secondary tables to: **Telework Case** and **Arrangement** like below:
 
-    ![relative](./workspace/Set_the_primary_and_secondary_tables_VID.png)
+    ![relative](./workspace/Set_the_primary_and_secondary_tables_VID.gif)
 
     ![relative](./workspace/Set_the_primary_and_secondary_tables.png)
 
