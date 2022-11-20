@@ -29,9 +29,9 @@ nav_order: 1
 
 6. Scroll down and click on the **Complete Import** button
 
-    ![relative](import/Click_on_the_Complete_Impor_button.png)
+    ![relative](import/Click_on_the_Complete_Import_button.png)
 
-7. You'll now see that we have migrated our data.
+7. Now we see the imported casess.
 
     ![relative](import/we_now_have_migrated_our_data.png)
 
@@ -93,7 +93,7 @@ Now a new tab at the bottom of the form will show records that have relationship
 
 21. Click **New** in the top right
 
-    ![relative](import/Create_Case_Cilck_New_in_the top_right.png)
+![relative](import/Create_Case_Cilck_New_in_the_top_right.png)
 
 22. Fill out the form and click "Submit" to create a test record.
 
