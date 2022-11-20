@@ -7,7 +7,7 @@ nav_order: 3
 
 ## 1 – Create a Workspace Experience
 
-We will now create and configure the core Workspace experience for our new application.
+We will now create and configure the Workspace experience for our new application.
 
 1. On the application homepage, locate the **Experience** section and click the **⨁ Add icon**
     ![relative](./workspace/Click_Add_Experience.png)
@@ -49,7 +49,7 @@ We will now create and configure the core Workspace experience for our new appli
 
 
     {: .note}
-    The Workspace Builder for App Engine allows you to manage dashboards, build lists, and customize record pages for workspaces createdin App Engine Studio. App Engine licensed customers enjoy exclusive access to this premium feature.
+    The Workspace Builder for App Engine allows you to manage dashboards, build lists, and customize record pages for workspaces created in App Engine Studio. App Engine licensed customers enjoy exclusive access to this premium feature.
 
     Developers can drive value with custom workspaces faster than ever with clicks instead of code. The newly streamlined experience allows developers to use a single builder to create custom data visualizations, filtered lists, and record pages all in one place.
 
