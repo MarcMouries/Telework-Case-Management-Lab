@@ -2,6 +2,7 @@
 layout: default
 title: Use the Workspace
 parent: Part 4. Manage work
-nav_order: 3
+nav_order: 5
 ---
-Part_2.2_Use_the_Workspace
+## Use the Workspace
+

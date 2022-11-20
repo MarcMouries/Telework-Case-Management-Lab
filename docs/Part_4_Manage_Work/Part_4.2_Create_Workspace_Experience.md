@@ -2,7 +2,7 @@
 layout: default
 title: Create a Workspace Experience
 parent: Part 4. Manage work
-nav_order: 2
+nav_order: 3
 ---
 
 ## 1 – Create a Workspace Experience
