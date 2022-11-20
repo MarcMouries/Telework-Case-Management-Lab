@@ -108,7 +108,8 @@ nav_order: 1
         ![relative](images/Click_Trigger_Record_Created.png)
 
     4. Click on the chevron to access the list of fields
-    ![relative](images/Click_on_the_chevron_to_access the_list_of_fields.png)
+
+        ![relative](images/Click_on_the_chevron_to_access_the_list_of_fields.png)
 
     5. Locate the "**Opened by**" field and click on the chevron next to it
         
@@ -155,7 +156,6 @@ nav_order: 1
 
     6. Click: [Done](#){: .aes_button }
 
-
 {: .note }
 we now have a branch where we can add actions or flow logic if the manager approves
 Let's save the team from sending tasks via emails or other systems.
@@ -170,7 +170,7 @@ Let's save the team from sending tasks via emails or other systems.
     6. Click "Add field value"
     7. Search and select " **Parent**"
     8. Click on the Data Pill Picker (_magic wand button_)
-    ![relative](images/Click_on_the_Data_Pill_Picker.png)
+    ![relative](images/Click_Data_Pill_Picker_for_Parent.png)
 
     9. Select " **Trigger - Record created**" -\> " **Telework Case Record**"
     ![relative](images/Select_Trigger_Record.png)
