@@ -10,9 +10,33 @@ The Workspace Builder empowers users of all skill sets to build a custom workspa
 
 A lot has been pre-configured for us. We'll make a couple changes to improve it.
 
-1. Let's make sure the scores point to our table
+1. Let's make sure the scores point to the Telework table
 
-2. 
+2. (1) Click the **Unassigned Tasks** score, (2) Click Configure (3) Click the Task table
+
+    ![relative](workspace/Edit_Visualization_Unassigned.png)
+
+3. (1) Type "Telework", (2) <kbd>⏎ Enter</kbd>, (3) Click the Telework table, (4) Click **Add custom conditions**
+
+    ![relative](workspace/edit_data_source.png)
+
+4. Set the Condition to **Assigned to = Empty**
+    1. Set the condition
+    2. Click Run
+    3. Click Apply
+
+    ![relative](workspace/apply_data_source_filter_condition.png)
+
+5. (1) Click the **Critical Tasks** score, (2) Click Configure (3) Click the Task table
+
+    ![relative](workspace/Edit_Visualization_Critical_Tasks.png)
+
+
+
+
+--
+--
+--
 
 
 Let's use the Analytics Center to configure a new Dashboard for our needs.
