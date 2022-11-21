@@ -47,18 +47,13 @@ We will now create and configure the Workspace experience for our new applicatio
 
     ![relative](./workspace/Welcome_to_Workspace_Builder.png)
 
+9. We now have a fully functioning workspace to get work done quickly.
+
+    ![relative](./workspace/workspace_brand_new.png)
+
 
     {: .note}
     The Workspace Builder for App Engine allows you to manage dashboards, build lists, and customize record pages for workspaces created in App Engine Studio. App Engine licensed customers enjoy exclusive access to this premium feature.
-
-    Developers can drive value with custom workspaces faster than ever with clicks instead of code. The newly streamlined experience allows developers to use a single builder to create custom data visualizations, filtered lists, and record pages all in one place.
-
-
-We now have a fully functioning workspace to get work done.
-
-
-Workspace Builder empowers users of all skill sets to build a custom workspace in a no-code environment. With this builder, you can quickly create a workspace and configure its layout, lists, and record pages.
-If you need access to more advanced functionalities and configurations, you can open the workspace in UI Builder from within this builder.
 
 
 Next, let's tailor the workspace to our needs.

@@ -5,7 +5,7 @@ parent: Introduction
 nav_order: 1
 has_toc: false
 ---
-## Use-case
+# Use-case
 
 Amanda is part of the Office of Regulatory Affairs and her team responsible for managing different cases across the agency. One of their responsibilities is to ensure employees are approved to work remotely and have the necessary I.T. equipment to protect and manage the records and other sensitive information stored on telework devices and transmitted across external networks. Currently, her team has no centralized case management solution for tracking the status of telework cases and tasks across 3 departments (the employee's department, the HR department, and the IT department). Today the team is using:
 
@@ -23,7 +23,7 @@ Amanda is part of the Office of Regulatory Affairs and her team responsible for 
   2. HR for Safety & Manager
  2. Manage updates to Telework cases
 
-### Challenges
+## Challenges
 
 The lack of a single platform to manage their work results in:
 

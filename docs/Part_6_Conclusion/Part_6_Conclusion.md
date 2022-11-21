@@ -11,6 +11,15 @@ In this lab, we built, implemented, and tested an application using the fundamen
 
 The team managing the work will be more efficient and the users will get what they need faster.
 
+Let's recap: 
+
+   Pain point      | Impact        | Solution
+   ----------------| --------------| -----
+   Table label    | Telework Case |
+   Auto number    | Checked       | 
+   Prefix         | TLW           | 
+   Prefix         | TLW           |   
+
 Of course, the examples in these exercises are just the beginning when it comes to the power of leveraging Automation Engine.
 
 The possibilities are limited only by your imagination as a Creator. If you can dream it, you can workflow it on the Now Platform.
@@ -21,7 +30,7 @@ Here are some resources to help you continue your journey on the ServiceNow plat
 
 In addition to this Lab Guide and the resources discussed in the live workshop, the following resources are always available to help with this, or any other ServiceNow activities.
 
-- Get a free Personal Development instance and more free training on:
+1. Get a free Personal Development instance and more free training on:
   - [https://developer.servicenow.com/](https://developer.servicenow.com/)
 - Online community forums
   - [https://community.servicenow.com/](https://community.servicenow.com/)

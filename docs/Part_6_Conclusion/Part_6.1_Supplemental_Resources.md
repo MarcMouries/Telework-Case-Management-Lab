@@ -24,35 +24,29 @@ In addition to this Lab Guide and the resources discussed in the live workshop, 
 
 Summary of features we went through in this lab.
 
-1. The sample data spreadsheet contains users that exist in Personal Developer Instances
-  1. The _open by_ is set to users who have a manager.
-  2. The _assigned to_ is set to users who
-2. Create App
-3. Create Data Model
-  1. Table created from a spreadsheet
-  2. Table extending Task with reference to another table
-  3. Change the layout of the form
-  4. Add and remove fields
-  5. Add related task
-4. Create Case Worker Experience
-  1. Create Workspace
-  2. Bulk Task assignment
-  3. Use the Analytics Center to ask question about the data
-  4. Use of Impersonation for testing purposes
-  5. Configure Workspace with UI Builder
+1. Create an App
+2. Create Data Model
+   1. Create a Table from a spreadsheet
+   2. Create a Table by extending the Task table
+   3. Add a field that references data from another table
+   4. Create a choice field
+   3. Change the layout of the form
+   4. Add and remove fields
+   5. Add related task
+3. Create Case Worker Experience
+   1. Create Workspace
+   2. Bulk Task assignment
+   3. Use the Analytics Center to ask question about the data
+   4. Use of Impersonation for testing purposes
+   5. Configure Workspace with the Workspace Builder
 5. Create the User Experience
-  1. Expose a form to users via the Service Portal
+   1. Expose a form to users via the Service Portal
+   2. Set field visibility conditionned upon the value of another field
 6. Automate the work
-  1. Create a Flow
-    1. Create Tasks for several departments
-    2. Send an email
-  2. Test the flow
-    1. Use impersonation
-    2. Check for approval
-    3. Check for email sent
-
-### Org Chart of users in Personal Developer Instances
-
-Use this chart to select different users for testing purposes.
-
-![Shape5](RackMultipart20221028-1-d1lmac_html_8559be6d2908e863.gif)
+   1. Create a Flow
+        1. Create Tasks for several departments
+        2. Send an email
+   2. Test the flow
+        1. Use impersonation
+        2. Check for approval
+        3. Check for email sent
