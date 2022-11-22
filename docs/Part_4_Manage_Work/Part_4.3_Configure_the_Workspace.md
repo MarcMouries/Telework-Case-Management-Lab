@@ -31,35 +31,33 @@ A lot has been pre-configured for us. We'll make a couple changes to improve it.
 
     ![relative](workspace/Edit_Visualization_Critical_Tasks.png)
 
+6. (1) Type "Telework", (2) <kbd>⏎ Enter</kbd>, (3) Click the Telework table, (4) Click **Add custom conditions**
+
+    ![relative](workspace/edit_data_source.png)
+
+7. Set the Condition to **Priority = Critical**
+    1. Set the condition
+    2. Click Run
+    3. Click Apply
+
+    ![relative](workspace/apply_data_source_filter_condition_Critical.png)
+
+8. Click **Save**
+
+    ![relative](workspace/Click_Save.png)
 
 
 
---
---
---
+The business users want to be able to quickly see cases by priority.
+
+1. Click on **Add new element** in top right of screen
+
+    ![relative](workspace/Click_on_Add_new_element.png)
 
 
-Let's use the Analytics Center to configure a new Dashboard for our needs.
+2. Find **Data visualization** in the list and select it
 
-1. In Analytics Center, click on **Dashboards** , then choose the dashboard created for your workspace
-
-    ![relative](Analytics_Center/In_Analytics_Center_Click_Dashboards.png)
-
-2. Once the dashboard opens, click Edit in the top right of the screen
-
-    ![relative](images/When_Dashboard_opens_Click_Edit.png)
-
-    The screen should look similar to below
-
-    ![relative](images/Screen_should_look_like_below.png)
-
-#TODO
-
-3. Click on **Add new element** in top right of screen
- ![](RackMultipart20221028-1-d1lmac_html_dbf37376499b10de.png)
-
-
-4. Find **Data visualization** in the list and select it
+    ![relative](workspace/Click_on_Add_new_element.png)
 
 ![](RackMultipart20221028-1-d1lmac_html_f58161d1b5d9aee6.png)
 
