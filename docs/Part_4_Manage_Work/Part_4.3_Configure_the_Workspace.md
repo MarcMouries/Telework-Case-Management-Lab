@@ -48,22 +48,23 @@ A lot has been pre-configured for us. We'll make a couple changes to improve it.
 
 
 
-The business users want to be able to quickly see cases by priority.
+Now, let's help the business users visualize quickly cases by priority.
 
-1. Click on **Add new element** in top right of screen
+1. Add a new Data Visualization. At the top, (1) Click on **Add new element**, (2) select **Data visualization** 
 
-    ![relative](workspace/Click_on_Add_new_element.png)
+    ![relative](workspace/Add_new_Visualization.png)
+
+2. Scroll down, the component has been added at the bottom of the page
+
+3. Drag and drop the new data component from the bottom of the dashboard to right above the My Work section and size it to expand across the screen
+
+    ![relative](workspace/move_new_data_visualization.gif)
 
 
-2. Find **Data visualization** in the list and select it
+4. On the new component, click the configure icon
 
-    ![relative](workspace/Click_on_Add_new_element.png)
+    ![relative](workspace/Click_Component_Configure.png)
 
-![](RackMultipart20221028-1-d1lmac_html_f58161d1b5d9aee6.png)
-
-1. Drag and drop the new data component from the bottom of the dashboard to right above the My Work section and size it to expand across the screen
- ![](RackMultipart20221028-1-d1lmac_html_7aa98cf4aed1ec34.png)
-2. On the new component, click the ![](RackMultipart20221028-1-d1lmac_html_171eaa728617e887.png) . This will bring up the Configuration window on the right
 
 
 3. In the configuration side panel, find **Visualization Type** , then select "Vertical bar"
