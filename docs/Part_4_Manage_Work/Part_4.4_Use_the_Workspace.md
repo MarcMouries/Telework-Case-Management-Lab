@@ -84,5 +84,4 @@ As you type in a query, Analytics Q&A suggests recent searches, indicators, tabl
 
 In this exercise, we learned how to use the out-of-the-box capabilities to manage work and quickly find answers to questions about our data.
 
-
-NEXT NEXT NEXT NEXT NEXT NEXT 
+[Next: Conclusion](../Part_6_Conclusion/Part_6_Conclusion.md){: .btn .btn-green-sn }
