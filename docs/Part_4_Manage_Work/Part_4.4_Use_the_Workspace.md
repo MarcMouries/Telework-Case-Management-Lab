@@ -8,18 +8,21 @@ nav_order: 5
 
 
 
-13. Click on **Critical Tasks**
+1. Let's take care of the **Critical Tasks**. Click on the **Critical Tasks** score or the critical bar chart
 
     ![relative](./workspace/Click_on_Critical_Tasks.png)
 
-14. Select all rows, Click **Edit** , Select **Assign to me** , Click **Back**
-    ![relative](./workspace/Select_Assign_to_me.png)
+2. Select all rows, Click **Edit** , Select **Assign to me** , Click **Back**
+    ![relative](./workspace/Assign_to_me.png)
 
-15. You now have 2 tasks assigned to you.
-    ![relative](./workspace/You_now_have_2_tasks_assigned_to_you.png)
+3. Refresh the **My Tasks** score. You now have 2 tasks assigned to you.
 
-16. In the **My Work** list, click on the Refresh icon to see the new tasks
-    ![relative](./workspace/Click_on_the_Refresh_Icon.png)
+    ![relative](./workspace/refresh_my_tasks_score.png)
+
+
+4. In the **My Work** list, click on the **Assigned to** header to refresh the list
+
+    ![relative](./workspace/Click_Assigned_to_to_refresh_the_list.png)
 
 17. **Great!** Now let's see how quick we can handle an emergency ⚠️.
 
@@ -27,20 +30,23 @@ nav_order: 5
 
 ### Bulk Assignment
 
-1. Click the List icon. ![](RackMultipart20221028-1-d1lmac_html_6c132fbd461c859e.png)
+1. Click the List icon.
+
+    ![relative](./workspace/Click_the_List_Icon.png)
 
 
 2. Click on **Open** in the Telework Case section
- ![](RackMultipart20221028-1-d1lmac_html_539b7d7c1e7fe1b1.png)
+
+    ![relative](./workspace/Click_the_List_Icon.png)
 
 
 3. Click the button next to "Luke Wilson" and click "Show Matching"
- ![](RackMultipart20221028-1-d1lmac_html_1a596fd6344994b0.png)
 
+     ![relative](./workspace/Click_the_List_Icon.png)
 
 4. Select all rows, then click **Edit**
- ![](RackMultipart20221028-1-d1lmac_html_23f3824dcc4c7d47.png)
-
+    ![relative](./workspace/Click_the_List_Icon.png)
+    
 
 5. Type "Andrew Och" in the "Assigned to" field, then click his name in the drop down
  ![](RackMultipart20221028-1-d1lmac_html_c2e95b91ee1c336.png)
