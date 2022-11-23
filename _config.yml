@@ -3,7 +3,10 @@ logo: "images/servicenow-logo.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 color_scheme: ServiceNow
-footer_content: October 2022. Marc Mouriès, based on the Tokyo release.
+
+exclude: [Part_5_Bonus]
+
+footer_content: November 2022. Creator Workflow, based on the Tokyo release.
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
