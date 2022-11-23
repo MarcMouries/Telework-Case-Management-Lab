@@ -90,20 +90,26 @@ Now, let's help the business users visualize quickly cases by priority.
     ![relative](workspace/set_Filter_Open_Cases.png)
 
 
+8. In the **Group by** section, 
 
-8. In the **Group by** section, (_see screenshot below_)
+   1. Click the pencil icon next to "Active"
+   2. Set **Priority** for the Group by
+   3. Click Apply
 
-  1. Click the pencil icon next to "Active"
-  2. Click "Active" in the drop-down
-  3. Type "priority" in the search
-  4. Click the word "Priority"
-  5. Click Apply
+    ![relative](workspace/set_Group_by_Priority.png)
 
- ![](RackMultipart20221028-1-d1lmac_html_7fa49a243f63f588.png)
+9. On the top right, Click **Save** hen **Exit Edit Mode** 
 
-1. Click **Save** hen **Exit Edit Mode** on the top right to see your new dashboard!
- ![](RackMultipart20221028-1-d1lmac_html_c83dbcb19db33f5.png)
+    ![relative](workspace/Click_Save_then_Exit_Edit_Mode.png)
 
-**Exercise Recap**
 
-In this exercise, we learned how to create a custom workspace using UI Builder and used the Inline Dashboard Editor to display key performance indicators and organize information in ways that benefit our users.
+### And voilà, your new dashboard!
+
+   ![relative](workspace/final_Workspace.png)
+
+
+## Exercise Recap
+
+In this exercise, we learned how to create a custom workspace and used the the Workspace Builder to display key performance indicators and organize information in ways that benefit our users.
+
+[Next > Use the Workspace](./Part_4.4_Use_the_Workspace.md){: .btn .btn-green-sn }
