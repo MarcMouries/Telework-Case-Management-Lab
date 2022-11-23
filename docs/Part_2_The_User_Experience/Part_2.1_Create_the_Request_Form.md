@@ -177,8 +177,8 @@ This takes us to a selection where we can identify the type of experience we wis
 
         Field Name                     | Field Value
         ------------------------------ | --------------
-        ① Make the question mandatory | True
-        ② Make the question visible   | True
+        ① Make the question mandatory | Yes
+        ② Make the question visible   | Yes
 
         ③ Click on the **Conditions** tab
 
