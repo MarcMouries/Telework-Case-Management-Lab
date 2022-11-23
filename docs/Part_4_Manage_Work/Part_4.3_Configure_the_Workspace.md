@@ -12,11 +12,11 @@ A lot has been pre-configured for us. We'll make a couple changes to improve it.
 
 1. Let's make sure the scores point to the Telework table
 
-2. (1) Click the **Unassigned Tasks** score, (2) Click Configure (3) Click the Task table
+2. **(1)** Click the **Unassigned Tasks** score, **(2)** Click Configure **(3)** Click the Task table
 
     ![relative](workspace/Edit_Visualization_Unassigned.png)
 
-3. (1) Type "Telework", (2) <kbd>⏎ Enter</kbd>, (3) Click the Telework table, (4) Click **Add custom conditions**
+3. **(1)** Type "Telework", **(2)** <kbd>⏎ Enter</kbd>, **(3)** Click the Telework table, **(4)** Click **Add custom conditions**
 
     ![relative](workspace/edit_data_source.png)
 
@@ -27,11 +27,11 @@ A lot has been pre-configured for us. We'll make a couple changes to improve it.
 
     ![relative](workspace/apply_data_source_filter_condition.png)
 
-5. (1) Click the **Critical Tasks** score, (2) Click Configure (3) Click the Task table
+5. **(1)** Click the **Critical Tasks** score, **(2)** Click Configure **(3)** Click the Task table
 
     ![relative](workspace/Edit_Visualization_Critical_Tasks.png)
 
-6. (1) Type "Telework", (2) <kbd>⏎ Enter</kbd>, (3) Click the Telework table, (4) Click **Add custom conditions**
+6. **(1)** Type "Telework", **(2)** <kbd>⏎ Enter</kbd>, **(3)** Click the Telework table, **(4)** Click **Add custom conditions**
 
     ![relative](workspace/edit_data_source.png)
 
@@ -50,7 +50,7 @@ A lot has been pre-configured for us. We'll make a couple changes to improve it.
 
 Now, let's help the business users visualize quickly cases by priority.
 
-1. Add a new Data Visualization. At the top, (1) Click on **Add new element**, (2) select **Data visualization** 
+1. Add a new Data Visualization. At the top, (1) Click on **Add new element**, **(2)** select **Data visualization** 
 
     ![relative](workspace/Add_new_Visualization.png)
 
@@ -65,26 +65,30 @@ Now, let's help the business users visualize quickly cases by priority.
 
     ![relative](workspace/Click_Component_Configure.png)
 
+5. In the configuration panel, **(1)** Click the **Visualization Type** , **(2)** type "vert" **(3)** select "Vertical bar"
 
+    ![relative](workspace/select_Vertical_bar.png)
+ 
+ 6. **(1)** Click on **Header and border** to expand that section, **(2)** type "Cases by Priority" in the **Chart Title** field
 
-3. In the configuration side panel, find **Visualization Type** , then select "Vertical bar"
- ![](RackMultipart20221028-1-d1lmac_html_781cd81ae7739227.png)
+    ![relative](workspace/set_Chart_Title_Cases_by_Priority.png)
+ 
+7. Under Data sources, click **+ Add data source**.
 
+    ![relative](workspace/Click_Add_Datasource.png)
 
-4. Click on **Header and border** to expand that section, then type "Cases by Priority" in the **Chart Title** field
- ![](RackMultipart20221028-1-d1lmac_html_46186d643ea3f822.png)
+8. In the window that opens, choose the Telework Case table as the source. **(1)** Type "Telework", **(2)** <kbd>⏎ Enter</kbd>, **(3)** Click the Telework table, **(4)** Click **Add custom conditions**
 
+    ![relative](workspace/edit_data_source.png)
 
-5. Under Data sources, click **+ Add data source**. In the window that opens, choose the Telework Case table as the source
- ![](RackMultipart20221028-1-d1lmac_html_7da045a3637fba4c.png)
+9. We want to see only the non-closed cases. 
 
+    1. Set the filter like below. Hold the <kbd>⇧ Shift</kbd> key to select multiple values
 
-6. Click **+ Add Custom Condition** and configure the filter like below
- ![](RackMultipart20221028-1-d1lmac_html_3e95e6be255f6478.png)
+    2. Click **Add this source**
 
+    ![relative](workspace/set_Filter_Open_Cases.png)
 
-7. Click Add this source
- ![](RackMultipart20221028-1-d1lmac_html_7eccac64d95d8404.png)
 
 
 8. In the **Group by** section, (_see screenshot below_)
