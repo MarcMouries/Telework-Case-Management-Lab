@@ -238,32 +238,13 @@ We will create the core tables for our application. To create a table in App Eng
 
     ![relative](images/data_Drag_the_Activities_field.png)
 
-55. Add the **Arrangement"** field to the main section of the form.
-
-    ![relative](images/form_add_the_Arrangement_field.png)
-
-55. Add the **Number of Days** field to the main section of the form.
-
-    Your form should look like this:
+55. Your form should look like this:
 
     ![relative](images/data_final_form_layout.png)
 
 56. On the top right, click [Save](#){: .aes_button }
 
     ![relative](images/form_Click_Save.png)
-
-57. Click the **Table** button on the top banner.
-
-    ![relative](images/data_click_table.png)
-
-58. Click the **Preview** button on the top right.
-
-    ![relative](images/data_click_Preview.png)
-
-    When records will be created they will appear here.
-
-    ![relative](images/data_no_records.png)
-
 
 **Exercise Recap**
 
