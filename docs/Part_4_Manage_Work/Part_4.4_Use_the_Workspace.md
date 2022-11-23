@@ -58,30 +58,31 @@ You should see this message:
 
 2. Click the Analytics Center button
 
- ![](RackMultipart20221028-1-d1lmac_html_5a43ff5c1897c89a.png)
+ ![relative](./workspace/Click_Analytics_Center.png)
 
-1. Let's ask some question about our data
+3. Let's ask some question about our data
 
-2. ![Shape2](RackMultipart20221028-1-d1lmac_html_ff39988a991b3b0.gif)Note: As you type in a query, Analytics Q&A suggests recent searches, indicators, tables, and columns that match what you have typed so far. Only the tables and columns to which you have access are shownClick In the box "What do you want to see?" then type the following query:
+   1. Type the following query: _"show me all the telework cases grouped by reason as a bar chart"_
+   2. Click the button Ask
 
- "show me all the telework cases grouped by reason as a bar chart"
+       ![relative](./workspace/ask_question.png)
 
- ![](RackMultipart20221028-1-d1lmac_html_d9a3306233b83d22.png)
+   4. And here is the answer
+
+       ![relative](./workspace/analytics_center_result.png)
+
+    5. **(1)** Replace **bar** by **pie**, **(2)** Click Ask to get a Pie Chart
+
+        ![relative](./workspace/question_as_Pie_chart.png)
 
 
-3. Click the button Ask
+{: .note }
+As you type in a query, Analytics Q&A suggests recent searches, indicators, tables, and columns that match what you have typed so far. Only the tables and columns to which you have access are shown
 
-1. And here is the answer
-
-![](RackMultipart20221028-1-d1lmac_html_1f906e4639fa203f.png)
-
-1. In the query box remove the part "show me all the". It should read as:
- "telework cases grouped by reason as bar chart"
-2. Click the Ask button, and we'll get the same result
-3. Try with "as pie chart"
-4. Try with "as list". (You can ask for a list first, ex: "list of telework cases grouped by reason"
-5. It even understands our own data; Try with "open COVID telework case"
 
 **Exercise Recap**
 
-In this exercise, we learned how to generate a new Workspace and explored the out-of-the-box capabilities.
+In this exercise, we learned how to use the out-of-the-box capabilities to manage work and quickly find answers to questions about our data.
+
+
+NEXT NEXT NEXT NEXT NEXT NEXT 
