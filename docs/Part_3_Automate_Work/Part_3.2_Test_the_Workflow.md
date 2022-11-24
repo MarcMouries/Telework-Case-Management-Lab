@@ -32,12 +32,23 @@ Let's go back to the ServiceNow admin page
 
 3. Let's submit a new application.
 
-    1. First, let's go back to the ServiceNow Portal page. Open a new browser tab and go to https://\<instance\_name\>.service-now.com/**sp**
-    2. Search for Telework
-    3. Open the catalog item
-    4. Complete the form as below and Submit
+4. Go to the tab with ServiceNow Admin Home page
 
-        ![relative](images/catalog_item_form.png)
+    ![relative](../go_to_the_Home_tab.png)
+
+5. and then open the Service Portal
+    1. Click All
+    2. Type **Portal**
+    3. Click on **Service Portal**
+
+    ![relative](../open_portal.png)
+
+6. In the ServiceNow Portal page.
+    1. Search for Telework
+    2. Open the catalog item
+    3. Complete the form as below and Submit
+
+      ![relative](images/catalog_item_form.png)
 
 4. Let's check the execution
 
