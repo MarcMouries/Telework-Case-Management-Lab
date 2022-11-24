@@ -30,10 +30,12 @@ This takes us to a selection where we can identify the type of experience we wis
 
 3. Set the following values (💡 double-click, copy & paste into the form)
 
-    Field Name        | Field Value
-    ------------------| --------------
-    Name              | Apply for Telework
-    Short Description | Use this form to apply for Telework
+    Field Name            | Field Value
+    ----------------------| --------------
+    (1) Name              | Apply for Telework
+    (2) Short Description | Use this form to apply for Telework
+
+    ![relative](./user_form/Set_Record_Producer_Name.png)
 
     {: .note }
     A record producer is a specific type of catalog item that allows end users to create task-based records from the service catalog.
@@ -42,7 +44,7 @@ This takes us to a selection where we can identify the type of experience we wis
 
 5. Click the [Edit record producer](#){: .aes_button } button
 
-6. Click on **Destination** , then type ** Tel**, and select the **Telework Case** table
+6. Click on **Destination** , then type **Tel**, and select the **Telework Case** table
 
     ![relative](./user_form/Click_on_Destination.png)
 
@@ -147,7 +149,7 @@ This takes us to a selection where we can identify the type of experience we wis
          Question subtype             | Single line
 
         ![relative](./user_form/question_Text_Single_line.png)
-    
+
     2. Scroll down to the **Details** section
 
     3. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
@@ -232,19 +234,29 @@ This takes us to a selection where we can identify the type of experience we wis
 
 26. Let's see how users can easily find it on the Service Portal
 
-27. Navigate to https://\<instance\>.service-now.com/**sp** to view the Service Portal
+27. Go to the tab with ServiceNow Admin Home page
 
-28. Search for "Telework"
+    ![relative](./user_form/go_to_the_Home_tab.png)
+
+28. and then open the Service Portal
+    1. Click All
+    2. Type **Portal**
+    3. Click on **Service Portal**
+
+    ![relative](../open_portal.png)
+
+
+28. In the portal, search for "Telework"
 
     ![relative](./user_form/Sp_Search_for_Telework.png)
 
 29. The catalog item is found.
+
 31. Click on the item to apply for Telework
 
     ![relative](./user_form/Click_Apply_for_Telework.png)
 
 32. In the **Details** section, enter the following information: (💡 double-click, copy & paste into the form)
-
 
     Field Name                     | Field Value
     ------------------------------ | --------------
