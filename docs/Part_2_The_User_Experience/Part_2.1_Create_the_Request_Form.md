@@ -12,13 +12,12 @@ nav_order: 2
 ServiceNow offers multiple ways to create a user experience for submitting a form. In this exercise, we will learn one quick way to get users off paper forms and emails.
 
 1. Close the "Now Experience – Telework Request" App Engine Studio tab
- ![](RackMultipart20221028-1-d1lmac_html_6f3fe518bfb2eae2.png)
 
+2. On the application homepage, locate the **Experience** section and click the **⨁ Add icon**
+    ![relative](../Click_Add_Experience.png)
+    This takes us to a selection where we can identify the type of experience we wish to create.
 
-2. On the application homepage, locate the Experience section and click the ⨁ Add icon.
- ![](RackMultipart20221028-1-d1lmac_html_7528b4d3b454d89e.png)
-
-This takes us to a selection where we can identify the type of experience we wish to create.
+    This takes us to a selection where we can identify the type of experience we wish to create.
 
 3. **Select** the **Record Producer** option.
 
